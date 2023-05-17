@@ -719,11 +719,6 @@ http://192.168.31.1:8889/rtp/232.84.3.251:11428
 http://192.168.31.1:8889/rtp/232.84.3.252:11434
 
 
-
-#EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTVCab" tvg-logo="http://vietanhtv.xyz/ic/vtvcab1.png", VTVCab1 HD - Vie Giải Trí
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://vietanhtv.xyz/vieon.php?type=tivi&kenh=vie-giai-tri-hd
-
 #KODIPROP:inputstream.adaptive.license_key=https:///dl.dropboxusercontent.com/s/pt06igh5yqi03e3///   																						 ㅤ
 #EXTINF:-1 tvg-id="kcinehd" group-title="	" tvg-logo="https://i.ibb.co/h8FLFc7/3.webp?88e391e2e1ab45a8730b3eabb4kmPuzDoknHBVplFxoMEAj4o6iMpQfkbbcO8GMkEQfrY=",🐝+ CINE
 #KODIPROP:inputstream.adaptive.license_type=clearkey #EXTVLCOPT:http-user-agent=Edge/107.0.1418.24 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
