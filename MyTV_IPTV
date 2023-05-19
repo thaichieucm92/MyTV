@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml" tvg-shift=0 m3uautoload=1
 #EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://imgur.com/mx0qIP4.png" group-title="VTV" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/210/hd/dvr-${start}-${end}.m3u8",VTV1 HD
-http://192.168.50.1:8889/rtp/232.84.1.117:10254
+http://192.168.31.1:8889/rtp/232.84.1.117:10254
 #EXTINF:-1 tvg-id="vtv2hd" tvg-logo="https://imgur.com/xLNOmki.png" group-title="VTV" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/377/hd/dvr-${start}-${end}.m3u8",VTV2 HD
 http://192.168.31.1:8889/rtp/232.84.2.31:10594
 #EXTINF:-1 tvg-id="vtv3hd" tvg-logo="https://imgur.com/69iCigl.png" group-title="VTV" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/211/hd/dvr-${start}-${end}.m3u8",VTV3 HD
