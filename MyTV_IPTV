@@ -96,7 +96,7 @@ http://vips-livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8
 https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/channel/sctv1/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="sctv2hd"group-title="SCTV" tvg-logo="https://i.ibb.co/cctcsNH/sctv2-hd-BEARTV.png" ,SCTV2
 #EXTVLCOPT:http-user-agent="BearTV"
-https://s8.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s8.edge.cdn.sctvonline.vn/channel/sctv2/index.m3u8|Referer=http://sctvonline.vn/
+https://s6.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s6.edge.cdn.sctvonline.vn/channel/sctv2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="sctv3hd"group-title="SCTV" tvg-logo="https://i.ibb.co/bW9fKGv/sctv3-hd-BEARTV.png" ,SCTV 3 HD - SEE TV
 #EXTVLCOPT:http-user-agent="BearTV"
 https://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/channel/sctv3/index.m3u8|Referer=http://sctvonline.vn/
@@ -114,7 +114,7 @@ https://s11.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn
 https://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s13.edge.cdn.sctvonline.vn/channel/sctv8/s1/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="sctv9hd"group-title="SCTV" tvg-logo="https://i.ibb.co/VLJrprr/sctv9-hd-BEARTV.png" ,SCTV9 HD
 #EXTVLCOPT:http-user-agent="Bear TV"
-https://s6.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s6.edge.cdn.sctvonline.vn/hls/sctv9/index.m3u8|Referer=http://sctvonline.vn/
+https://s6.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s6.edge.cdn.sctvonline.vn/channel/sctv9/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="sctv11hd"group-title="SCTV" tvg-logo="https://i.ibb.co/Jy3cThG/sctv11-hd-BEARTV.png" ,SCTV11 HD
 #EXTVLCOPT:http-user-agent="Bear TV"
 https://s11.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s11.edge.cdn.sctvonline.vn/channel/sctv11/s1/index.m3u8|Referer=http://sctvonline.vn/
@@ -295,7 +295,7 @@ http://192.168.31.1:8889/rtp/232.84.3.193:11080
 http://192.168.31.1:8889/rtp/232.84.1.74:8418
 #EXTINF:29 tvg-id="vtc14hd" tvg-name="VTC14" tvg-logo="https://imgur.com/Kqt7Myy.png" group-title="VTC" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtc14-hd/${start}/${offset}",VTC14 HD
 http://192.168.31.1:8889/rtp/232.84.3.216:11218
-#EXTINF:28 tvg-id="vtc16" tvg-name="VTC16" tvg-logo="https://imgur.com/qqDzwDI.png" group-title="VTC" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtc16-hd/${start}/${offset}",,VTC16 - 3NTV HD
+#EXTINF:28 tvg-id="vtc16" tvg-name="VTC16" tvg-logo="https://imgur.com/qqDzwDI.png" group-title="VTC" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtc16-hd/${start}/${offset}",VTC16 - 3NTV HD
 http://192.168.31.1:8889/rtp/232.84.3.98:11458
 #EXTINF: tvg-id="axnhd" tvg-name="AXN" tvg-logo="https://imgur.com/cjcTQ3f.png" group-title="Kênh quốc tế",AXN HD
 http://192.168.31.1:8889/rtp/232.84.3.121:10660
