@@ -316,6 +316,8 @@ http://192.168.31.1:8889/rtp/232.84.3.114:10516
 http://192.168.31.1:8889/rtp/232.84.1.77:8436
 #EXTINF:-1 tvg-id="musicIn The Box" tvg-logo="https://imgur.com/fBnJAFV.png" group-title="Kênh quốc tế",MUSIC BOX HD
 http://192.168.31.1:8889/rtp/232.84.1.13:8052
+#EXTINF:147 tvg-id="clubbingtvhd"" tvg-name="Clubbing TV" tvg-logo="https://imgur.com/pWWjld2.png" group-title="Kênh quốc tế",Clubbing TV HD
+http://192.168.31.1:8889/rtp/232.84.3.96:11476
 #EXTINF:-1 tvg-id="hits" tvg-logo="https://imgur.com/QsuxlOK.png" group-title="Kênh quốc tế",HITS HD
 http://192.168.31.1:8889/rtp/232.84.3.214:11206
 #EXTINF:46 tvg-id="ngchd" tvg-name="National Geographic HD" tvg-logo="https://imgur.com/zCqOko7.jpg" group-title="Kênh quốc tế",National Geographic HD
@@ -336,6 +338,8 @@ http://192.168.31.1:8889/rtp/232.84.2.131:9582
 http://192.168.31.1:8889/rtp/232.84.1.107:10218
 #EXTINF: tvg-id="tlchd" tvg-name="TLC" tvg-logo="https://imgur.com/PEXGQAG.png" group-title="Kênh quốc tế",TLC HD
 http://192.168.31.1:8889/rtp/232.84.3.156:10708
+#EXTINF: tvg-id="fashionhd" tvg-name="Fashion TV" tvg-logo="https://imgur.com/AVm8t3Z.png" group-title="Kênh quốc tế",Fashion TV HD
+http://192.168.31.1:8889/rtp/232.84.3.149:10522
 #EXTINF: tvg-id="cartoonhd" tvg-name="Cartoon_Network_HD" tvg-logo="https://imgur.com/BfRUAOy.png" group-title="Kênh quốc tế",Cartoon Network HD
 http://192.168.31.1:8889/rtp/232.84.2.144:10684
 #EXTINF:-1 tvg-id="boomerang" tvg-logo="https://imgur.com/KErWSdf.png" group-title="Kênh quốc tế",BOOMERANG HD
@@ -391,19 +395,20 @@ https://code.vthanhtivi.pw/getlink/tv360/135/2.m3u8
 https://code.vthanhtivi.pw/getlink/tv360/135/2.m3u8
 #EXTINF:-1 tvg-id="woman" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/195.png", Woman
 https://code.vthanhtivi.pw/getlink/tv360/163/2.m3u8
-#EXTINF:-1 tvg-id="dmax" group-title="🎬| Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/230.png", DMAX
+#EXTINF:-1 tvg-id="historyhd" group-title="🌿| Khám phá" tvg-logo="https://logo.anttv.xyz/223.png", History HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/cliptv/841/chunklist_b5128000.m3u8
-#KODIPROP:inputstream.adaptive.license_key=https:///dl.dropboxusercontent.com/s/yw940t88a4r2xjv///   																						 ㅤ
-#EXTINF:-1 tvg-id="historyhd" group-title="Kênh quốc tế" tvg-logo="https://i.ibb.co/d2dJNWn/cchistory.webp",History
-#KODIPROP:inputstream.adaptive.license_type=clearkey #EXTVLCOPT:http-user-agent=AppleWebKit/537.36 ( Gecko) Chrome/81.0.4044.138 Safari/537.36
-https:///vstv.broadpeak-aas.com/bpk-tv/prod_history/default/i.mpd?uri=https:///dl.dropboxusercontent.com/s/29h8399q6wuus8z//   																						 ㅤ
-#EXTINF:147 tvg-id="clubbingtvhd"" tvg-name="Clubbing TV" tvg-logo="https://imgur.com/pWWjld2.png" group-title="Kênh quốc tế",Clubbing TV HD
-http://192.168.31.1:8889/rtp/232.84.3.96:11476
-#EXTINF:79 tvg-id="mtvhd" tvg-name="MTV" tvg-logo="https://imgur.com/YXNQJTt.png" group-title="Kênh quốc tế",MTV HD
-http://192.168.31.1:8889/rtp/232.84.2.171:10834
-#EXTINF: tvg-id="fashionhd" tvg-name="Fashion TV" tvg-logo="https://imgur.com/AVm8t3Z.png" group-title="Kênh quốc tế",Fashion TV HD
-http://192.168.31.1:8889/rtp/232.84.3.149:10522
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"FhP2tARlu+kXQPeFcax5+g","kid":"Z2Xqe3zFTByGVR1rNECzmw"},{"kty":"oct","k":"GIBtY0E5EYKF3LcQgYKdGw","kid":"r6nqe3zFTByGVR1rNECzmw"},{"kty":"oct","k":"IS40VfxHMdCc1N+n++oKFg","kid":"vK0urHzFTByGVR1rNECzmw"},{"kty":"oct","k":"/PQx/UZPB3x4ns924oo2MA","kid":"qLouxMvFTByGVR1rNECzmw"}], "type":"temporary"}
+https://sglivecdn.kplus.vn/bpk-tv/prod_history/default/index.mpd?maxrate=3000000
+
+#EXTINF:-1 tvg-id="dmax" group-title="🌿| Khám phá" tvg-logo="https://logo.anttv.xyz/244.png", DMAX
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/cliptv/dmax.php
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dmax.smil/manifest.mpd
+
 #EXTINF: tvg-id="cnn" tvg-name="CNN" tvg-logo="https://imgur.com/l0yCuHf.png" group-title="Kênh quốc tế",CNN HD
 http://192.168.31.1:8889/rtp/232.84.3.153:10690
 #EXTINF: tvg-id="bbcworldnews" tvg-name="BBC World News" tvg-logo="https://imgur.com/GzuP1MN.png" group-title="Kênh quốc tế",BBC World News HD
@@ -506,33 +511,27 @@ http://192.168.31.1:8889/rtp/232.84.2.88:8784
 http://192.168.31.1:8889/rtp/232.84.2.90:8814
 #EXTINF:861 tvg-id="binhthuan" tvg-name="Binh_Thuan" tvg-logo="https://imgur.com/hVOsoFc.png" group-title="Địa phương",BTV - TH Bình Thuận
 http://192.168.31.1:8889/rtp/232.84.2.77:8820
-#EXTINF:-1 tvg-id="haugiang" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/147.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/181/auto/dvr-${start}-${end}.m3u8", HGTV HD - TH Hậu Giang
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/vieon/hau-giang-1/playlist.m3u8
-#EXTINF:-1 tvg-id="camau" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/125.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/123/auto/dvr-${start}-${end}.m3u8", CTV HD - TH Cà Mau
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/vieon/ca-mau-1/playlist.m3u8
 #EXTINF:691 tvg-id="camau" tvg-name="Ca Mau" tvg-logo="https://imgur.com/hcmB29A.png" group-title="Địa phương", CTV - TH Cà Mau
 http://192.168.31.1:8889/rtp/232.84.2.117:8826
 #EXTINF:111 tvg-id="caobang" tvg-name="Cao_Bang" tvg-logo="https://imgur.com/vrpcqu9.png" group-title="Địa phương",CRTV HD - TH Cao Bằng
 http://192.168.31.1:8889/rtp/232.84.3.202:11134
 #EXTINF:651 tvg-id="cantho" tvg-name="Can Tho" tvg-logo="https://imgur.com/3VyHzYS.png" group-title="Địa phương", THTPCT - TH TP Cần Thơ
 http://192.168.31.1:8889/rtp/232.84.2.118:8838
-#EXTINF:431 tvg-id="danang1" tvg-name="Da Nang 1" tvg-logo="https://imgur.com/V3NhGyb.png" group-title="Địa phương",DRTV1 - TH Đà Nẵng 1
+#EXTINF:431 tvg-id="danang1" tvg-name="Da Nang 1" tvg-logo="https://imgur.com/V3NhGyb.png" group-title="Địa phương",ĐRTV1 - TH Đà Nẵng 1
 http://192.168.31.1:8889/rtp/232.84.1.146:8850
-#EXTINF:432 tvg-id="danang2" tvg-name="Da Nang 2" tvg-logo="https://imgur.com/qLxtQIc.png" group-title="Địa phương",DRTV2 - TH Đà Nẵng 2
+#EXTINF:432 tvg-id="danang2" tvg-name="Da Nang 2" tvg-logo="https://imgur.com/qLxtQIc.png" group-title="Địa phương",ĐRTV2 - TH Đà Nẵng 2
 http://192.168.31.1:8889/rtp/232.84.3.122:8856
 #EXTINF:471 tvg-id="daklak" tvg-name="Dak_Lak" tvg-logo="https://imgur.com/pdYTQBn.png" group-title="Địa phương",DRT HD -TH Đắk Lắk
 http://192.168.31.1:8889/rtp/232.84.3.99:11464
 #EXTINF:481 tvg-id="daknong" tvg-name="Dak_Nong" tvg-logo="https://imgur.com/JTPDKYL.png" group-title="Địa phương",PTD - TH Đắk Nông
 http://192.168.31.1:8889/rtp/232.84.3.140:8874
-#EXTINF:271 tvg-id="dienbien" tvg-name="Dien_Bien" tvg-logo="https://imgur.com/jzcwhSN.png" group-title="Địa phương",DTV - TH Điện Biên
+#EXTINF:271 tvg-id="dienbien" tvg-name="Dien_Bien" tvg-logo="https://imgur.com/jzcwhSN.png" group-title="Địa phương",ĐTV - TH Điện Biên
 http://192.168.31.1:8889/rtp/232.84.3.116:8880
-#EXTINF: tvg-id="MyTV_Đồng Nai 1 HD" tvg-name="Dong Nai 1" tvg-logo="https://imgur.com/Ka8qiSB.png" group-title="Địa phương",DNRRTV1 HD - TH Đồng Nai 1
+#EXTINF: tvg-id="MyTV_Đồng Nai 1 HD" tvg-name="Dong Nai 1" tvg-logo="https://imgur.com/Ka8qiSB.png" group-title="Địa phương",ĐNRTV1 HD - TH Đồng Nai 1
 http://192.168.31.1:8889/rtp/232.84.3.112:10762
-#EXTINF:602 tvg-id="MyTV_Đồng Nai 2" tvg-name="Dong Nai 2" tvg-logo="https://imgur.com/06FLyDP.png" group-title="Địa phương",DNRTV2 -TH Đồng Nai 2
+#EXTINF:602 tvg-id="MyTV_Đồng Nai 2" tvg-name="Dong Nai 2" tvg-logo="https://imgur.com/06FLyDP.png" group-title="Địa phương",ĐNRTV2 -TH Đồng Nai 2
 http://192.168.31.1:8889/rtp/232.84.1.153:8892
-#EXTINF:661 tvg-id="dongthap" tvg-name="Dong Thap" tvg-logo="https://imgur.com/ykiiXBV.png" group-title="Địa phương",THDT1 - TH Đồng Tháp 1
+#EXTINF:661 tvg-id="dongthap" tvg-name="Dong Thap" tvg-logo="https://imgur.com/ykiiXBV.png" group-title="Địa phương",THĐT1 - TH Đồng Tháp 1
 http://192.168.31.1:8889/rtp/232.84.1.154:8898
 #EXTINF:811 tvg-id="gialai" tvg-name="Gia_Lai" tvg-logo="https://imgur.com/a0nHDNB.png" group-title="Địa phương",THGL - TH Gia Lai
 http://192.168.31.1:8889/rtp/232.84.3.138:8904
@@ -542,7 +541,7 @@ http://192.168.31.1:8889/rtp/232.84.2.85:8910
 http://192.168.31.1:8889/rtp/232.84.2.82:8916
 #EXTINF:-1 tvg-id="hatinh" tvg-name="Ha Tinh" tvg-logo="https://imgur.com/lAu4A9Q.png" group-title="Địa phương",HTTV HD - TH Hà Tĩnh
 http://192.168.31.1:8889/rtp/232.84.3.134:10768
-#EXTINF:341 tvg-id="haiduong" tvg-name="Hai_Duong" tvg-logo="https://imgur.com/pxxospp.png" group-title="Địa phương",THD HD - TH Hải Dương
+#EXTINF:341 tvg-id="haiduong" tvg-name="Hai_Duong" tvg-logo="https://imgur.com/pxxospp.png" group-title="Địa phương",THD - TH Hải Dương
 http://192.168.31.1:8889/rtp/232.84.3.113:8928
 #EXTINF:-1 tvg-id="haiphong" tvg-name="Hai_Phong" tvg-logo="https://imgur.com/LLJN2sK.png" group-title="Địa phương",THP HD - TH Hải Phòng
 http://192.168.31.1:8889/rtp/232.84.3.142:10780
@@ -632,6 +631,8 @@ http://192.168.31.1:8889/rtp/232.84.3.135:10476
 http://192.168.31.1:8889/rtp/232.84.3.201:11128
 #EXTINF:55 tvg-id="BTV6" tvg-name="BTV6" tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2019-04-08/5412686-binh-thuan-6.png" group-title="Khác",BTV6 - QUÊ HƯƠNG HOME SHOPPING
 http://192.168.31.1:8889/rtp/232.84.2.197:10966
+#EXTINF:79 tvg-id="mtvhd" tvg-name="MTV" tvg-logo="https://imgur.com/YXNQJTt.png" group-title="Kênh quốc tế",MTV HD
+http://192.168.31.1:8889/rtp/232.84.2.171:10834
 #EXTINF:149 tvg-id="diva" tvg-name="Diva" tvg-logo="https://imgur.com/dSGhXG8.png" group-title="Kênh quốc tế",Diva Universal HD
 http://192.168.31.1:8889/rtp/232.84.2.130:9576
 #EXTINF:55 tvg-id="feed" tvg-name="feed" tvg-logo="https://imgur.com/dSGhXG8.png" group-title="Khác",FEED
