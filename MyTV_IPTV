@@ -428,10 +428,9 @@ https://sglivecdn.kplus.vn/bpk-tv/prod_history/default/index.mpd?maxrate=3000000
 
 
 #EXTINF:-1 tvg-id="dmax" group-title="🌿| Khám phá" tvg-logo="https://logo.anttv.xyz/244.png", DMAX
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZuap9oaZehl8KZmqeWlqmnkZxiY15oYp4=&time=1688466524&cliptv&id=dreamworks
+#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZuap9oaZehl8KZmqeWlqmnkZxiY15oYp4=&time=1688466524&cliptv&id=dmax
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dmax.smil/manifest.mpd
 
 #EXTINF: tvg-id="cnn" tvg-name="CNN" tvg-logo="https://imgur.com/l0yCuHf.png" group-title="Kênh quốc tế",CNN HD
