@@ -474,8 +474,8 @@ http://192.168.31.1:8889/rtp/232.84.3.186:11038
 http://192.168.31.1:8889/rtp/232.84.3.189:11056
 #EXTINF: tvg-id="Youman" tvg-logo="https://imgur.com/ElEkRpd.png" group-title="Kênh quốc tế",Youman - Tiếng Trung
 http://192.168.31.1:8889/rtp/232.84.3.187:11044
-#EXTINF:671 tvg-id="angiang" tvg-name="An_Giang_1" tvg-logo="https://imgur.com/dJUJoW0.png" group-title="Địa phương",ATV - TH An Giang
-http://192.168.31.1:8889/rtp/232.84.2.110:8742
+#EXTINF:671 tvg-id="angiang" tvg-name="An_Giang_1" tvg-logo="https://imgur.com/dJUJoW0.png" group-title="Địa phương",ATV HD - TH An Giang
+http://192.168.31.1:8889/rtp/232.84.3.81:11566
 #EXTINF:721 tvg-id="vungtau" tvg-name="Ba_Ria" tvg-logo="https://imgur.com/f3X39ko.png" group-title="Địa phương",BRT - TH Bà Rịa Vũng Tàu
 http://192.168.31.1:8889/rtp/232.84.2.73:8748
 #EXTINF:941 tvg-id="baclieu" tvg-name="Bac_Lieu" tvg-logo="https://imgur.com/5Ct3awi.png" group-title="Địa phương", BLTV - TH Bạc Liêu
