@@ -545,8 +545,8 @@ http://192.168.31.1:8889/rtp/232.84.3.213:11200
 http://192.168.31.1:8889/rtp/232.84.3.110:10786
 #EXTINF:681 tvg-id="Mkiengiang" tvg-name="Kien_Giang" tvg-logo="https://imgur.com/9E61otX.png" group-title="Địa phương",KG1 HD - TH Kiên Giang 1
 http://192.168.31.1:8889/rtp/232.84.3.161:10918
-#EXTINF:821 tvg-id="kontum" tvg-name="Kon_Tum" tvg-logo="https://imgur.com/ozTB3Iw.png" group-title="Địa phương",KRT - TH Kon Tum
-http://192.168.31.1:8889/rtp/232.84.3.115:8970
+#EXTINF:821 tvg-id="kontum" tvg-name="Kon_Tum" tvg-logo="https://imgur.com/ozTB3Iw.png" group-title="Địa phương",KRT HD - TH Kon Tum
+http://192.168.31.1:8889/rtp/232.84.3.80:11572
 #EXTINF:791 tvg-id="khanhhoa" tvg-name="Khanh_Hoa" tvg-logo="https://imgur.com/JcwpCla.png" group-title="Địa phương",KTV - TH Khánh Hoà
 http://192.168.31.1:8889/rtp/232.84.2.99:8958
 #EXTINF:251 tvg-id="laichau" tvg-name="Lai_Chau" tvg-logo="https://imgur.com/ns22TJr.png" group-title="Địa phương",LTV - TH Lai Châu
