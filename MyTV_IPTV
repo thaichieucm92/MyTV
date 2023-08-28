@@ -351,26 +351,42 @@ http://192.168.31.1:8889/rtp/232.84.3.226:11278
 http://192.168.31.1:8889/rtp/232.84.3.225:11272
 #EXTINF:-1 tvg-id="kix" tvg-logo="https://imgur.com/16sbenc.png" group-title="Kênh quốc tế",KIX HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://arcgmoblie.site/fptplay/getchunk.php?url=https://subs-livecdn.fptplay.net/MjM2Mjg5Mzd8a2l4aGRfdmhscy5zbWlsfG90aGVyfDE2OTI1NzEwNzd8MTAzLjk3LjEyNi4xOHw5MDYwMWFhMTg0MGE3NjhlNTdiOWVlYTkyMWMyZWJkZg/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
+https://code.vthanhtivi.pw/getlink/fptplay/kix/chunklist_b5000000.m3u8
+
 #EXTINF:-1 tvg-id="kbsworld" tvg-name="KBS World" tvg-logo="https://imgur.com/HXFXYdZ.png" group-title="Kênh quốc tế",KBS World HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon/kbs-world/playlist.m3u8
 #EXTINF:-1 tvg-id="hgtv" group-title="🎬| Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/234.png", HGTV
 https://code.vthanhtivi.pw/getlink/tv360/99/2.m3u8
 #EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaa/ 
 https://fbvip88.com/cliptvmobile/test.php?id=box-movie-1-hd
 #https://code.vthanhtivi.pw/getlink/cliptv/822/chunklist_b5128000.m3u8
 
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaa/ 
 https://fbvip88.com/cliptvmobile/test.php?id=hollywood-classics-hd
 #https://code.vthanhtivi.pw/getlink/cliptv/825/chunklist_b5128000.m3u8
 
 #EXTINF:-1 tvg-id="inthebox" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/189.png", In The Box
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaa/ 
 https://fbvip88.com/cliptvmobile/test.php?id=in-the-box-channel
 #https://code.vthanhtivi.pw/getlink/cliptv/838/chunklist_b5128000.m3u8
+#EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1 (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZZ1iaJKknMKZmqeWlqqnkZ1jZl5paw==&time=1693205059&tv360&id=159
+http://code.vthanhtivi.pw/getlink/tv360_2/159/manifest.mpd
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZZ1iaJKknMKZmqeWlqqnkZ1jZl5paw==&time=1693205059&tv360&id=160
+http://code.vthanhtivi.pw/getlink/tv360_2/160/manifest.mpd
+#EXTINF:-1 tvg-id="inthebox" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/189.png", In The Box (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZZ1iaJKknMKZmqeWlqqnkZ1jZl5paw==&time=1693205059&tv360&id=235
+http://code.vthanhtivi.pw/getlink/tv360_2/235/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="man" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/191.png", Man
@@ -399,8 +415,6 @@ http://live-vnp.vthanhtivi.pw:18001/HISTORY_HD/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZZtma5mjlsKZmqeWlqqnkZ1jZl5paw==&time=1693048743&vieon&id=dmax
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dmax.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="dmax" group-title="🌿| Khám phá" tvg-logo="https://logo.anttv.xyz/244.png", DMAX
-http://sg.tinchuanchuaanh.com:8080/DMAX/index.m3u8
 #EXTINF:-1  tvg-id="spotv" group-title="Kênh quốc tế" tvg-logo="https://imgur.com/0ogzjZd.png",SPOTV HD
 #http://192.168.31.1:8889/rtp/232.84.3.111:10666
 #EXTINF:-1  tvg-id="spotv2" group-title="Kênh quốc tế" tvg-logo="https://imgur.com/uX1te9H.png",SPOTV2 HD
