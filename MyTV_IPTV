@@ -20,7 +20,8 @@ http://192.168.31.1:8889/rtp/232.84.2.35:10618
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://imgur.com/Dt0FJub.png" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/615/hd/dvr-${start}-${end}.m3u8", VTV5 Tây Nam Bộ
 http://192.168.31.1:8889/rtp/232.84.3.86:11542
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/7.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv5taynguyen_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV5 Tây Nguyên
-http://live.tv360.vn/manifest/VTV5_Tay_Nguyen_HD/playlist_1080p.m3u8
+http://mail.glevn.com:56321/udp/225.1.4.179:30120
+#http://live.tv360.vn/manifest/VTV5_Tay_Nguyen_HD/playlist_1080p.m3u8
 
 #EXTINF:15 tvg-id="htvthethaohd" tvg-name="HTV_The_thao" tvg-logo="http://img.hplus.com.vn/226x127/poster/2018/07/16/546898-111250-HTVTT.png" group-title="HTV" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/18/hd/dvr-${start}-${end}.m3u8",HTV - Thể thao HD
 http://192.168.31.1:8889/rtp/232.84.3.88:11524
@@ -68,8 +69,9 @@ http://192.168.31.1:8889/rtp/232.84.3.160:10912
 http://192.168.31.1:8889/rtp/232.84.2.156:10756
 #EXTINF:-1 tvg-id="anvienhd" tvg-logo="https://imgur.com/q6HBmF5.png" group-title="Địa phương",BTV9 An Viên HD
 http://192.168.31.1:8889/rtp/232.84.3.199:11116
-#EXTINF:35 tvg-id="antvhd" tvg-name="ANTV" tvg-logo="https://imgur.com/kHZtzZw.png" group-title="Khác",An ninh TV
-http://192.168.31.1:8889/rtp/232.84.1.212:9246
+#EXTINF:35 tvg-id="antvhd" tvg-name="ANTV" tvg-logo="https://imgur.com/kHZtzZw.png" group-title="Khác",An ninh TV HD
+http://mail.glevn.com:56321/udp/225.1.4.221:30120
+#http://192.168.31.1:8889/rtp/232.84.1.212:9246
 #EXTINF:92 tvg-id="hitv" tvg-name="HCaTV_HiTV" tvg-logo="https://imgur.com/PLIBb0f.png" group-title="Khác",HCaTV1 HD - HITV
 http://192.168.31.1:8889/rtp/232.84.3.84:11548
 #EXTINF:128 tvg-id="nhandan"" tvg-name="Nhan_dan_HD" tvg-logo="https://imgur.com/To0jQgj.png" group-title="Khác",Nhân dân HD
@@ -86,13 +88,12 @@ http://192.168.31.1:8889/rtp/232.84.1.46:8256
 http://cdn.vovtv.mediatech.vn/vovlive/tv1live.m3u8
 #EXTINF:0 tvg-id="antvhd"group-title="Khác" tvg-logo="https://i.ibb.co/9wxKmLH/ANTV-BEARTV.png",ANTV HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
-#EXTINF:-1 tvg-id="youtv" group-title="Khác" tvg-logo="https://cdn.hqth.me/logo/thumbs/99.png", HCATV2 - YouTV (Viettel)
+#https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
+#EXTINF:-1 tvg-id="youtv" group-title="Khác" tvg-logo="https://cdn.hqth.me/logo/thumbs/99.png", HCATV2 - YouTV
 http://vthanhtivi.pw:5000/youtv/index.m3u8
 #EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/68.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", SCTV6 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://live-zlr1.tv360.vn/manifest/SCTV6_HD/playlist_1080p.m3u8
-
+http://mail.glevn.com:56321/udp/225.1.4.211:30120
 #EXTINF:0 tvg-id="sctv1hd"group-title="SCTV" tvg-logo="https://i.ibb.co/DYVGW60/sctv1-hd-BEARTV.png",SCTV 1 HD - Hài
 #EXTVLCOPT:http-user-agent="Bear TV"
 https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/channel/sctv1/index.m3u8|Referer=http://sctvonline.vn/
@@ -117,9 +118,7 @@ https://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn
 #EXTINF:0 tvg-id="sctv9hd"group-title="SCTV" tvg-logo="https://i.ibb.co/VLJrprr/sctv9-hd-BEARTV.png" ,SCTV9 HD
 #EXTVLCOPT:http-user-agent="Bear TV"
 https://s11.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s11.edge.cdn.sctvonline.vn/channel/sctv9/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:0 tvg-id="sctv9hd"group-title="SCTV" tvg-logo="https://i.ibb.co/VLJrprr/sctv9-hd-BEARTV.png" ,SCTV9 FULLHD
-#EXTVLCOPT:http-user-agent=ExoPlayerLib
-http://live.vthanhtivi.pw/sctv9
+
 #EXTINF:0 tvg-id="sctv11hd"group-title="SCTV" tvg-logo="https://i.ibb.co/Jy3cThG/sctv11-hd-BEARTV.png" ,SCTV11 HD
 #EXTVLCOPT:http-user-agent="Bear TV"
 https://s11.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s11.edge.cdn.sctvonline.vn/channel/sctv11/s1/index.m3u8|Referer=http://sctvonline.vn/
@@ -351,11 +350,9 @@ http://192.168.31.1:8889/rtp/232.84.3.226:11278
 http://192.168.31.1:8889/rtp/232.84.3.225:11272
 #EXTINF:-1 tvg-id="kix" tvg-logo="https://imgur.com/16sbenc.png" group-title="Kênh quốc tế",KIX HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/fptplay/kix/chunklist_b5000000.m3u8
+http://mail.glevn.com:56321/udp/225.1.4.40:30120
+#https://code.vthanhtivi.pw/getlink/fptplay/kix/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="kbsworld" tvg-name="KBS World" tvg-logo="https://imgur.com/HXFXYdZ.png" group-title="Kênh quốc tế",KBS World HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/vieon/kbs-world/playlist.m3u8
 #EXTINF:-1 tvg-id="hgtv" group-title="🎬| Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/234.png", HGTV
 #https://code.vthanhtivi.pw/getlink/tv360/99/2.m3u8
 #EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1 ClipTV
@@ -441,19 +438,23 @@ http://192.168.31.1:8889/rtp/232.84.3.172:10494
 #EXTINF:69 tvg-id="arirang" tvg-name="arirang" tvg-logo="https://imgur.com/E3M02yH.png" group-title="Kênh quốc tế",Arirang
 http://192.168.31.1:8889/rtp/232.84.1.43:8238
 #EXTINF:138 tvg-id="kbsworld" tvg-name="KBS World" tvg-logo="https://imgur.com/HXFXYdZ.png" group-title="Kênh quốc tế",KBS World
-http://192.168.31.1:8889/rtp/232.84.2.136:9612
+http://mail.glevn.com:56321/udp/225.1.4.214:30120
+#http://192.168.31.1:8889/rtp/232.84.2.136:9612
 #EXTINF:-1 tvg-id="TVN" tvg-logo="https://imgur.com/SqvijN5.png" group-title="Kênh quốc tế",YTN
 http://192.168.31.1:8889/rtp/232.84.3.208:11170
 #EXTINF: tvg-id="abcaustralia" tvg-name="Australia_Plus" tvg-logo="https://imgur.com/2vyn97P.png" group-title="Kênh quốc tế",ABC Australia
-http://192.168.31.1:8889/rtp/232.84.3.131:10482
+http://mail.glevn.com:56321/udp/225.1.4.19:30120
+#http://192.168.31.1:8889/rtp/232.84.3.131:10482
 #EXTINF: tvg-id="cnbc" tvg-name="CNBC" tvg-logo="https://imgur.com/Be8Ou1b.png" group-title="Kênh quốc tế",CNBC
 http://192.168.31.1:8889/rtp/232.84.3.179:10488
 #EXTINF:137 tvg-id="france24eng" tvg-name="France24" tvg-logo="https://imgur.com/sTK7s5R.png" group-title="Kênh quốc tế",France 24
-http://192.168.31.1:8889/rtp/232.84.3.145:9606
+http://mail.glevn.com:56321/udp/225.1.4.212:30120
+#http://192.168.31.1:8889/rtp/232.84.3.145:9606
 #EXTINF:137 tvg-id="france24eng" tvg-name="France24" tvg-logo="https://imgur.com/sTK7s5R.png" group-title="Kênh quốc tế",France 24 - Tiếng Pháp
 http://192.168.31.1:8889/rtp/232.84.3.207:11164
 #EXTINF:65 tvg-id="tv5monde_asie" tvg-name="TV5 Monde" tvg-logo="https://imgur.com/BD2PW2Q.png" group-title="Kênh quốc tế",TV5MONDE
-http://192.168.31.1:8889/rtp/232.84.1.45:8250
+http://mail.glevn.com:56321/udp/225.1.4.213:30120
+#http://192.168.31.1:8889/rtp/232.84.1.45:8250
 #EXTINF: tvg-id="rt" tvg-name="RT" tvg-logo="https://imgur.com/NF7tlqG.png" group-title="Kênh quốc tế",RT
 http://192.168.31.1:8889/rtp/232.84.2.125:8538
 #EXTINF: tvg-id="rai" tvg-name="Rai" tvg-logo="https://imgur.com/3jY6dQU.png" group-title="Kênh quốc tế",Rai
@@ -522,7 +523,8 @@ http://192.168.31.1:8889/rtp/232.84.2.90:8814
 http://192.168.31.1:8889/rtp/232.84.2.77:8820
 #EXTINF:-1 tvg-id="camau" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/125.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/123/auto/dvr-${start}-${end}.m3u8", CTV HD - TH Cà Mau
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/vieon/ca-mau-1/playlist.m3u8
+http://mail.glevn.com:56321/udp/225.1.4.117:30120
+#https://code.vthanhtivi.pw/getlink/vieon/ca-mau-1/playlist.m3u8
 #EXTINF:691 tvg-id="camau" tvg-name="Ca Mau" tvg-logo="https://imgur.com/hcmB29A.png" group-title="Địa phương", CTV - TH Cà Mau
 http://192.168.31.1:8889/rtp/232.84.2.117:8826
 #EXTINF:111 tvg-id="caobang" tvg-name="Cao_Bang" tvg-logo="https://imgur.com/vrpcqu9.png" group-title="Địa phương",CRTV HD - TH Cao Bằng
