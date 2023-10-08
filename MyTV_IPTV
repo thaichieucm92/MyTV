@@ -225,6 +225,10 @@ http://vthanhtivi.pw:5000/kcine/index.m3u8
 http://vthanhtivi.pw:5000/klife/index.m3u8
 #EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 - MyK+
 https://asia.vthanhtivi.pw/test/index.m3u8
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2 - MyK+
+https://asia.vthanhtivi.pw/ksport2/index.m3u8
+#EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ KIDS - MyK+
+https://asia.vthanhtivi.pw/kkids/index.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/17.png", ON Sports+
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
