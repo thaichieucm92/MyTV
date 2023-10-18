@@ -84,12 +84,14 @@ http://192.168.31.1:8889/rtp/232.84.3.125:10434
 #EXTINF:90 tvg-id="vovtvhd" tvg-name="VJ" tvg-logo="https://imgur.com/ZQeMkPt.png" group-title="Khác",VOV
 http://192.168.31.1:8889/rtp/232.84.1.46:8256
 #EXTINF:-1 tvg-id="vovtvhd" tvg-logo="https://i.ibb.co/TMVw5Hw/VOV-BEARTV.png" group-title="Khác",VOV TV HD
-http://cdn.vovtv.mediatech.vn/vovlive/tv1live.m3u8
+https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/chunklist.m3u8
 #EXTINF:-1 tvg-id="antvhd"group-title="Khác" tvg-logo="https://i.ibb.co/9wxKmLH/ANTV-BEARTV.png",ANTV HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
-#EXTINF:-1 tvg-id="youtv" group-title="Khác" tvg-logo="https://cdn.hqth.me/logo/thumbs/99.png", HCATV2 - YouTV
-http://vthanhtivi.pw:5000/youtv/index.m3u8
+#EXTINF:-1 tvg-id="youtv" group-title="HCATV" tvg-logo="https://cdnw-img.todayplus.com.vn/thumbs/180-110/public/uploads/2023/08/14/QIKgLX64R.png", HCATV6 - Phim Hay
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://cdnw-liv02.todayplus.com.vn/hdb/smil:phimhay.smil/chunklist_w1619546328_b1596000.m3u8#EXTINF:-1 tvg-id="youtv" group-title="Khác" tvg-logo="https://cdn.hqth.me/logo/thumbs/99.png", HCATV2 - YouTV
+#http://vthanhtivi.pw:5000/youtv/index.m3u8
 #EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/68.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", SCTV6 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://mail.glevn.com:56321/udp/225.1.4.211:30120
