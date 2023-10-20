@@ -162,17 +162,29 @@ https://s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/
 
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/moYwxwf.png",ON Sports HD
 http://192.168.31.1:8889/rtp/232.84.3.242:11374
+#https://code.vthanhtivi.pw/getlink/onlive/onsports/82700.m3u8
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/cFs8OVb.png",ON Sports+ HD
 http://192.168.31.1:8889/rtp/232.84.3.75:11602
+#https://code.vthanhtivi.pw/getlink/onlive/onsportsplus/82699.m3u8
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/WAxiIfP.png",ON Football HD
 http://192.168.31.1:8889/rtp/232.84.3.243:11380
+#https://code.vthanhtivi.pw/getlink/onlive/onfootball/82702.m3u8
+#EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/wpRXpJg.png",ON Sports News HD
+https://code.vthanhtivi.pw/getlink/onlive/onsportsnews/82509.m3u8
+#http://192.168.31.1:8889/rtp/232.84.2.193:10942
 #EXTINF:-1 tvg-id="vtvcab23hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/BGF2I58.png",ON Golf HD
 http://192.168.31.1:8889/rtp/232.84.3.244:11386
+#https://code.vthanhtivi.pw/getlink/onlive/ongolf/82697.m3u8
+https://code.vthanhtivi.pw/getlink/vieon/vtvcab22-life-tv/playlist.m3u8
+#EXTINF:-1 tvg-id="btv5hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/119.png", BTV5 - ON Sports Action
+https://code.vthanhtivi.pw/getlink/onlive/onsportsact/82506.m3u8
+#https://code.vthanhtivi.pw/getlink/onlive/onsportsact/82698.m3u8
+
 #EXTINF:-1 tvg-id="vtvcab23hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/BGF2I58.png",ON Golf HD
-http://192.168.31.1:8889/rtp/232.84.3.91:11506
-#EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/ie6xPgE.png",VTVcab1 HD
+#http://192.168.31.1:8889/rtp/232.84.3.91:11506
+#EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/ie6xPgE.png",VTVcab1 - Vie Giải Trí HD
 http://192.168.31.1:8889/rtp/232.84.3.78:11584
-#EXTINF:-1 tvg-id="vtvcab19hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/emLcVMU.png",VTVcab19 HD
+#EXTINF:-1 tvg-id="vtvcab19hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/emLcVMU.png",VTVcab19 - Vie dramas HD
 http://192.168.31.1:8889/rtp/232.84.3.218:11230
 #EXTINF:-1 tvg-id="vtvcab2hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/MPNlpzb.png",ON Phim Việt HD
 http://192.168.31.1:8889/rtp/232.84.3.77:11590
@@ -180,6 +192,7 @@ http://192.168.31.1:8889/rtp/232.84.3.77:11590
 http://192.168.31.1:8889/rtp/232.84.2.190:10924
 #EXTINF:-1 tvg-id="vtvcab5hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/87JEXEQ.png",ON EChannel HD
 http://192.168.31.1:8889/rtp/232.84.3.76:11596
+#https://code.vthanhtivi.pw/getlink/onlive/echannel/82709.m3u8
 #EXTINF:-1 tvg-id="vtvcab7hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/nqwVkmM.png",ON O2TV HD
 http://192.168.31.1:8889/rtp/232.84.3.74:11608
 #EXTINF:-1 tvg-id="vtvcab8hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/YFmPo7l.png",ON BiBi HD
@@ -200,12 +213,7 @@ http://192.168.31.1:8889/rtp/232.84.3.68:11644
 http://live.tv360.vn/manifest/VTVCab21/playlist_1080p.m3u8
 #EXTINF:-1 tvg-id="vtvcab22hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/30.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtvcab22-life-tv/dvr-${start}-${offset}.m3u8", ON Life
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/vieon/vtvcab22-life-tv/playlist.m3u8
-#EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/wpRXpJg.png",ON Sports News HD
-https://code.vthanhtivi.pw/getlink/onlive/onsportsnews/82509.m3u8
-#http://192.168.31.1:8889/rtp/232.84.2.193:10942
-#EXTINF:-1 tvg-id="btv5hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/119.png", BTV5 - ON Sports Action
-https://code.vthanhtivi.pw/getlink/onlive/onsportsact/82506.m3u8
+
 #https://liveh34.vtvcab.vn/hls/ACTION/01.m3u8
 #EXTINF:-1 tvg-id="vtvcab11_vgs_shop" tvg-name="VTVCab11 - VGS SHOP" tvg-logo="https://www.truyenhinhDRM.vn/hoanghung/30/images/vgs-shop_w600_h600.jpg" group-title="VTVCab",VTVCab11 - VGS SHOP
 http://192.168.31.1:8889/rtp/232.84.1.229:9348
@@ -310,7 +318,7 @@ http://mail.glevn.com:56321/udp/225.1.4.40:30120
 
 #EXTINF:-1 tvg-id="inthebox" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/189.png", In The Box ClipTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#https://fbvip88.com/cliptvmobile/test.php?id=in-the-box-channel
+http://vthanhtivi.pw:5000/itb/mpegts
 
 #https://code.vthanhtivi.pw/getlink/cliptv/838/chunklist_b5128000.m3u8
 #EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1 (MPD)
@@ -349,7 +357,7 @@ http://mail.glevn.com:56321/udp/225.1.4.40:30120
 #https://code.vthanhtivi.pw/getlink/tv360/163/2.m3u8
 
 #EXTINF:-1 tvg-id="historyhd" group-title="🌿| Khám phá" tvg-logo="https://logo.anttv.xyz/223.png", History HD
-http://vthanhtivi.pw:5000/history/index.m3u8
+#http://vthanhtivi.pw:5000/history/index.m3u8
 #EXTINF:-1 tvg-id="dmax" group-title="🎬| Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/230.png", DMAX
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -438,6 +446,10 @@ http://192.168.31.1:8889/rtp/232.84.3.186:11038
 http://192.168.31.1:8889/rtp/232.84.3.189:11056
 #EXTINF: tvg-id="Youman" tvg-logo="https://imgur.com/s4QTys0.png" group-title="Kênh quốc tế",Giang Tô - Tiếng Trung
 http://192.168.31.1:8889/rtp/232.84.3.187:11044
+#EXTINF:-1 tvg-id="Filmy " tvg-logo="https://imgur.com/Cth1UxA.png" group-title="Kênh quốc tế",Filmy 
+http://192.168.31.1:8889/rtp/232.84.3.210:11182
+#EXTINF:-1 tvg-id="Sahara One" tvg-logo="https://imgur.com/rzGsLbk.png" group-title="Kênh quốc tế",Sahara One
+http://192.168.31.1:8889/rtp/232.84.3.209:11176
 #EXTINF:671 tvg-id="angiang" tvg-name="An_Giang_1" tvg-logo="https://imgur.com/dJUJoW0.png" group-title="Địa phương",ATV HD - TH An Giang
 http://192.168.31.1:8889/rtp/232.84.3.81:11566
 #EXTINF:721 tvg-id="vungtau" tvg-name="Ba_Ria" tvg-logo="https://imgur.com/f3X39ko.png" group-title="Địa phương",BRT - TH Bà Rịa Vũng Tàu
@@ -563,7 +575,7 @@ http://192.168.31.1:8889/rtp/232.84.2.100:9090
 #EXTINF: tvg-id="thainguyen" tvg-name="Thai_Nguyen_1" tvg-logo="https://imgur.com/cjbLDud.png" group-title="Địa phương",TN1 HD - TH Thái Nguyên 1
 http://192.168.31.1:8889/rtp/232.84.3.146:10774
 #EXTINF:202 tvg-id="thainguyen2" tvg-name="Thai_Nguyen_2" tvg-logo="https://imgur.com/L25E2kc.png" group-title="Địa phương",Thái Nguyên 2
-http://192.168.31.1:8889/rtp/232.84.3.123:9168
+#http://192.168.31.1:8889/rtp/232.84.3.123:9168
 #EXTINF:361 tvg-id="thanhhoa" tvg-name="Thanh_Hoa" tvg-logo="https://imgur.com/WQ5fAeY.png" group-title="Địa phương",TTV HD - TH Thanh Hoá
 http://192.168.31.1:8889/rtp/232.84.3.198:11110
 #EXTINF:751 tvg-id="hue" tvg-name="Thua_Thien_Hue" tvg-logo="https://imgur.com/2l76kq2.png" group-title="Địa phương",TRTV - TH Thừa Thiên Huế
@@ -596,10 +608,6 @@ http://192.168.31.1:8889/rtp/232.84.3.128:10624
 http://192.168.31.1:8889/rtp/232.84.1.1:7980
 #EXTINF: tvg-id="ngwhd" tvg-name="NGW_HD" tvg-logo="https://imgur.com/rqrmsZt.png" group-title="Kênh quốc tế",Nat Geo Wild HD
 http://192.168.31.1:8889/rtp/232.84.2.123:8454
-#EXTINF:-1 tvg-id="Filmy " tvg-logo="https://imgur.com/Cth1UxA.png" group-title="Kênh quốc tế",Filmy 
-http://192.168.31.1:8889/rtp/232.84.3.210:11182
-#EXTINF:-1 tvg-id="Sahara One" tvg-logo="https://imgur.com/rzGsLbk.png" group-title="Kênh quốc tế",Sahara One
-http://192.168.31.1:8889/rtp/232.84.3.209:11176
 #EXTINF:55 tvg-id="feed" tvg-name="feed" tvg-logo="https://imgur.com/dSGhXG8.png" group-title="Khác",FEED
 http://192.168.31.1:8889/rtp/232.84.3.1:10278
 #EXTINF:55 tvg-id="mytv" tvg-name="mytv" tvg-logo="https://imgur.com/dSGhXG8.png" group-title="Khác",MyTV
@@ -684,7 +692,8 @@ https://code.antmediatv.xyz/getplay/0d73512c3e5bf31c82df4e789fd41c1477170268e240
 https://code.antmediatv.xyz/getplay/0d73512c3e5bf31c82df4e789fd41c1477170268e240729c3f7cd7d99619349eb3/mytv/105/hd.m3u8
 #EXTINF:-1 tvg-id="man" group-title="In The Box" tvg-logo="https://cdn.antmediatv.xyz/205.png" , Man
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.antmediatv.xyz/getplay/0d73512c3e5bf31c82df4e789fd41c1477170268e240729c3f7cd7d99619349eb3/tv360/237/2.m3u8
+https://code.vthanhtivi.pw/getlink/cliptv/-2vfvMWfzcKwW6NyFfWUZA/1697779434/man/chunklist_b5128000.m3u8
+#https://code.antmediatv.xyz/getplay/0d73512c3e5bf31c82df4e789fd41c1477170268e240729c3f7cd7d99619349eb3/tv360/237/2.m3u8
 #EXTINF:-1 tvg-id="drfithd" group-title="In The Box" tvg-logo="https://cdn.antmediatv.xyz/206.png" , Dr.Fit
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.antmediatv.xyz/getplay/0d73512c3e5bf31c82df4e789fd41c1477170268e240729c3f7cd7d99619349eb3/tv360/162/2.m3u8
@@ -697,3 +706,5 @@ https://code.antmediatv.xyz/getplay/0d73512c3e5bf31c82df4e789fd41c1477170268e240
 #EXTINF:-1 tvg-id="woman" group-title="In The Box" tvg-logo="https://cdn.antmediatv.xyz/209.png" , Woman
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.antmediatv.xyz/getplay/0d73512c3e5bf31c82df4e789fd41c1477170268e240729c3f7cd7d99619349eb3/tv360/163/2.m3u8
+#EXTINF:-1 group-title="🔴| Livestream - ON Live" tvg-logo="https://liveimg.onlive.vn/m/82710?390", [joyfmmhz|Radio/Podcasts] - LIVE • JOYFM
+https://code.vthanhtivi.pw/getlink/onlive/joyfmmhz/82710.m3u8
