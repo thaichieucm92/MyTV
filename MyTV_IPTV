@@ -90,8 +90,9 @@ https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/chunklist.m3u
 #https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
 #EXTINF:-1 tvg-id="youtv" group-title="HCATV" tvg-logo="https://cdnw-img.todayplus.com.vn/thumbs/180-110/public/uploads/2023/08/14/QIKgLX64R.png", HCATV6 - Phim Hay
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://cdnw-liv02.todayplus.com.vn/hdb/smil:phimhay.smil/chunklist_w1619546328_b1596000.m3u8#EXTINF:-1 tvg-id="youtv" group-title="Khác" tvg-logo="https://cdn.hqth.me/logo/thumbs/99.png", HCATV2 - YouTV
-#http://vthanhtivi.pw:5000/youtv/index.m3u8
+https://cdnw-liv02.todayplus.com.vn/hdb/smil:phimhay.smil/chunklist_w1619546328_b1596000.m3u8
+#EXTINF:-1 tvg-id="youtv" group-title="Other" tvg-logo="https://i.imgur.com/jUl8zK4.png",HCATV2 YouTV
+http://mail.glevn.com:56321/udp/225.1.1.207:30120
 #EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/68.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", SCTV6 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://mail.glevn.com:56321/udp/225.1.4.211:30120
@@ -476,7 +477,7 @@ http://192.168.31.1:8889/rtp/232.84.2.90:8814
 http://192.168.31.1:8889/rtp/232.84.2.77:8820
 #EXTINF:-1 tvg-id="camau" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/125.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/123/auto/dvr-${start}-${end}.m3u8", CTV HD - TH Cà Mau
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://mail.glevn.com:56321/udp/225.1.4.117:30120
+http://mail.glevn.com:56321/udp/225.1.1.104:30120
 #https://code.vthanhtivi.pw/getlink/vieon/ca-mau-1/playlist.m3u8
 #EXTINF:691 tvg-id="camau" tvg-name="Ca Mau" tvg-logo="https://imgur.com/hcmB29A.png" group-title="Địa phương", CTV - TH Cà Mau
 http://192.168.31.1:8889/rtp/232.84.2.117:8826
