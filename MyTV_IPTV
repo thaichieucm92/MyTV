@@ -229,7 +229,7 @@ http://192.168.31.1:8889/rtp/232.84.1.81:8460
 http://192.168.31.1:8889/rtp/232.84.2.149:10714
 #EXTINF: tvg-id="vtc5hd" tvg-name="VTC5" tvg-logo="https://imgur.com/sklKiq0.png" group-title="VTC" catchup-days="2" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtc5-hd/${start}/${offset}",VTC5 HD
 http://192.168.31.1:8889/rtp/232.84.3.136:10720
-#EXTINF:23 tvg-id="vtc6hd" tvg-name="VTC6" tvg-logo="https://imgur.com/CXe8DuY.png" group-title="VTC" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc6_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC6
+#EXTINF:23 tvg-id="vtc6hd" tvg-name="VTC6" tvg-logo="https://imgur.com/CXe8DuY.png" group-title="VTC" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc6_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC6 HD
 http://192.168.31.1:8889/rtp/232.84.3.58:11704
 #EXTINF: tvg-id="vtc7hd" tvg-name="VTC7 - Today" tvg-logo="https://imgur.com/iMDjKF9.png" group-title="VTC" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/398/hd/dvr-${start}-${end}.m3u8",VTC7 - Today TV HD
 http://192.168.31.1:8889/rtp/232.84.2.151:10726
