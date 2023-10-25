@@ -22,36 +22,35 @@ http://192.168.31.1:8889/rtp/232.84.3.86:11542
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://imgur.com/kXM1kT6.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv5taynguyen_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV5 Tây Nguyên
 http://192.168.31.1:8889/rtp/232.84.3.66:11656
 
-#EXTINF:15 tvg-id="htvthethaohd" tvg-name="HTV_The_thao" tvg-logo="http://img.hplus.com.vn/226x127/poster/2018/07/16/546898-111250-HTVTT.png" group-title="HTV" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/18/hd/dvr-${start}-${end}.m3u8",HTV - Thể thao HD
-http://192.168.31.1:8889/rtp/232.84.3.88:11524
-#EXTINF:10 tvg-id="htv1" tvg-name="HTV1" tvg-logo="http://img.hplus.com.vn/226x127/poster/2018/07/16/185783-505482-HTV1.png" group-title="HTV" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/7/auto/dvr-${start}-${end}.m3u8",HTV1
-http://192.168.31.1:8889/rtp/232.84.1.35:8184
-#EXTINF:93 tvg-id="htv2hd" tvg-name="HTV2 HD" tvg-logo="http://img.hplus.com.vn/226x127/poster/2018/06/05/904719-HTV2HD.png" catchup="append" catchup-days="6" catchup-source="https://code.vthanhtivi.pw/xemlai/hplus/htv2-hd-2669/${start}/${offset}",HTV2 HD
+#EXTINF:-1 tvg-id="htv1" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/oLm4dbV.png",HTV1 HD
+http://192.168.31.1:8889/rtp/232.84.3.57:11710
+#EXTINF:-1 tvg-id="htv2hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/uSbnTdO.png",HTV2 HD
 http://192.168.31.1:8889/rtp/232.84.2.182:9306
-#EXTINF:87 tvg-id="htv3" tvg-name="HTV3" tvg-logo="http://img.hplus.com.vn/226x127/poster/2018/06/05/750643-HTV3.png" group-title="HTV" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/110/auto/dvr-${start}-${end}.m3u8",HTV3
-http://192.168.31.1:8889/rtp/232.84.1.104:8598
-#EXTINF:14 tvg-id="htvkey" tvg-name="HTV4" tvg-logo="http://img.hplus.com.vn/226x127/poster/2018/08/14/359584-htv-key-web.png" group-title="HTV" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/9/auto/dvr-${start}-${end}.m3u8",HTV KEY
-http://192.168.31.1:8889/rtp/232.84.1.25:8124
-#EXTINF:94 tvg-id="htv7hd" tvg-name="HTV7 HD" tvg-logo="http://img.hplus.com.vn/226x127/poster/2018/07/16/928755-665121-HTV7HD.png" group-title="HTV" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/128/hd/dvr-${start}-${end}.m3u8",HTV7 HD
+#EXTINF:-1 tvg-id="htv3" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/2iE01Ca.png",HTV3 HD
+http://192.168.31.1:8889/rtp/232.84.3.56:11716
+#EXTINF:-1 tvg-id="htvkey" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/wrH7U0X.png",HTV Keys HD
+http://192.168.31.1:8889/rtp/232.84.3.55:11722
+#EXTINF:-1 tvg-id="htv7hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/RSlvzAs.png",HTV7 HD
 http://192.168.31.1:8889/rtp/232.84.1.223:9312
-#EXTINF:95 tvg-id="htv9hd" tvg-name="HTV9" tvg-logo="http://img.hplus.com.vn/226x127/poster/2018/07/16/422430-665121-HTV9HD.png" group-title="HTV" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/190/hd/dvr-${start}-${end}.m3u8",HTV9 HD
+#EXTINF:-1 tvg-id="htv9hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/wdS7Cr9.png",HTV9 HD
 http://192.168.31.1:8889/rtp/232.84.1.224:9318
-#EXTINF:77 tvg-id="htvcphimhd" tvg-name="HTVC - Phim HD" tvg-logo="http://img.hplus.com.vn/460x260/poster/2018/06/05/591916-pHIM.png" group-title="HTVC" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/302/hd/dvr-${start}-${end}.m3u8",HTVC - Phim HD
-http://192.168.31.1:8889/rtp/232.84.2.133:9594
-#EXTINF:74 tvg-id="htvcthuanviethd" tvg-name="HTVC - Thuan Viet HD" tvg-logo="http://img.hplus.com.vn/460x260/poster/2018/06/05/136820-ThuanVietHD1.png" group-title="HTVC" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/300/hd/dvr-${start}-${end}.m3u8",HTVC - Thuần Việt HD
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/z7NOxJ3.png",HTV Thể Thao HD
+http://192.168.31.1:8889/rtp/232.84.3.88:11524
+#EXTINF:-1 tvg-id="htvcthuanviethd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/xmISDWo.png",HTVC Thuần Việt HD
 http://192.168.31.1:8889/rtp/232.84.2.134:9600
-#EXTINF:-1 tvg-id="htvcplushd" group-title="HTVC" tvg-logo="https://i.imgur.com/Tkjs3C5.png",HTVC PLUS HD
+#EXTINF:-1 tvg-id="htvcphimhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/W16kIQP.png",HTVC Phim HD
+http://192.168.31.1:8889/rtp/232.84.2.133:9594
+#EXTINF:-1 tvg-id="htvccanhachd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/de7a3sf.png",HTVC Ca Nhạc HD
+http://192.168.31.1:8889/rtp/232.84.3.54:11728
+#EXTINF:-1 tvg-id="htvcdulichhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/XxIO0E0.png",HTVC Du Lịch và Cuộc Sống HD
+http://192.168.31.1:8889/rtp/232.84.3.53:11734
+#EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/3WanRsM.png",HTVC Gia Đình HD
+http://192.168.31.1:8889/rtp/232.84.3.52:11740
+#EXTINF:-1 tvg-id="htvcphunuhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/MyyovVe.png",HTVC Phụ Nữ HD
+http://192.168.31.1:8889/rtp/232.84.3.51:11746
+#EXTINF:-1 tvg-id="htvcplushd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC+ HD
 http://192.168.31.1:8889/rtp/232.84.3.245:11392
-#EXTINF:74 tvg-id="htvcthuanviet" tvg-name="HTVC - Thuan Viet" tvg-logo="http://img.hplus.com.vn/460x260/poster/2018/06/05/504279-ThuanViet.png" group-title="HTVC",HTVC - Thuần Việt
-http://192.168.31.1:8889/rtp/232.84.1.22:8106
-#EXTINF:107 tvg-id="htvccanhachd" tvg-name="HTVC - Ca Nhac" tvg-logo="http://img.hplus.com.vn/460x260/poster/2018/06/05/564807-canhacHD.png" group-title="HTVC",HTVC - Ca nhạc
-http://192.168.31.1:8889/rtp/232.84.1.126:8730
-#EXTINF:63 tvg-id="htvcdulichhd" tvg-name="HTVC - Du Lich" tvg-logo="http://img.hplus.com.vn/460x260/poster/2018/06/05/305526-dulich.png" group-title="HTVC",HTVC - Du lịch & Cuộc sống
-http://192.168.31.1:8889/rtp/232.84.1.221:9300
-#EXTINF:64 tvg-id="htvcgiadinhhd" tvg-name="HTVC - Gia Dinh" tvg-logo="http://img.hplus.com.vn/728x409/banner/2018/06/05/566530-Gia-Dinh.png" group-title="HTVC",HTVC - Gia đình
-http://192.168.31.1:8889/rtp/232.84.1.170:8994
-#EXTINF:9 tvg-id="htvcphunuhd" tvg-name="HTVC - Phu Nu" tvg-logo="http://img.hplus.com.vn/460x260/poster/2018/06/05/143922-pn.png" group-title="HTVC",HTVC - Phụ nữ
-http://192.168.31.1:8889/rtp/232.84.1.127:8736
+
 #EXTINF:-1 tvg-id="hanoi1" tvg-name="Ha Noi 1" tvg-logo="https://imgur.com/dr2eb5D.png" group-title="Địa phương",Hà Nội 1 HD
 http://192.168.31.1:8889/rtp/232.84.3.143:10738
 #EXTINF:-1 tvg-id="hanoi2" tvg-name="Ha Noi 2" tvg-logo="https://imgur.com/HCkpPFZ.png" group-title="Địa phương",Hà Nội 2 HD
@@ -231,7 +230,7 @@ http://192.168.31.1:8889/rtp/232.84.2.149:10714
 #EXTINF: tvg-id="vtc5hd" tvg-name="VTC5" tvg-logo="https://imgur.com/sklKiq0.png" group-title="VTC" catchup-days="2" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtc5-hd/${start}/${offset}",VTC5 HD
 http://192.168.31.1:8889/rtp/232.84.3.136:10720
 #EXTINF:23 tvg-id="vtc6hd" tvg-name="VTC6" tvg-logo="https://imgur.com/CXe8DuY.png" group-title="VTC" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc6_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC6
-http://192.168.31.1:8889/rtp/232.84.1.58:8328
+http://192.168.31.1:8889/rtp/232.84.3.58:11704
 #EXTINF: tvg-id="vtc7hd" tvg-name="VTC7 - Today" tvg-logo="https://imgur.com/iMDjKF9.png" group-title="VTC" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/398/hd/dvr-${start}-${end}.m3u8",VTC7 - Today TV HD
 http://192.168.31.1:8889/rtp/232.84.2.151:10726
 #EXTINF: tvg-id="vtc8" tvg-name="VTC8" tvg-logo="https://imgur.com/igCqfZh.png" group-title="VTC" catchup="append" catchup-days="0.3" catchup-source="http://vthanh.me/vieon.m3u8?type=dvr&kenh=vtc8&time=${start}&offset=${offset}",VTC8
