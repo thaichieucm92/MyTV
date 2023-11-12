@@ -365,8 +365,10 @@ http://vthanhtivi.pw:5000/itb/mpegts
 #https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dmax.smil/manifest.mpd
 
 #EXTINF:-1  tvg-id="spotv" group-title="Kênh quốc tế" tvg-logo="https://imgur.com/0ogzjZd.png",SPOTV HD
+http://192.168.31.1:8889/rtp/232.84.2.141:10666
 #http://192.168.31.1:8889/rtp/232.84.3.111:10666
 #EXTINF:-1  tvg-id="spotv2" group-title="Kênh quốc tế" tvg-logo="https://imgur.com/uX1te9H.png",SPOTV2 HD
+http://192.168.31.1:8889/rtp/232.84.2.142:10672
 #http://192.168.31.1:8889/rtp/232.84.3.129:10672
 #EXTINF: tvg-id="cnn" tvg-name="CNN" tvg-logo="https://imgur.com/l0yCuHf.png" group-title="Kênh quốc tế",CNN HD
 http://192.168.31.1:8889/rtp/232.84.3.153:10690
