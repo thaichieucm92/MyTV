@@ -169,7 +169,7 @@ https://code.vthanhtivi.pw/getlink/onlive/onsportsplus/playlist.m3u8
 http://192.168.31.1:8889/rtp/232.84.3.243:11380
 #https://code.vthanhtivi.pw/getlink/onlive/onfootball/82702.m3u8
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/wpRXpJg.png",ON Sports News HD
-https://code.vthanhtivi.pw/getlink/onlive/onsportsnews/82509.m3u8
+https://code.vthanhtivi.pw/getlink/onlive/onsportsnews/playlist.m3u8
 #http://192.168.31.1:8889/rtp/232.84.2.193:10942
 #EXTINF:-1 tvg-id="vtvcab23hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/BGF2I58.png",ON Golf HD
 http://192.168.31.1:8889/rtp/232.84.3.244:11386
@@ -213,6 +213,12 @@ https://code.vthanhtivi.pw/getlink/vieon2/vtvcab21-cartoon-kid/playlist.m3u8
 #EXTINF:-1 tvg-id="vtvcab22hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/30.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtvcab22-life-tv/dvr-${start}-${offset}.m3u8", ON Life
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon2/vtvcab22-life-tv/playlist.m3u8
+#EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/cFs8OVb.png",ON Sports+ HD (VieON)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.vthanhtivi.pw/getlink/vieon2/vtvcab6-on-sport-plus/playlist.m3u8
+#EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/wpRXpJg.png",ON Sports News HD (VieON)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.vthanhtivi.pw/getlink/vieon2/vtvcab18-on-sports-news/playlist.m3u8
 
 #https://liveh34.vtvcab.vn/hls/ACTION/01.m3u8
 #EXTINF:-1 tvg-id="vtvcab11_vgs_shop" tvg-name="VTVCab11 - VGS SHOP" tvg-logo="https://www.truyenhinhDRM.vn/hoanghung/30/images/vgs-shop_w600_h600.jpg" group-title="VTVCab",VTVCab11 - VGS SHOP
@@ -699,7 +705,4 @@ https://code.antmediatv.xyz/getplay/0d73512c3e5bf31c82df4e789fd41c1477170268e240
 https://code.antmediatv.xyz/getplay/0d73512c3e5bf31c82df4e789fd41c1477170268e240729c3f7cd7d99619349eb3/tv360/163/2.m3u8
 #EXTINF:-1 group-title="🔴| Livestream - ON Live" tvg-logo="https://liveimg.onlive.vn/m/82710?390", [joyfmmhz|Radio/Podcasts] - LIVE • JOYFM
 https://code.vthanhtivi.pw/getlink/onlive/joyfmmhz/82710.m3u8
-#EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/cFs8OVb.png",ON Sports+ HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/vieon2/vtvcab6-on-sport-plus/playlist.m3u8
 
