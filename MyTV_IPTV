@@ -313,15 +313,15 @@ http://mail.glevn.com:56321/udp/225.1.4.40:30120
 #EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8
-http://stream.vthanhtivi.pw/Box_Movie_1/mpegts
+http://edge.vthanhtivi.pw/Box_Movie_1/mpegts
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8
-http://stream.vthanhtivi.pw/Hollywood_Classics/mpegts
+http://edge.vthanhtivi.pw/Hollywood_Classics/mpegts
 #EXTINF:-1 tvg-id="inthebox" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/189.png", In The Box
-http://stream.vthanhtivi.pw/In_The_Box/mpegts
+http://edge.vthanhtivi.pw/In_The_Box/mpegts
 #EXTINF:-1 tvg-id="boxhits" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hits
-http://stream.vthanhtivi.pw/Box_Hits/mpegts
+http://edge.vthanhtivi.pw/Box_Hits/mpegts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://code.vthanhtivi.pw/getlink/cliptv/Ka1aVGQkpurxKFzwdUOIHQ/1699773855/box-hits/chunklist_b5128000.m3u8
 #EXTINF:-1 tvg-id="man" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/191.png", Man
@@ -348,7 +348,7 @@ https://code.vthanhtivi.pw/getlink/cliptv/NxFnhUUf8QJuUcCodgmrAw/1699773855/man/
 #https://code.vthanhtivi.pw/getlink/tv360/163/2.m3u8
 
 #EXTINF:-1 tvg-id="historyhd" group-title="🌿| Khám phá" tvg-logo="https://logo.anttv.xyz/223.png", History HD
-#http://vthanhtivi.pw:5000/history/index.m3u8
+http://edge.vthanhtivi.pw/history/index.m3u8
 #EXTINF:-1 tvg-id="dmax" group-title="🎬| Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/230.png", DMAX
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -661,48 +661,16 @@ http://192.168.31.1:8889/rtp/232.84.1.97:8556
 http://192.168.31.1:8889/rtp/232.84.1.98:8562
 #EXTINF:-1 tvg-id="ksport2hd" group-title="VIP" tvg-logo="https://imgur.com/aDESrij.png",K+SPORTS 2
 http://192.168.31.1:8889/rtp/232.84.1.131:10368
-
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE - MyK+
-http://vthanhtivi.pw:5000/kcine/index.m3u8
-#EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+ LIFE - MyK+
-http://vthanhtivi.pw:5000/klife/index.m3u8
+http://cdn.vthanhtivi.pw/K_CINE/index.m3u8
+#EXTINF:-1 tvg-id="kaction" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+ ACTION - MyK+
+http://cdn.vthanhtivi.pw/K_ACTION/index.m3u8
 #EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 - MyK+
-https://asia.vthanhtivi.pw/test/index.m3u8
+http://cdn.vthanhtivi.pw/K_SPORT1/index.m3u8
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2 - MyK+
-https://asia.vthanhtivi.pw/ksport2/index.m3u8
+http://cdn.vthanhtivi.pw/K_SPORT2/index.m3u8
 #EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ KIDS - MyK+
-https://asia.vthanhtivi.pw/kkids/index.m3u8
-#EXTINF:-1 tvg-id="boxmovie1" group-title="In The Box" group-logo="https://cdn.antmediatv.xyz/group/InTheBox.png" tvg-logo="https://cdn.antmediatv.xyz/200.png", Box Movie 1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.antmediatv.xyz/getplay/0d73512c3e5bf31c82df4e789fd41c1477170268e240729c3f7cd7d99619349eb3/cliptv/box-movie-1-hd/chunklist_b5128000.m3u8
-#EXTINF:-1 tvg-id="hollywoodclassics" group-title="In The Box" tvg-logo="https://cdn.antmediatv.xyz/201.png", Hollywood Classics
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.antmediatv.xyz/getplay/0d73512c3e5bf31c82df4e789fd41c1477170268e240729c3f7cd7d99619349eb3/cliptv/hollywood-classics-hd/chunklist_b5128000.m3u8
-#EXTINF:-1 tvg-id="musicbox" group-title="In The Box" tvg-logo="https://cdn.antmediatv.xyz/202.png" , Music Box
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.antmediatv.xyz/getplay/0d73512c3e5bf31c82df4e789fd41c1477170268e240729c3f7cd7d99619349eb3/mytv/69/hd.m3u8
-#EXTINF:-1 tvg-id="inthebox" group-title="In The Box" tvg-logo="https://cdn.antmediatv.xyz/203.png", In The Box
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.antmediatv.xyz/getplay/0d73512c3e5bf31c82df4e789fd41c1477170268e240729c3f7cd7d99619349eb3/cliptv/in-the-box-channel/chunklist_b5128000.m3u8
-#EXTINF:-1 tvg-id="boxhits" group-title="In The Box" tvg-logo="https://cdn.antmediatv.xyz/204.png", Box Hits
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.antmediatv.xyz/getplay/0d73512c3e5bf31c82df4e789fd41c1477170268e240729c3f7cd7d99619349eb3/mytv/105/hd.m3u8
-#EXTINF:-1 tvg-id="man" group-title="In The Box" tvg-logo="https://cdn.antmediatv.xyz/205.png" , Man
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/cliptv/-2vfvMWfzcKwW6NyFfWUZA/1697779434/man/chunklist_b5128000.m3u8
-#https://code.antmediatv.xyz/getplay/0d73512c3e5bf31c82df4e789fd41c1477170268e240729c3f7cd7d99619349eb3/tv360/237/2.m3u8
-#EXTINF:-1 tvg-id="drfithd" group-title="In The Box" tvg-logo="https://cdn.antmediatv.xyz/206.png" , Dr.Fit
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.antmediatv.xyz/getplay/0d73512c3e5bf31c82df4e789fd41c1477170268e240729c3f7cd7d99619349eb3/tv360/162/2.m3u8
-#EXTINF:-1 tvg-id="happykids" group-title="In The Box" tvg-logo="https://cdn.antmediatv.xyz/207.png" , Happy Kids
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.antmediatv.xyz/getplay/0d73512c3e5bf31c82df4e789fd41c1477170268e240729c3f7cd7d99619349eb3/tv360/212/2.m3u8
-#EXTINF:-1 tvg-id="planetearthhd" group-title="In The Box" tvg-logo="https://cdn.antmediatv.xyz/208.png" , Planet Earth
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.antmediatv.xyz/getplay/0d73512c3e5bf31c82df4e789fd41c1477170268e240729c3f7cd7d99619349eb3/tv360/135/2.m3u8
-#EXTINF:-1 tvg-id="woman" group-title="In The Box" tvg-logo="https://cdn.antmediatv.xyz/209.png" , Woman
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.antmediatv.xyz/getplay/0d73512c3e5bf31c82df4e789fd41c1477170268e240729c3f7cd7d99619349eb3/tv360/163/2.m3u8
+http://cdn.vthanhtivi.pw/K_KIDS/index.m3u8
 #EXTINF:-1 group-title="🔴| Livestream - ON Live" tvg-logo="https://liveimg.onlive.vn/m/82710?390", [joyfmmhz|Radio/Podcasts] - LIVE • JOYFM
 https://code.vthanhtivi.pw/getlink/onlive/joyfmmhz/82710.m3u8
 
