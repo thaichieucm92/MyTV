@@ -119,6 +119,9 @@ https://code.vthanhtivi.pw/getlink/vieon/vtvcab22-life-tv/playlist.m3u8
 https://code.vthanhtivi.pw/getlink/onlive/onsportsact/playlist.m3u8
 #EXTINF: tvg-id="VTVcab 13 - HYUNDAI" tvg-name="VTVCab13_HYUNDAI" tvg-logo="https://imgur.com/HwMUDwy.png" group-title="VTVCab",VTVCab13 - HYUNDAI
 http://192.168.11.1:61292/rtp/232.84.1.142:10386
+#EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://i.ibb.co/rZTRD44/FIM360-BEARTV.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",SCTV6 - Fim 360
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://mail.glevn.com:56321/udp/225.1.4.211:30120
 #EXTINF:-1 tvg-id="sctv1hd"group-title="SCTV" tvg-logo="https://i.ibb.co/DYVGW60/sctv1-hd-BEARTV.png",SCTV 1 HD - Hài
 #EXTVLCOPT:http-user-agent="Bear TV"
 https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/channel/sctv1/index.m3u8|Referer=http://sctvonline.vn/
@@ -255,9 +258,7 @@ https://cdnw-liv02.todayplus.com.vn/hdb/smil:phimhay.smil/chunklist_w1619546328_
 http://mail.glevn.com:56321/udp/225.1.1.207:30120
 #EXTINF:0 tvg-id="hcatv5" group-title="Mua Sắm" tvg-logo="https://i.imgur.com/KKhrAXP.png",HCATV5
 http://192.168.11.1:61292/rtp/232.84.1.229:9348
-#EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/68.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", SCTV6 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://mail.glevn.com:56321/udp/225.1.4.211:30120
+
 #EXTINF: tvg-id="axnhd" tvg-name="AXN" tvg-logo="https://imgur.com/cjcTQ3f.png" group-title="Kênh quốc tế",AXN HD
 http://192.168.11.1:61292/rtp/232.84.3.121:10660
 #EXTINF: tvg-id="hbohd" tvg-name="HBO" tvg-logo="https://imgur.com/9CgO9kY.png" group-title="Kênh quốc tế",HBO HD
