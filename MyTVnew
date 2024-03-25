@@ -42,10 +42,10 @@ http://mail.glevn.com:56321/udp/225.1.2.169:30120
 http://192.168.11.1:61292/rtp/232.84.1.46:8256
 #EXTINF:0 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/moYwxwf.png",ON Sports HD (HD 8.5Mbps)
 http://192.168.11.1:61292/rtp/232.84.3.242:11374
-#EXTINF:0 tvg-id="vtvcab19hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/n7QICK7.png",ON Vie Dramas (HD 8.5Mbps)
-http://192.168.11.1:61292/rtp/232.84.3.218:11230
 #EXTINF:0 tvg-id="vtvcab1hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí (HD 8Mbps)
 http://192.168.11.1:61292/rtp/232.84.3.78:11584
+#EXTINF:0 tvg-id="vtvcab19hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/n7QICK7.png",ON Vie Dramas (HD 8.5Mbps)
+http://192.168.11.1:61292/rtp/232.84.3.218:11230
 #EXTINF:0 tvg-id="vtvcab2hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/MPNlpzb.png",ON Phim Việt (HD 8Mbps)
 http://192.168.11.1:61292/rtp/232.84.3.77:11590
 #EXTINF:0 tvg-id="vtvcab4hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/765Y3jw.png",ON Movies (HD 8.5Mbps)
@@ -252,8 +252,6 @@ http://mail.glevn.com:56321/udp/225.1.1.145:30120
 http://192.168.11.1:61292/rtp/232.84.3.109:10750
 #EXTINF:0 tvg-id="binhduong2" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/LpV0d3Q.png",BTV2 HD _ TH Bình Dương (HD 8Mbps)
 http://mail.glevn.com:56321/udp/225.1.1.149:30120
-#EXTINF:0 tvg-id="binhduong3" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/K6Qs6BO.png",BTV3 HD _ TH Bình Dương (HD 8Mbps)
-http://mail.glevn.com:56321/udp/225.1.2.22:30120
 #EXTINF:0 tvg-id="anvienhd" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/jeunb3Y.png",BTV9 B Channel (HD 8.5Mbps)
 http://192.168.11.1:61292/rtp/232.84.3.199:11116
 #EXTINF:0 tvg-id="binhphuoc1" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/DHWoGfP.png",BPTV1 HD _ TH Bình Phước (HD 8Mbps)
