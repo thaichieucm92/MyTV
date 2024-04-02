@@ -629,3 +629,29 @@ https://ctrl.laotv.la/live/K+Sport1/index.m3u8
 https://ctrl.laotv.la/live/K+Sport2/index.m3u8
 #EXTINF:-1 tvg-id="historyhd" group-title="🌿| Khám phá" tvg-logo="https://cdn.hqth.me/logo/thumbs/209.png", History HD
 http://viettel.nekocdn.xyz/History/index.m3u8
+#EXTINF:-1 tvg-id="dreamworks" group-title="Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/199.png", Dreamworks
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://thetivi.gleeze.com/key/cliptv/dreamwork.php
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dreamwork.smil/manifest.mpd
+#EXTINF:-1 group-title="BOX" tvg-id="boxmovie1" tvg-logo="https://tchiphuong.github.io/iptv/images/nn-box-movie.png",Box Movie 1
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8
+#EXTINF:-1 group-title="BOX" tvg-id="drfithd" tvg-logo="https://tchiphuong.github.io/iptv/images/nn-dr-fit.png",Dr.Fit
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/index.m3u8
+#EXTINF:-1 group-title="BOX" tvg-id="happykids" tvg-logo="https://tchiphuong.github.io/iptv/images/nn-happy-kids.png",Happy KIDS
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8
+#EXTINF:-1 group-title="BOX" tvg-id="hollywoodclassics" tvg-logo="https://tchiphuong.github.io/iptv/images/nn-hollywood-classics.png",Hollywood Classics
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8
+#EXTINF:-1 group-title="BOX" tvg-id="musicbox" tvg-logo="https://tchiphuong.github.io/iptv/images/nn-music-box.png",Music Box
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/index.m3u8
+#EXTINF:-1 group-title="BOX" tvg-id="planetearthhd" tvg-logo="https://tchiphuong.github.io/iptv/images/nn-planet-earth.png",Planet Earth
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8
+#EXTINF:-1 group-title="BOX" tvg-id="woman" tvg-logo="https://tchiphuong.github.io/iptv/images/nn-woman.png",Woman
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e4.endpoint.cdn.sctvonline.vn/hls/woman/index.m3u8
