@@ -36,7 +36,8 @@ http://192.168.11.1:61292/rtp/232.84.3.127:10816
 #EXTINF:0 tvg-id="ttxvnhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/GmefCpv.png",VNEWS (HD 8.5Mbps)
 http://192.168.11.1:61292/rtp/232.84.3.125:10434
 #EXTINF:0 tvg-id="antvhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV HD (HD 8Mbps)
-http://mail.glevn.com:56321/udp/225.1.2.169:30120
+https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
+#http://mail.glevn.com:56321/udp/225.1.2.169:30120
 #http://192.168.11.1:61292/rtp/232.84.1.212:9246
 #EXTINF:0 tvg-id="vovtvhd" group-title="VTC" tvg-logo="https://i.imgur.com/lARtNRO.png",VOV TV
 http://192.168.11.1:61292/rtp/232.84.1.46:8256
@@ -192,12 +193,17 @@ https://s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/
 https://s8.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e7.endpoint.cdn.sctvonline.vn/nginx.s8.edge.cdn.sctvonline.vn/live/smil:SCTV14.smil/chunklist.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv15hd"group-title="SCTV" tvg-logo="https://i.ibb.co/q1PkQkp/sctv15-hd-BEARTV.png" ,SCTV15 HD - SSPORT 2
 #EXTVLCOPT:http-user-agent="Bear TV"
-https://uy7qk2oykpliv.vcdn.cloud/hls/sctv15/index.m3u8
+https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/sctv15/index.m3u8|Referer=http://sctvonline.vn/
+#https://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s13.edge.cdn.sctvonline.vn/hls/sctv15/index.m3u8
+#https://uy7qk2oykpliv.vcdn.cloud/hls/sctv15/index.m3u8
+#https://e1.endpoint.cdn.sctvonline.vn/hls/sctv15/index.m3u8
 #EXTINF:-1 tvg-id="sctv16hd"group-title="SCTV" tvg-logo="https://i.ibb.co/CMr9xN0/sctv16-hd-BEARTV.png" ,SCTV16 HD - Phim Nước Ngoài
 #EXTVLCOPT:http-user-agent="Bear TV"
+https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/hls/sctv16/index.m3u8
 https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/channel/sctv16/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv17hd"group-title="SCTV" tvg-logo="https://i.ibb.co/R48wrKp/sctv17-hd-BEARTV.png" ,SCTV17 HD - SSPORT 
 #EXTVLCOPT:http-user-agent="Bear TV"
+https://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s13.edge.cdn.sctvonline.vn/hls/sctv17/index.m3u8
 https://s8.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e7.endpoint.cdn.sctvonline.vn/nginx.s8.edge.cdn.sctvonline.vn/live/smil:SCTV17.smil/chunklist.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv18hd"group-title="SCTV" tvg-logo="https://i.ibb.co/72PK5Nr/sctv18-hd-BEARTV.png" ,SCTV18 HD
 #EXTVLCOPT:http-user-agent="Bear TV"
@@ -617,3 +623,9 @@ http://192.168.11.1:61292/rtp/232.84.3.129:10672
 http://192.168.11.1:61292/rtp/232.84.3.48:11764
 #EXTINF:0 tvg-id="" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/EBKmDBi.png",SPOTV2 (DRM)
 http://192.168.11.1:61292/rtp/232.84.1.12:8046
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 
+https://ctrl.laotv.la/live/K+Sport1/index.m3u8
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2 
+https://ctrl.laotv.la/live/K+Sport2/index.m3u8
+#EXTINF:-1 tvg-id="historyhd" group-title="🌿| Khám phá" tvg-logo="https://cdn.hqth.me/logo/thumbs/209.png", History HD
+http://viettel.nekocdn.xyz/History/index.m3u8
