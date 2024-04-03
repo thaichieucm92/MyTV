@@ -207,7 +207,7 @@ https://e1.endpoint.cdn.sctvonline.vn/hls/sctv15/index.m3u8|Referer=http://sctvo
 https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/channel/sctv16/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv17hd"group-title="SCTV" tvg-logo="https://i.ibb.co/R48wrKp/sctv17-hd-BEARTV.png" ,SCTV17 HD - SSPORT 
 #EXTVLCOPT:http-user-agent="Bear TV"
-https://s8.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e7.endpoint.cdn.sctvonline.vn/nginx.s8.edge.cdn.sctvonline.vn/live/smil:SCTV17.smil/chunklist.m3u8|Referer=http://sctvonline.vn/
+https://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s13.edge.cdn.sctvonline.vn/hls/sctv17/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv18hd"group-title="SCTV" tvg-logo="https://i.ibb.co/72PK5Nr/sctv18-hd-BEARTV.png" ,SCTV18 HD
 #EXTVLCOPT:http-user-agent="Bear TV"
 https://s2.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s2.edge.cdn.sctvonline.vn/channel/sctv18/index.m3u8|Referer=http://sctvonline.vn/
