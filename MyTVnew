@@ -44,8 +44,9 @@ https://dethich.pw/vtvcab3/index.m3u8
 https://dethich.pw/vtvcab6/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab16-on-football/${start}/${offset}", ON Football HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://dethich.pw/vtvcab16/index.m3u8
-#https://tth.vn/onfootball
+https://tth.vn/onfootball
+#https://dethich.pw/vtvcab16/index.m3u8
+
 #EXTINF:-1 tvg-id="vtvcab21hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/29.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab21-cartoon-kid/${start}/${offset}", On Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://dethich.pw/vtvcab21/index.m3u8
@@ -639,3 +640,31 @@ http://192.168.11.1:61292/udp/232.84.1.74:8418
 http://192.168.11.1:61292/udp/232.84.3.193:11080
 #EXTINF:0 tvg-id="" group-title="" tvg-logo="",(VTC Infocard)
 http://192.168.11.1:61292/udp/232.84.1.62:8346
+#EXTINF:-1 tvg-id="boxmovie1" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://171.238.181.52:18080/159.m3u8
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics TV360
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://171.238.181.52:18080/160.m3u8
+#EXTINF:-1 tvg-id="inthebox" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/189.png", In The Box
+http://171.238.181.52:18080/235.m3u8
+#EXTINF:-1 tvg-id="boxhits" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hits TV360
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://171.238.181.52:18080/239.m3u8
+#EXTINF:-1 tvg-id="man" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/191.png" catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}", Man
+http://171.238.181.52:18080/237.m3u8
+#EXTINF:-1 tvg-id="musicbox" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/257.png", Music Box TV360
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://171.238.181.52:18080/289.m3u8
+#EXTINF:-1 tvg-id="drfithd" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/192.png", Dr.Fit TV360
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://171.238.181.52:18080/162.m3u8
+#EXTINF:-1 tvg-id="happykids" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/193.png", Happy Kids TV360
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://171.238.181.52:18080/212.m3u8
+#EXTINF:-1 tvg-id="planetearthhd" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/194.png", Planet Earth TV360
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://171.238.181.52:18080/135.m3u8
+#EXTINF:-1 tvg-id="woman" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/195.png", Woman TV360
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://171.238.181.52:18080/163.m3u8
