@@ -356,14 +356,15 @@ http://192.168.11.1:61292/udp/232.84.2.112:8940
 #EXTINF:0 tvg-id="baclieu" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/FoAzh3R.png",BLTV _ TH Bạc Liêu
 http://192.168.11.1:61292/udp/232.84.2.116:8766
 #EXTINF:0 tvg-id="camau" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/cYqXh3i.png",CTV _ TH Cà Mau
-http://192.168.11.1:61292/udp/232.84.2.117:8826
+https://api.wintv.me/360/46/index.m3u8
+#http://192.168.11.1:61292/udp/232.84.2.117:8826
 #EXTINF:0 tvg-id="cantho" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/NyrxzES.png",THTPCT _ TH TP. Cần Thơ
 http://192.168.11.1:61292/udp/232.84.2.118:8838
 #------------------------Quốc Tế------------------------#
 #EXTINF:0 tvg-id="hbohd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO (HD 11Mbps)
 http://192.168.11.1:61292/udp/232.84.3.101:10648
 #EXTINF:0 tvg-id="cinemaxhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/NzROY7r.png",Cinemax (HD 9Mbps)
-http://192.168.11.1:61292/udp/232.84.3.117:10654
+http://103.183.118.124:1234/stream/cinemaxhd/stream.m3u8?u=admin&p=52a7af49ea219368f3912d7f0f622616813b46d32aa4ee8e10eab6f5a04c2a32
 #EXTINF:0 tvg-id="axnhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN (HD 8.5Mbps)
 http://192.168.11.1:61292/udp/232.84.3.121:10660
 #EXTINF:0 tvg-id="warnertvhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV (HD 8Mbps)
@@ -373,44 +374,37 @@ http://192.168.11.1:61292/udp/232.84.1.77:8436
 #EXTINF:0 tvg-id="musicbox" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/DoCK1GY.png",Music Box (HD 8Mbps)
 http://192.168.11.1:61292/udp/232.84.1.13:8052
 #EXTINF:-1 tvg-id="boxmovie1" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1
-#EXTVLCOPT:http-user-agent=VMT
-http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/46.ts
-#https://api.wintv.me/360/159/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
+https://api.wintv.me/360/159/index.m3u8
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics TV360
-#EXTVLCOPT:http-user-agent=VMT
-http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/49.ts
-#https://api.wintv.me/360/160/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
+https://api.wintv.me/360/160/index.m3u8
 #EXTINF:-1 tvg-id="inthebox" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/189.png", In The Box
-https://khanggtivi.xyz/vuminhthanh/vmt2024/inthebox/index.m3u8
+https://api.wintv.me/360/235/index.m3u8
 #EXTINF:-1 tvg-id="boxhits" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hits TV360
-#EXTVLCOPT:http-user-agent=VMT
-https://khanggtivi.xyz/vuminhthanh/vmt2024/boxhits/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
+https://api.wintv.me/360/239/index.m3u8
 #EXTINF:-1 tvg-id="man" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/191.png" catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}", Man
-http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/50.ts
-#https://api.wintv.me/360/237/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
+https://api.wintv.me/360/237/index.m3u8
 #EXTINF:-1 tvg-id="musicbox" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/257.png", Music Box TV360
-#EXTVLCOPT:http-user-agent=VMT
-http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/51.ts
-#https://api.wintv.me/360/289/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
+https://api.wintv.me/360/289/index.m3u8
 #EXTINF:-1 tvg-id="drfithd" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/192.png", Dr.Fit TV360
-#EXTVLCOPT:http-user-agent=VMT
-http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/47.ts
-#https://api.wintv.me/360/162/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
+https://api.wintv.me/360/162/index.m3u8
 #EXTINF:-1 tvg-id="happykids" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/193.png", Happy Kids TV360
-#EXTVLCOPT:http-user-agent=VMT
-http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/48.ts
-#https://api.wintv.me/360/212/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
+https://api.wintv.me/360/212/index.m3u8
 #EXTINF:-1 tvg-id="planetearthhd" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/194.png", Planet Earth TV360
-#EXTVLCOPT:http-user-agent=VMT
-http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/52.ts
-#https://api.wintv.me/360/135/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
+https://api.wintv.me/360/135/index.m3u8
 #EXTINF:-1 tvg-id="woman" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/195.png", Woman TV360
-#EXTVLCOPT:http-user-agent=VMT
-http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/54.ts
-#https://api.wintv.me/360/163/index.m3u8
-#EXTINF:-1 tvg-id="dmax" group-title="Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/230.png", DMAX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://khanggtivi.xyz/vuminhthanh/vmt2024/dmax/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
+https://api.wintv.me/360/163/index.m3u8
+#EXTINF:-1 tvg-id="historyhd" group-title="Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/209.png", History HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
+https://api.wintv.me/360/9856/index.m3u8
 #EXTINF:0 tvg-id="" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/Yhpx1Ve.png",Clubbing TV (HD 8.5Mbps)
 http://192.168.11.1:61292/udp/232.84.3.96:11476
 #EXTINF:0 tvg-id="fashionhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/ALDt1JX.png",Fashion TV (HD 8.5Mbps)
@@ -425,6 +419,8 @@ http://192.168.11.1:61292/udp/232.84.3.139:10702
 http://192.168.11.1:61292/udp/232.84.3.132:10528
 #EXTINF:0 tvg-id="discoveryasiahd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/STCTI1F.png",Discovery Asia (HD 9.5Mbps)
 http://192.168.11.1:61292/udp/232.84.3.219:11236
+#EXTINF:0 tvg-id="dmax" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/vHmt91V.png",Dmax (HD 8.5Mbps)
+http://192.168.11.1:61292/udp/232.84.3.117:10654
 #EXTINF:0 tvg-id="afnhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/KL9oaqc.png",Asian Food Network (HD 6.5Mbps)
 http://192.168.11.1:61292/udp/232.84.2.129:9570
 #EXTINF:0 tvg-id="davinci" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/t9fzARL.png",Da Vinci (HD 7.5Mbps)
@@ -651,35 +647,36 @@ http://192.168.11.1:61292/udp/232.84.1.74:8418
 http://192.168.11.1:61292/udp/232.84.3.193:11080
 #EXTINF:0 tvg-id="" group-title="" tvg-logo="",(VTC Infocard)
 http://192.168.11.1:61292/udp/232.84.1.62:8346
-#EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tth.vn/boxmovie1hd
-#EXTINF:-1 tvg-id="hollywoodclassics" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics TV360
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tth.vn/Hollywood
-#EXTINF:-1 tvg-id="inthebox" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/189.png", In The Box
-https://tth.vn/intheboxhd
-#EXTINF:-1 tvg-id="boxhits" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hits TV360
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tth.vn/boxhits
-#EXTINF:-1 tvg-id="manhd" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/191.png", Man
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tth.vn/manhd
-#EXTINF:-1 tvg-id="musicbox" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/257.png", Music Box TV360
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tth.vn/musicbox
-#EXTINF:-1 tvg-id="drfithd" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/192.png", Dr.Fit TV360
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://oipf0znpmnliv.vcdn.cloud/hls/drfit/index.m3u8
-#EXTINF:-1 tvg-id="happykids" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/193.png", Happy Kids TV360
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://s3.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s3.edge.cdn.sctvonline.vn/hls/happykid/index.m3u8
-#EXTINF:-1 tvg-id="planetearthhd" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/194.png", Planet Earth TV360
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://oipf0znpmnliv.vcdn.cloud/hls/planetearth/index.m3u8
-#EXTINF:-1 tvg-id="woman" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/195.png", Woman TV360
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://oipf0znpmnliv.vcdn.cloud/hls/woman/index.m3u8
+#EXTINF:-1 tvg-id="boxmovie1" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
+https://wintv.fun/360/159/index.m3u8
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics TV360
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
+https://wintv.fun/360/160/index.m3u8
+#EXTINF:-1 tvg-id="inthebox" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/189.png", In The Box
+https://wintv.fun/360/235/index.m3u8
+#EXTINF:-1 tvg-id="boxhits" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hits TV360
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
+https://wintv.fun/360/239/index.m3u8
+#EXTINF:-1 tvg-id="man" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/191.png" catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}", Man
+https://wintv.fun/360/237/index.m3u8
+#EXTINF:-1 tvg-id="musicbox" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/257.png", Music Box TV360
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
+https://wintv.fun/360/289/index.m3u8
+#EXTINF:-1 tvg-id="drfithd" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/192.png", Dr.Fit TV360
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
+https://wintv.fun/360/162/index.m3u8
+#EXTINF:-1 tvg-id="happykids" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/193.png", Happy Kids TV360
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
+https://wintv.fun/360/212/index.m3u8
+#EXTINF:-1 tvg-id="planetearthhd" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/194.png", Planet Earth TV360
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
+https://wintv.fun/360/135/index.m3u8
+#EXTINF:-1 tvg-id="woman" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/195.png", Woman TV360
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
+https://wintv.fun/360/163/index.m3u8
+#EXTINF:-1 tvg-id="historyhd" group-title="Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/209.png", History HD
+https://wintv.fun/360/9856/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",TV360 1
 https://api.wintv.me/360/1/index.m3u8
