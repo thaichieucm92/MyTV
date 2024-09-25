@@ -372,7 +372,7 @@ http://192.168.11.1:61292/udp/232.84.2.118:8838
 #EXTINF:0 tvg-id="hbohd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO (HD 11Mbps)
 http://192.168.11.1:61292/udp/232.84.3.101:10648
 #EXTINF:0 tvg-id="cinemaxhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/NzROY7r.png",Cinemax (HD 9Mbps)
-#http://103.183.118.124:1234/stream/cinemaxhd/stream.m3u8?u=admin&p=52a7af49ea219368f3912d7f0f622616813b46d32aa4ee8e10eab6f5a04c2a32
+http://192.168.11.1:61292/udp/232.84.3.117:10654
 #EXTINF:0 tvg-id="axnhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN (HD 8.5Mbps)
 http://192.168.11.1:61292/udp/232.84.3.121:10660
 #EXTINF:0 tvg-id="warnertvhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV (HD 8Mbps)
@@ -427,7 +427,6 @@ http://192.168.11.1:61292/udp/232.84.3.132:10528
 #EXTINF:0 tvg-id="discoveryasiahd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/STCTI1F.png",Discovery Asia (HD 9.5Mbps)
 http://192.168.11.1:61292/udp/232.84.3.219:11236
 #EXTINF:0 tvg-id="dmax" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/vHmt91V.png",Dmax (HD 8.5Mbps)
-http://192.168.11.1:61292/udp/232.84.3.117:10654
 #EXTINF:0 tvg-id="afnhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/KL9oaqc.png",Asian Food Network (HD 6.5Mbps)
 http://192.168.11.1:61292/udp/232.84.2.129:9570
 #EXTINF:0 tvg-id="davinci" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/t9fzARL.png",Da Vinci (HD 7.5Mbps)
