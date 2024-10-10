@@ -67,7 +67,7 @@ http://192.168.11.1:61292/udp/232.84.3.245:11392
 #------------------------VTVcab------------------------#
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/01/04/1680297664931/fb287ae7a7ad_640_360.png", K+CINE HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://125hvt.khanggtivi.xyz:21585/kcine/index.m3u8
+http://125hvt.khanggtivi.xyz:21585/kcine
 #EXTINF:-1 tvg-id="kactionhd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/01/03/16/1704275031605/a72d5eab8255_640_360.png", K+ACTION HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://509942876.r.vtvcdn.com/K_LIFE_7777/v2_index.m3u8
@@ -85,13 +85,13 @@ https://vnlive.khanggtivi.xyz/live/onfootball/index.m3u8?token=XINDUNGANCAPLINKE
 https://vnlive.khanggtivi.xyz/live/onsportsnews/index.m3u8?token=XINDUNGANCAPLINKEMHUHU
 #EXTINF:-1 tvg-id="vtvcab21hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/29.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab21-cartoon-kid/${start}/${offset}", On Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://thvip.site/360/179/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=179
 #EXTINF:-1 tvg-id="vtvcab22hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/30.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab22-life-tv/${start}/${offset}", On Life
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://thvip.site/360/188/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=188
 #EXTINF:-1 tvg-id="vtvcab23hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/31.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab23-the-thao-golf/${start}/${offset}", ON Golf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://thvip.site/360/169/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=169
 #EXTINF:-1 tvg-id="btv5hd" group-title="VTVcab" tvg-logo="https://imgvlive.vtvcab.vn/720X405/0f3eeb2f-1482-4ea5-a42b-68c22266fd38.jpg?auto=format&fit=max&w=640", BTV5 - ON SPORT ACTION
 https://liveh12.vtvcab.vn/hls/ONBTV5/04.m3u8
 #EXTINF:0 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/moYwxwf.png",ON Sports HD (HD 8.5Mbps)
@@ -154,34 +154,34 @@ http://192.168.11.1:61292/udp/232.84.1.46:8256
 #------------------------SCTV------------------------#
 #EXTINF:-1 tvg-id="sctv1hd"group-title="SCTV" tvg-logo="https://i.ibb.co/DYVGW60/sctv1-hd-BEARTV.png",SCTV 1 HD - Hài
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/channel/sctv1/index.m3u8
+https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/channel/sctv1
 #EXTINF:-1 tvg-id="sctv2hd"group-title="SCTV" tvg-logo="https://i.ibb.co/cctcsNH/sctv2-hd-BEARTV.png" ,SCTV2
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s13.edge.cdn.sctvonline.vn/hls/sctv2/index.m3u8
+https://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s13.edge.cdn.sctvonline.vn/hls/sctv2
 #EXTINF:-1 tvg-id="sctv3hd"group-title="SCTV" tvg-logo="https://i.ibb.co/bW9fKGv/sctv3-hd-BEARTV.png" ,SCTV 3 HD - SEE TV
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/channel/sctv3/index.m3u8
+https://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/channel/sctv3
 #EXTINF:-1 tvg-id="sctv4hd"group-title="SCTV" tvg-logo="https://i.ibb.co/2N5hVDx/sctv4-hd-BEARTV.png" ,SCTV 4 HD - Giải trí tổng hợp
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://s8.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s8.edge.cdn.sctvonline.vn/hls/sctv4/index.m3u8
+https://s8.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s8.edge.cdn.sctvonline.vn/hls/sctv4
 #EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://i.ibb.co/rZTRD44/FIM360-BEARTV.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",SCTV6 - Fim 360
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://s8.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s8.edge.cdn.sctvonline.vn/hls/sctv6/index.m3u8
+https://s8.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s8.edge.cdn.sctvonline.vn/hls/sctv6
 #EXTINF:-1 tvg-id="sctv7hd"group-title="SCTV" tvg-logo="https://i.ibb.co/X8fCcpx/sctv7-hd-BEARTV.png" ,SCTV 7 HD - Sân Khấu
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://s4.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s4.edge.cdn.sctvonline.vn/channel/sctv7/index.m3u8
+https://s4.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s4.edge.cdn.sctvonline.vn/channel/sctv7
 #EXTINF:-1 tvg-id="sctv8hd"group-title="SCTV" tvg-logo="https://i.ibb.co/0tVLK8b/sctv8-BEARTV.png" ,SCTV8-VITV - Kinh Tế Tài Chính
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s13.edge.cdn.sctvonline.vn/channel/sctv8/index.m3u8
+https://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s13.edge.cdn.sctvonline.vn/channel/sctv8
 #EXTINF:-1 tvg-id="sctv9hd"group-title="SCTV" tvg-logo="https://i.ibb.co/VLJrprr/sctv9-hd-BEARTV.png" ,SCTV9 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://s11.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s11.edge.cdn.sctvonline.vn/channel/sctv9/index.m3u8
+https://s11.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s11.edge.cdn.sctvonline.vn/channel/sctv9
 #EXTINF:-1 tvg-id="sctv11hd"group-title="SCTV" tvg-logo="https://i.ibb.co/Jy3cThG/sctv11-hd-BEARTV.png" ,SCTV11 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s13.edge.cdn.sctvonline.vn/channel/sctv11/index.m3u8
+https://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s13.edge.cdn.sctvonline.vn/channel/sctv11
 #EXTINF:-1 tvg-id="sctv12hd"group-title="SCTV" tvg-logo="https://i.ibb.co/nDbnG8h/sctv12-hd-BEARTV.png" ,SCTV 12 HD - Du Lịch
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/channel/sctv12/index.m3u8
+https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/channel/sctv12
 #EXTINF:-1 tvg-id="sctv13hd"group-title="SCTV" tvg-logo="https://i.ibb.co/YXt8w8v/sctv13-hd-BEARTV.png" ,SCTV13 HD - Phụ nữ & Gia đình
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s13.edge.cdn.sctvonline.vn/channel/sctv13/index.m3u8|Referer=https://sctvonline.vn/
@@ -190,32 +190,32 @@ https://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn
 https://s8.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e7.endpoint.cdn.sctvonline.vn/nginx.s8.edge.cdn.sctvonline.vn/live/smil:SCTV14.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="sctv15hd"group-title="SCTV" tvg-logo="https://i.ibb.co/q1PkQkp/sctv15-hd-BEARTV.png" ,SCTV15 HD - SSPORT 2
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/sctv15/index.m3u8
+#https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/sctv15
 https://odcc62j2arliv.vcdn.cloud/livedrm/F15/manifest.mpd
 #EXTINF:-1 tvg-id="sctv16hd"group-title="SCTV" tvg-logo="https://i.ibb.co/CMr9xN0/sctv16-hd-BEARTV.png" ,SCTV16 HD - Phim Nước Ngoài
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/channel/sctv16/index.m3u8
+https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/channel/sctv16
 #EXTINF:-1 tvg-id="sctv17hd"group-title="SCTV" tvg-logo="https://i.ibb.co/R48wrKp/sctv17-hd-BEARTV.png" ,SCTV17 HD - SSPORT 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s13.edge.cdn.sctvonline.vn/hls/sctv17/index.m3u8
+https://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s13.edge.cdn.sctvonline.vn/hls/sctv17
 #EXTINF:-1 tvg-id="sctv18hd"group-title="SCTV" tvg-logo="https://i.ibb.co/72PK5Nr/sctv18-hd-BEARTV.png" ,SCTV18 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://s2.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s2.edge.cdn.sctvonline.vn/channel/sctv18/index.m3u8
+https://s2.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s2.edge.cdn.sctvonline.vn/channel/sctv18
 #EXTINF:-1 tvg-id="sctv19hd"group-title="SCTV" tvg-logo="https://i.ibb.co/gMJ1GRG/sctv19-hd-BEARTV.png" ,SCTV19 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s13.edge.cdn.sctvonline.vn/hls/sctv19/index.m3u8
+https://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s13.edge.cdn.sctvonline.vn/hls/sctv19
 #EXTINF:-1 tvg-id="sctv20hd"group-title="SCTV" tvg-logo="https://i.ibb.co/f9swgvg/sctv20-hd-BEARTV.png" ,SCTV20 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/channel/sctv20/index.m3u8
+https://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/channel/sctv20
 #EXTINF:-1 tvg-id="sctv21hd"group-title="SCTV" tvg-logo="https://i.ibb.co/njnhPPB/sctv21-hd-BEARTV.png" ,SCTV21 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s13.edge.cdn.sctvonline.vn/channel/sctv21/index.m3u8
+https://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s13.edge.cdn.sctvonline.vn/channel/sctv21
 #EXTINF:-1 tvg-id="sctv22hd"group-title="SCTV" tvg-logo="https://i.ibb.co/FVFwKRc/sctv22-hd-BEARTV.png" ,SCTV22 HD - SSPORT1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s13.edge.cdn.sctvonline.vn/channel/sctv22/index.m3u8
+https://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s13.edge.cdn.sctvonline.vn/channel/sctv22
 #EXTINF:-1 tvg-id="sctvhdpth"group-title="SCTV" tvg-logo="https://i.ibb.co/G561126/SCTVTH-BEARTV.png" ,SCTV PHIM TỔNG HỢP 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s13.edge.cdn.sctvonline.vn/channel/sctvphimtonghop/index.m3u8
+https://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s13.edge.cdn.sctvonline.vn/channel/sctvphimtonghop
 #------------------------Other------------------------#
 #EXTINF:0 tvg-id="hitv" group-title="Other" tvg-logo="https://i.imgur.com/78fQx65.png",HCATV1 HiTV HD (HD 8Mbps)
 http://192.168.11.1:61292/udp/232.84.3.84:11548
@@ -365,7 +365,7 @@ http://192.168.11.1:61292/udp/232.84.2.112:8940
 http://192.168.11.1:61292/udp/232.84.2.116:8766
 #EXTINF:0 tvg-id="camau" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/cYqXh3i.png",CTV _ TH Cà Mau
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://thvip.site/360/46/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=46
 #http://192.168.11.1:61292/udp/232.84.2.117:8826
 #EXTINF:0 tvg-id="cantho" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/NyrxzES.png",THTPCT _ TH TP. Cần Thơ
 http://192.168.11.1:61292/udp/232.84.2.118:8838
@@ -384,35 +384,34 @@ http://192.168.11.1:61292/udp/232.84.1.77:8436
 http://192.168.11.1:61292/udp/232.84.1.13:8052
 #EXTINF:-1 tvg-id="boxmovie1" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://thvip.site/360/159/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=159
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://thvip.site/360/160/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=160
 #EXTINF:-1 tvg-id="inthebox" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/189.png", In The Box
-https://thvip.site/360/235/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=235
 #EXTINF:-1 tvg-id="boxhits" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hits TV360
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://thvip.site/360/239/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=239
 #EXTINF:-1 tvg-id="man" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/191.png" catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}", Man
-https://thvip.site/360/237/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=237
 #EXTINF:-1 tvg-id="musicbox" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/257.png", Music Box TV360
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://thvip.site/360/289/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=289
 #EXTINF:-1 tvg-id="drfithd" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/192.png", Dr.Fit
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://thvip.site/360/162/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=162
 #EXTINF:-1 tvg-id="happykids" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/193.png", Happy Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://thvip.site/360/212/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=212
 #EXTINF:-1 tvg-id="planetearthhd" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/194.png", Planet Earth
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://thvip.site/360/135/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=135
 #EXTINF:-1 tvg-id="woman" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/195.png", Woman
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://thvip.site/360/163/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=163
 #EXTINF:-1 tvg-id="historyhd" group-title="Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/209.png", History HD
-https://thvip.site/360/9856/index.m3u8
-
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=9856
 #EXTINF:0 tvg-id="" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/Yhpx1Ve.png",Clubbing TV (HD 8.5Mbps)
 http://192.168.11.1:61292/udp/232.84.3.96:11476
 #EXTINF:0 tvg-id="fashionhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/ALDt1JX.png",Fashion TV (HD 8.5Mbps)
@@ -667,418 +666,418 @@ http://192.168.11.1:61292/udp/232.84.1.62:8346
 
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686793977173/462bf48b67aa_640_360.png", TV360+1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://thvip.site/360/2554/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=2554
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686794009990/d06c292dfa18_640_360.png", TV360+2
 #EXTVLCOPT:http-user-agent=VMT
-https://thvip.site/360/1/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=1
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017385349/790530ec477b_640_360.png", TV360+3
 #EXTVLCOPT:http-user-agent=VMT
-https://thvip.site/360/148/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=148
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/21/13/1679381719416/902f0862cc9b_640_360.png", TV360+4
 #EXTVLCOPT:http-user-agent=VMT
-https://thvip.site/360/2458/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=2458
 #EXTINF:-1 tvg-id="boxmovie1" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://thvip.site/360/159/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=159
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics TV360
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://thvip.site/360/160/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=160
 #EXTINF:-1 tvg-id="inthebox" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/189.png", In The Box
-https://thvip.site/360/235/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=235
 #EXTINF:-1 tvg-id="boxhits" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hits TV360
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://thvip.site/360/239/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=239
 #EXTINF:-1 tvg-id="man" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/191.png" catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}", Man
-https://thvip.site/360/237/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=237
 #EXTINF:-1 tvg-id="musicbox" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/257.png", Music Box TV360
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://thvip.site/360/289/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=289
 #EXTINF:-1 tvg-id="drfithd" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/192.png", Dr.Fit TV360
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://thvip.site/360/162/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=162
 #EXTINF:-1 tvg-id="happykids" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/193.png", Happy Kids TV360
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://thvip.site/360/212/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=212
 #EXTINF:-1 tvg-id="planetearthhd" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/194.png", Planet Earth TV360
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://thvip.site/360/135/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=135
 #EXTINF:-1 tvg-id="woman" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/195.png", Woman TV360
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://thvip.site/360/163/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=163
 #EXTINF:-1 tvg-id="historyhd" group-title="Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/209.png", History HD
-https://thvip.site/360/9856/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=9856
 
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",TV360 1
-https://thvip.site/360/1/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=1
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",VTV1
-https://thvip.site/360/2/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=2
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",VTV2
-https://thvip.site/360/3/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=3
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",VTV3
-https://thvip.site/360/4/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=4
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",VTV7
-https://thvip.site/360/6/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=6
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",VTV9
-https://thvip.site/360/8/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=8
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",HTV4
-https://thvip.site/360/9/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=9
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",GIA ĐÌNH
-https://thvip.site/360/11/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=11
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",PHỤ NỮ
-https://thvip.site/360/12/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=12
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",THUẦN VIỆT
-https://thvip.site/360/13/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=13
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",CA NHẠC
-https://thvip.site/360/14/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=14
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",PHIM
-https://thvip.site/360/15/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=15
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",VTC1
-https://thvip.site/360/16/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=16
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",VTC14
-https://thvip.site/360/17/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=17
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",VTC16
-https://thvip.site/360/18/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=18
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",QPVN
-https://thvip.site/360/19/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=19
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",ANTV
-https://thvip.site/360/20/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=20
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",NHÂN DÂN
-https://thvip.site/360/23/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=23
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",VNEWS
-https://thvip.site/360/24/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=24
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",VĨNH LONG 1
-https://thvip.site/360/25/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=25
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",VĨNH LONG 2
-https://thvip.site/360/26/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=26
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",VTVCAB 13
-https://thvip.site/360/27/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=27
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",HCATV1
-https://thvip.site/360/32/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=32
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",HÀ NỘI 1
-https://thvip.site/360/33/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=33
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",HÀ NỘI 2 HD
-https://thvip.site/360/34/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=34
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",AN GIANG HD
-https://thvip.site/360/35/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=35
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",BẮC GIANG HD
-https://thvip.site/360/36/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=36
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",BẮC CẠN HD
-https://thvip.site/360/37/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=37
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",BẠC LIÊU
-https://thvip.site/360/38/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=38
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",BẮC NINH
-https://thvip.site/360/39/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=39
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",BẾN TRE HD
-https://thvip.site/360/40/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=40
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",BÌNH ĐỊNH
-https://thvip.site/360/41/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=41
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",BÌNH DƯƠNG 1 HD
-https://thvip.site/360/42/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=42
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",BÌNH DƯƠNG 2 HD
-https://thvip.site/360/43/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=43
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",BÌNH PHƯỚC 1 HD
-https://thvip.site/360/44/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=44
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",BÌNH THUẬN
-https://thvip.site/360/45/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=45
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",CÀ MAU HD
-https://thvip.site/360/46/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=46
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",CẦN THƠ
-https://thvip.site/360/47/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=47
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",CAO BẰNG
-https://thvip.site/360/48/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=48
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",ĐÀ NẴNG 1
-https://thvip.site/360/49/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=49
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",ĐĂK NÔNG
-https://thvip.site/360/50/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=50
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",ĐĂK LAWK HD
-https://thvip.site/360/51/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=51
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",ĐIỆN BIÊN
-https://thvip.site/360/52/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=52
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",ĐỒNG NAI 1
-https://thvip.site/360/53/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=53
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",ĐỒNG THÁP 1
-https://thvip.site/360/54/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=54
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",GIA LAI HD
-https://thvip.site/360/55/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=55
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",HÀ GIANG
-https://thvip.site/360/56/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=56
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",HÀ NAM
-https://thvip.site/360/57/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=57
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",HÀ TĨNH
-https://thvip.site/360/58/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=58
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",HẢI DƯƠNG HD
-https://thvip.site/360/59/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=59
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",HẢI PHÒNG HD
-https://thvip.site/360/60/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=60
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",HẬU GIANG
-https://thvip.site/360/61/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=61
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",HÒA BÌNH
-https://thvip.site/360/62/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=62
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",HUẾ HD
-https://thvip.site/360/63/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=63
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",HƯNG YÊN HD
-https://thvip.site/360/64/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=64
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",KHÁNH HÒA HD
-https://thvip.site/360/65/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=65
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",KIÊN GIANG
-https://thvip.site/360/66/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=66
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",KOM TUM
-https://thvip.site/360/67/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=67
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",LAI CHÂU
-https://thvip.site/360/68/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=68
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",LÂM ĐỒNG
-https://thvip.site/360/69/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=69
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",LẠNG SƠN HD
-https://thvip.site/360/70/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=70
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",LÀO CAI
-https://thvip.site/360/71/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=71
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",LONG AN
-https://thvip.site/360/72/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=72
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",NAM ĐỊNH
-https://thvip.site/360/73/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=73
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",NGHỆ AN
-https://thvip.site/360/74/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=74
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",NINH BÌNH
-https://thvip.site/360/75/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=75
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",NINH THUẬN HD
-https://thvip.site/360/76/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=76
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",PHÚ THỌ HD
-https://thvip.site/360/77/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=77
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",PHÚ YÊN
-https://thvip.site/360/78/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=78
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",QUẢNG BÌNH
-https://thvip.site/360/79/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=79
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",QUẢNG NAM
-https://thvip.site/360/80/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=80
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",QUÃNG NGÃI
-https://thvip.site/360/81/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=81
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",QUẢNG NINH 1
-https://thvip.site/360/82/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=82
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",QUẢNG TRỊ
-https://thvip.site/360/83/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=83
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",SÓC TRĂNG
-https://thvip.site/360/84/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=84
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",SƠN LA
-https://thvip.site/360/85/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=85
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",TÂY NINH
-https://thvip.site/360/86/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=86
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",THÁI BÌNH HD
-https://thvip.site/360/87/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=87
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",THÁI NGUYÊN
-https://thvip.site/360/88/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=88
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",THANH HÓA
-https://thvip.site/360/89/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=89
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",TIỀN GIANG
-https://thvip.site/360/90/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=90
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",TRÀ VINH
-https://thvip.site/360/91/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=91
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",TUYÊN QUANG HD
-https://thvip.site/360/92/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=92
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",VĨNH PHÚC HD
-https://thvip.site/360/93/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=93
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",VŨNG TÀU
-https://thvip.site/360/94/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=94
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",YÊN BÁI HD
-https://thvip.site/360/95/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=95
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",FRANCE 24
-https://thvip.site/360/96/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=96
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",VTV CẦN THƠ
-https://thvip.site/360/98/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=98
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",HGTV HD
-https://thvip.site/360/99/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=99
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",NHK WORLD
-https://thvip.site/360/106/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=106
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",VTV4
-https://thvip.site/360/108/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=108
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",VTV5
-https://thvip.site/360/110/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=110
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",ARIRANG
-https://thvip.site/360/111/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=111
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",VTV8
-https://thvip.site/360/115/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=115
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",HTVC+
-https://thvip.site/360/132/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=132
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",DU LỊCH
-https://thvip.site/360/133/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=133
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",PLANET EARTH HD
-https://thvip.site/360/135/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=135
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",TV360 2
-https://thvip.site/360/148/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=148
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",BTV9 HD
-https://thvip.site/360/151/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=151
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",MDP
-https://thvip.site/360/153/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=153
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",VTV5 TNB
-https://thvip.site/360/155/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=155
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",BOX MOVIE 1
-https://thvip.site/360/159/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=159
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",HOWLLYWOOD CLASSIC
-https://thvip.site/360/160/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=160
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",DR.FIT
-https://thvip.site/360/162/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=162
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",WOMAN
-https://thvip.site/360/163/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=163
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",MDP
-https://thvip.site/360/170/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=170
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",MDP
-https://thvip.site/360/173/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=173
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",MDP
-https://thvip.site/360/174/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=174
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",ON|PHIM VIỆT
-https://thvip.site/360/175/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=175
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",ON|CINE
-https://thvip.site/360/176/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=176
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",ON|VIE DRAMAS
-https://thvip.site/360/177/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=177
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",ON|BIBI
-https://thvip.site/360/178/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=178
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",ON|KIDS
-https://thvip.site/360/179/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=179
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",ON|MOVIES
-https://thvip.site/360/181/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=181
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",ON|E CHANNEL
-https://thvip.site/360/182/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=182
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",MDP
-https://thvip.site/360/183/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=183
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",ON|STYLE
-https://thvip.site/360/184/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=184
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",ON|MUSIC
-https://thvip.site/360/185/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=185
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",ON|TRENDINGTV
-https://thvip.site/360/186/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=186
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",ON|VFAMLIY
-https://thvip.site/360/187/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=187
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",ON|LIFE
-https://thvip.site/360/188/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=188
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",ON|INFO
-https://thvip.site/360/189/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=189
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",HTV1
-https://thvip.site/360/190/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=190
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",HTV2
-https://thvip.site/360/191/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=191
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",HTV3
-https://thvip.site/360/192/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=192
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",HTV7 HD
-https://thvip.site/360/193/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=193
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",HTV9 HD
-https://thvip.site/360/194/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=194
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",HTV THỂ THAO HD
-https://thvip.site/360/195/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=195
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",VTC2
-https://thvip.site/360/196/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=196
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",VTC3 HD
-https://thvip.site/360/197/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=197
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",VTC4 HD
-https://thvip.site/360/198/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=198
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",VTC5 HD
-https://thvip.site/360/199/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=199
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",VTC6
-https://thvip.site/360/200/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=200
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",VTC7 HD
-https://thvip.site/360/201/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=201
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",VTC8
-https://thvip.site/360/202/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=202
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",VTC9 HD
-https://thvip.site/360/203/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=203
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",VTC10
-https://thvip.site/360/204/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=204
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",VTC11
-https://thvip.site/360/205/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=205
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",VTV5 TN
-https://thvip.site/360/207/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=207
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",MDP
-https://thvip.site/360/208/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=208
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",MDP
-https://thvip.site/360/209/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=209
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",HAPPY KIDS
-https://thvip.site/360/212/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=212
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",KBS WORLD
-https://thvip.site/360/213/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=213
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",AFN
-https://thvip.site/360/215/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=215
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",OUTDOOR
-https://thvip.site/360/216/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=216
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",VĨNH LONG 3
-https://thvip.site/360/219/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=219
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",VĨNH LONG 4
-https://thvip.site/360/220/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=220
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",MDP
-https://thvip.site/360/228/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=228
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",MDP
-https://thvip.site/360/229/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=229
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",MDP
-https://thvip.site/360/230/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=230
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",MDP
-https://thvip.site/360/231/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=231
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",SCTV6
-https://thvip.site/360/232/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=232
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",IN THE BOX
-https://thvip.site/360/235/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=235
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",MAN
-https://thvip.site/360/237/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=237
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",BOX HITS
-https://thvip.site/360/239/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=239
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",ĐỒNG NAI 2 HD
-https://thvip.site/360/255/index.m3u8
-https://thvip.site/360/256/index.m3u8
-https://thvip.site/360/257/index.m3u8
-https://thvip.site/360/258/index.m3u8
-https://thvip.site/360/259/index.m3u8
-https://thvip.site/360/260/index.m3u8
-https://thvip.site/360/261/index.m3u8
-https://thvip.site/360/262/index.m3u8
-https://thvip.site/360/263/index.m3u8
-https://thvip.site/360/264/index.m3u8
-https://thvip.site/360/265/index.m3u8
-https://thvip.site/360/266/index.m3u8
-https://thvip.site/360/267/index.m3u8
-https://thvip.site/360/268/index.m3u8
-https://thvip.site/360/269/index.m3u8
-https://thvip.site/360/270/index.m3u8
-https://thvip.site/360/271/index.m3u8
-https://thvip.site/360/272/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=255
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=256
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=257
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=258
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=259
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=260
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=261
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=262
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=263
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=264
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=265
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=266
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=267
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=268
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=269
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=270
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=271
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=272
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",MDP WBTV
-https://thvip.site/360/273/index.m3u8
-https://thvip.site/360/274/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=273
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=274
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",MDP CNN
-https://thvip.site/360/275/index.m3u8
-https://thvip.site/360/276/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=275
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=276
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",MDP CN
-https://thvip.site/360/277/index.m3u8
-https://thvip.site/360/278/index.m3u8
-https://thvip.site/360/279/index.m3u8
-https://thvip.site/360/280/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=277
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=278
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=279
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=280
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",MDP AXN
-https://thvip.site/360/281/index.m3u8
-https://thvip.site/360/282/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=281
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=282
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",MDP A+
-https://thvip.site/360/283/index.m3u8
-https://thvip.site/360/284/index.m3u8
-https://thvip.site/360/285/index.m3u8
-https://thvip.site/360/286/index.m3u8
-https://thvip.site/360/287/index.m3u8
-https://thvip.site/360/288/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=283
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=284
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=285
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=286
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=287
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=288
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",MUSIC BOX
-https://thvip.site/360/289/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=289
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",QUỐC HỘI
-https://thvip.site/360/290/index.m3u8
-https://thvip.site/360/291/index.m3u8
-https://thvip.site/360/292/index.m3u8
-https://thvip.site/360/293/index.m3u8
-https://thvip.site/360/294/index.m3u8
-https://thvip.site/360/295/index.m3u8
-https://thvip.site/360/296/index.m3u8
-https://thvip.site/360/297/index.m3u8
-https://thvip.site/360/298/index.m3u8
-https://thvip.site/360/299/index.m3u8
-https://thvip.site/360/300/index.m3u8
-https://thvip.site/360/301/index.m3u8
-https://thvip.site/360/302/index.m3u8
-https://thvip.site/360/303/index.m3u8
-https://thvip.site/360/304/index.m3u8
-https://thvip.site/360/305/index.m3u8
-https://thvip.site/360/306/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=290
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=291
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=292
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=293
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=294
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=295
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=296
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=297
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=298
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=299
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=300
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=301
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=302
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=303
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=304
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=305
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=306
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",MDP
-https://thvip.site/360/307/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=307
 #EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="",MDP
-https://thvip.site/360/308/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=308/index.m3u8
