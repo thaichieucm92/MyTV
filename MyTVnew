@@ -75,16 +75,16 @@ http://125hvt.khanggtivi.xyz:21585/kcine
 https://509942876.r.vtvcdn.com/K_LIFE_7777/v2_index.m3u8
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab3-on-sports/${start}/${offset}", ON Sports HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.3
-https://vnlive.khanggtivi.xyz/live/onsports/index.m3u8?token=XINDUNGANCAPLINKEMHUHU
+https://tth.vn/onsport
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/UNxM1Hs.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ON Sports+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tth.vn/ONSPORT-HD
-#EXTINF:-1 tvg-id="vtvcab16hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab16-on-football/${start}/${offset}", ON Football HD (Dự Phòng)
+https://509942876.r.vtvcdn.com/HAY_TV/v2_index.m3u8
+#EXTINF:-1 tvg-id="vtvcab16hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png" catchup="append" catchup-days="2" codec="system", ON Football HD (Dự Phòng)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://vnlive.khanggtivi.xyz/live/onfootball/index.m3u8?token=XINDUNGANCAPLINKEMHUHU
+http://taixiudianh9999.ddns.net:21585/vtvcab16/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab18-on-sports-news/${start}/${offset}", ON Sports News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://vnlive.khanggtivi.xyz/live/onsportsnews/index.m3u8?token=XINDUNGANCAPLINKEMHUHU
+https://liveh34.vtvcab.vn/hls/THETHAO_TINTUC_HD/04.m3u8
 #EXTINF:-1 tvg-id="vtvcab21hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/29.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab21-cartoon-kid/${start}/${offset}", On Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=179
@@ -315,11 +315,11 @@ http://192.168.11.1:61292/udp/232.84.3.97:11470
 #------------------------Địa Phương (SD)------------------------#
 #EXTINF:0 tvg-id="laocai" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/QAVSUBu.png",THLC _ TH Lào Cai (FPT Play)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live.fptplay53.net/fnxsd1/laocai_hls.smil/playlist.m3u8
+https://live.fptplay53.net/fnxsd1/laocai_hls.smil/chunklist_b2500000.m3u8
 #http://192.168.11.1:61292/udp/232.84.2.93:8718
 #EXTINF:0 tvg-id="dienbien" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/Rky1N5S.png",ĐTV _ TH Điện Biên (FPT Play)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live.fptplay53.net/fnxsd1/dienbien_hls.smil/playlist.m3u8
+https://live.fptplay53.net/fnxsd1/dienbien_hls.smil/chunklist_b2500000.m3u8
 #http://192.168.11.1:61292/udp/232.84.3.116:8880
 #EXTINF:0 tvg-id="laichau" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/we3GCjr.png",LTV _ TH Lai Châu (TV360)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -329,7 +329,7 @@ http://hoatv001.ddns.net:8002/ott/tv360.php?id=68
 http://192.168.11.1:61292/udp/232.84.1.184:9078
 #EXTINF:0 tvg-id="hagiang" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/h7uPIEP.png",HGTV _ TH Hà Giang (FPT Play)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live.fptplay53.net/fnxsd1/hagiang_hls.smil/playlist.m3u8
+https://live.fptplay53.net/fnxsd1/hagiang_hls.smil/chunklist_b2500000.m3u8
 #http://192.168.11.1:61292/udp/232.84.2.85:8910
 #EXTINF:0 tvg-id="tuyenquang" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/6RPgRE7.png",TTV _ TH Tuyên Quang (TV360)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -360,10 +360,10 @@ http://hoatv001.ddns.net:8002/ott/tv360.php?id=79
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=63
 #http://192.168.11.1:61292/udp/232.84.2.106:9120
 #EXTINF:0 tvg-id="danang1" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/6OWQ8lU.png",DaNangTV1 _ TH TP. Đà Nẵng (FPT Play)
-https://live.fptplay53.net/epzsd1/danang1_hls.smil/playlist.m3u8
+https://live.fptplay53.net/epzsd1/danang1_hls.smil/chunklist_b2500000.m3u8
 #http://192.168.11.1:61292/udp/232.84.1.146:8850
 #EXTINF:0 tvg-id="danang2" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/hkzIqEV.png",DaNangTV2 _ TH TP. Đà Nẵng (FPT Play)
-https://live.fptplay53.net/epzsd1/danang2_hls.smil/playlist.m3u8
+https://live.fptplay53.net/epzsd1/danang2_hls.smil/chunklist_b2500000.m3u8
 #http://192.168.11.1:61292/udp/232.84.3.122:8856
 #EXTINF:0 tvg-id="quangnam" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/uWHWxZB.png",QRT _ TH Quảng Nam (TV360)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -386,7 +386,7 @@ http://hoatv001.ddns.net:8002/ott/tv360.php?id=65
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=76
 #http://192.168.11.1:61292/udp/232.84.2.74:9024
 #EXTINF:0 tvg-id="binhthuan" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/Bu1xsiJ.png",BTV _ TH Bình Thuận (FPT Play)
-https://live.fptplay53.net/epzsd1/binhthuan_hls.smil/playlist.m3u8
+https://live.fptplay53.net/epzsd1/binhthuan_hls.smil/chunklist_b2500000.m3u8
 #http://192.168.11.1:61292/udp/232.84.2.77:8820
 #EXTINF:0 tvg-id="gialai" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/csqFzvA.png",THGL _ TH Gia Lai (TV360)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -402,26 +402,28 @@ http://hoatv001.ddns.net:8002/ott/tv360.php?id=69
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=44
 #http://192.168.11.1:61292/udp/232.84.2.90:8814
+#EXTINF:0 tvg-id="binhphuoc2" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/CyhvaPs.png",BPTV2 HD _ TH Bình Phước (FPT Play)
+https://live.fptplay53.net/epzsd1/binhphuoc2_hls.smil/chunklist_b2500000.m3u81/hagiang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="longan" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/jBWD3It.png",LA34 _ TH Long An
 http://192.168.11.1:61292/udp/232.84.1.171:9000
 #EXTINF:0 tvg-id="dongthap" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/UfOw13y.png",THĐT1 _ TH Đồng Tháp (TV360)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=54
 #http://192.168.11.1:61292/udp/232.84.1.154:8898
-#EXTINF:-1 tvg-id="dongthap2" group-title="Địa phương" tvg-logo="http://cdn.hqth.me/logo/thumbs/137.png", THĐT2 - Miền Tây (FPT Play)
+#EXTINF:0 tvg-id="" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/WXebESa.png",THĐT2 Miền Tây (FPT Play)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live.fptplay53.net/epzsd1/dongthaphd_vhls.smil/playlist.m3u8
+https://live.fptplay53.net/epzsd1/dongthaphd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="travinh" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/dHOm6Ll.png",THTV _ TH Trà Vinh (FPT Play)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live.fptplay53.net/epzsd1/travinh_vhls.smil/playlist.m3u8
+https://live.fptplay53.net/epzsd1/travinh_vhls.smil/chunklist_b5000000.m3u8
 #http://192.168.11.1:61292/udp/232.84.2.102:9114
 #EXTINF:0 tvg-id="haugiang" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/a3joZFM.png",HGTV _ TH Hậu Giang (FPT Play)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live.fptplay53.net/epzsd1/haugiang_vhls.smil/playlist.m3u8
+https://live.fptplay53.net/epzsd1/haugiang_vhls.smil/chunklist_b5000000.m3u8
 #http://192.168.11.1:61292/udp/232.84.2.112:8940
 #EXTINF:0 tvg-id="baclieu" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/FoAzh3R.png",BLTV _ TH Bạc Liêu (FPT Play)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live.fptplay53.net/epzsd1/baclieu_hls.smil/playlist.m3u8
+https://live.fptplay53.net/epzsd1/baclieu_hls.smil/chunklist_b2500000.m3u8
 #http://192.168.11.1:61292/udp/232.84.2.116:8766
 #EXTINF:0 tvg-id="camau" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/cYqXh3i.png",CTV _ TH Cà Mau (TV360)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -429,7 +431,7 @@ http://hoatv001.ddns.net:8002/ott/tv360.php?id=46
 #http://192.168.11.1:61292/udp/232.84.2.117:8826
 #EXTINF:0 tvg-id="cantho" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/NyrxzES.png",THTPCT _ TH TP. Cần Thơ (FPT Play)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live.fptplay53.net/epzsd1/cantho_hls.smil/playlist.m3u8
+https://live.fptplay53.net/epzsd1/cantho_hls.smil/chunklist_b2500000.m3u8
 #http://192.168.11.1:61292/udp/232.84.2.118:8838
 #------------------------Quốc Tế------------------------#
 #EXTINF:0 tvg-id="hbohd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO (HD 11Mbps)
@@ -1326,6 +1328,7 @@ http://hoatv001.ddns.net:8002/ott/tv360.php?id=307
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=308/index.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_pladio_163947930147.png", FPT Play Pladio
 #EXTVLCOPT:http-user-agent=VMT
-https://live.fptplay53.net/epzhd2/pladio_vhls.smil/playlist.m3u8
-https://live.fptplay53.net/fnxhd1/vtv1hd_vhls.smil/playlist.m3u8
-https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/playlist.m3u8
+https://live.fptplay53.net/epzhd2/pladio_vhls.smil/chunklist_b5000000.m3u8
+https://live.fptplay53.net/fnxhd1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1, ANTV
+https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
