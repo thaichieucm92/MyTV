@@ -403,7 +403,7 @@ http://hoatv001.ddns.net:8002/ott/tv360.php?id=69
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=44
 #http://192.168.11.1:61292/udp/232.84.2.90:8814
 #EXTINF:0 tvg-id="binhphuoc2" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/CyhvaPs.png",BPTV2 HD _ TH Bình Phước (FPT Play)
-https://live.fptplay53.net/epzsd1/binhphuoc2_hls.smil/chunklist_b2500000.m3u
+https://live.fptplay53.net/epzsd1/binhphuoc2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="longan" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/jBWD3It.png",LA34 _ TH Long An
 http://192.168.11.1:61292/udp/232.84.1.171:9000
 #EXTINF:0 tvg-id="dongthap" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/UfOw13y.png",THĐT1 _ TH Đồng Tháp (TV360)
