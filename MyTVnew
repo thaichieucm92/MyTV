@@ -69,7 +69,7 @@ https://192.168.11.1:61292/udp/232.84.3.245:11392
 #------------------------VTVcab------------------------#
 #EXTINF:0 tvg-id="" group-title="VTVcab" tvg-logo="https://i.imgur.com/cFs8OVb.png",ON Sports+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tth.vn/onsportplus
+https://cloud.sgchill.x10.bz/manifest/livetv/tvonline/v2/premium/userid:vmttv/vtvcab/vtvcab6/index.m3u8
 #EXTINF:0 tvg-id="" group-title="VTVcab" tvg-logo="https://i.imgur.com/cFs8OVb.png",ON Sports+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://509942876.r.vtvcdn.com/HAY_TV/v2_index.m3u8
