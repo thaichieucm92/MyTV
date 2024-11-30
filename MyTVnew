@@ -43,8 +43,7 @@ http://192.168.11.1:61292/udp/232.84.3.57:11710
 #EXTINF:0 tvg-id="htv2hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/f3KlwDX.png",HTV2 Vie Channel (HD 6Mbps)
 http://192.168.11.1:61292/udp/232.84.2.182:9306
 #EXTINF:0 tvg-id="htv3" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/2iE01Ca.png",HTV3 (HD 8Mbps)
-http://bentre5.hoangai.vn:8086/stream/mtv/110/test/123/playlist.mpegts
-#http://192.168.11.1:61292/udp/232.84.3.56:11716
+http://192.168.11.1:61292/udp/232.84.3.56:11716
 #EXTINF:0 tvg-id="htvkey" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/wrH7U0X.png",HTV Keys (HD 6Mbps)
 http://192.168.11.1:61292/udp/232.84.3.55:11722
 #EXTINF:0 tvg-id="htv7hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/RSlvzAs.png",HTV7 HD (HD 8Mbps)
