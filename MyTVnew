@@ -66,27 +66,6 @@ http://192.168.50.1:61292/udp/232.84.2.134:9600
 #EXTINF:0 tvg-id="htvcplushd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC+ (HD 4.5Mbps)
 http://192.168.50.1:61292/udp/232.84.3.245:11392
 #------------------------VTVcab------------------------#
-#EXTINF:0 tvg-id="" group-title="VTVcab" tvg-logo="https://i.imgur.com/cFs8OVb.png",ON Sports+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live2cloud.sgchill.io.vn/hls/v2/uid:vmttv/ip:122:46:728:99/play/vtvcab/vtvcab6.smil/index.m3u8
-#EXTINF:0 tvg-id="" group-title="VTVcab" tvg-logo="https://i.imgur.com/cFs8OVb.png",ON Sports+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://509942876.r.vtvcdn.com/HAY_TV/v2_index.m3u8
-#EXTINF:0 tvg-id="" group-title="VTVcab" tvg-logo="https://i.imgur.com/BGF2I58.png",ON Golf HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://ott1.sgchill.io.vn/backend/vmttv/ancaplinklasucvat/source/tv360/169/index.m3u8
-#http://hoatv001.ddns.net:8002/ott/tv360.php?id=169
-#EXTINF:0 tvg-id="" group-title="VTVcab" tvg-logo="https://i.imgur.com/moYwxwf.png",ON Sports
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tth.vn/onsport
-#EXTINF:0 tvg-id="" group-title="VTVcab" tvg-logo="https://i.imgur.com/WAxiIfP.png",ON Football HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://azurex88.myftp.biz/livetv/bpk-tv/vstv/userid:vmttv/mac=2F-1E-07-AD-E9-59/vtvcab16
-#EXTINF:0 tvg-id="" group-title="VTVcab" tvg-logo="https://i.imgur.com/wpRXpJg.png",ON Sports News
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tth.vn/onsportnews
-#EXTINF:-1 tvg-id="btv5hd" group-title="VTVcab" tvg-logo="https://imgvlive.vtvcab.vn/720X405/0f3eeb2f-1482-4ea5-a42b-68c22266fd38.jpg?auto=format&fit=max&w=640", BTV5 - ON SPORT ACTION
-https://live2cloud.sgchill.io.vn/hls/v2/uid:vmttv/ip:122:46:728:99/play/vtvcab/btv5.smil/index.m3u8
 #EXTINF:0 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/moYwxwf.png",ON Sports HD (HD 8.5Mbps)
 http://192.168.50.1:61292/udp/232.84.3.242:11374
 #EXTINF:0 tvg-id="vtvcab1hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí (HD 8Mbps)
@@ -119,10 +98,32 @@ http://192.168.50.1:61292/udp/232.84.3.68:11644
 http://192.168.50.1:61292/udp/232.84.3.41:11806
 #EXTINF:0 tvg-id="vtvcab22hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/2xT5HFx.png",ON Life (HD 7Mbps)
 http://192.168.50.1:61292/udp/232.84.3.40:11812
+#EXTINF:0 tvg-id="" group-title="VTVcab" tvg-logo="https://i.imgur.com/cFs8OVb.png",ON Sports+ (DRM)
+http://192.168.50.1:61292/udp/232.84.3.75:11602
+#EXTINF:0 tvg-id="" group-title="VTVcab" tvg-logo="https://i.imgur.com/BGF2I58.png",ON Golf HD (DRM)
+http://192.168.50.1:61292/udp/232.84.2.246:10876
+#EXTINF:0 tvg-id="" group-title="VTVcab" tvg-logo="https://i.imgur.com/moYwxwf.png",ON Sports HD (DRM)
+http://192.168.50.1:61292/udp/232.84.1.207:9216
+#EXTINF:0 tvg-id="" group-title="VTVcab" tvg-logo="https://i.imgur.com/WAxiIfP.png",ON Football HD (DRM)
+http://192.168.50.1:61292/udp/232.84.1.210:9234
+#EXTINF:0 tvg-id="" group-title="VTVcab" tvg-logo="https://i.imgur.com/wpRXpJg.png",ON Sports News (DRM)
+http://192.168.50.1:61292/udp/232.84.2.193:10942
+#EXTINF:0 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ Cine (DRM)
+http://192.168.50.1:61292/udp/232.84.1.38:8202
+#EXTINF:0 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ Action (DRM)
+http://192.168.50.1:61292/udp/232.84.1.33:8172
+#EXTINF:0 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ Sport 1 (DRM)
+http://192.168.50.1:61292/udp/232.84.1.37:8196
+#EXTINF:0 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ Sport 2 (DRM)
+http://192.168.50.1:61292/udp/232.84.1.34:8178
 #EXTINF:0 tvg-id="kkidshd" group-title="K+" tvg-logo="https://i.imgur.com/erWqYxh.png",K+ Kids (HD 9Mbps)
 http://192.168.50.1:61292/udp/232.84.3.42:11800
 #EXTINF:0 tvg-id="kkidshd" group-title="K+" tvg-logo="https://i.imgur.com/erWqYxh.png",K+ Kids
 http://192.168.50.1:61292/udp/232.84.3.43:11794
+#EXTINF:0 tvg-id="" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/hXYkO7B.png",SPOTV (DRM)
+http://192.168.50.1:61292/udp/232.84.3.49:11758
+#EXTINF:0 tvg-id="" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/EBKmDBi.png",SPOTV2 (DRM)
+http://192.168.50.1:61292/udp/232.84.3.48:11764
 #------------------------VTC------------------------#
 #EXTINF:0 tvg-id="vtc1hd" group-title="VTC" tvg-logo="https://i.imgur.com/7HD60aD.png",VTC1 HD (HD 8.5Mbps)
 http://192.168.50.1:61292/udp/232.84.3.102:10846
@@ -194,8 +195,7 @@ https://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn
 https://s8.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e7.endpoint.cdn.sctvonline.vn/nginx.s8.edge.cdn.sctvonline.vn/live/smil:SCTV14.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="sctv15hd"group-title="SCTV" tvg-logo="https://i.ibb.co/q1PkQkp/sctv15-hd-BEARTV.png" ,SCTV15 HD - SSPORT 2
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://live2cloud.sgchill.io.vn/hls/v2/uid:vmttv/ip:122:46:728:99/play/sctv/sctv15.smil/index.m3u8
-#https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/sctv15/index.m3u8|Referer=http://sctvonline.vn/
+https://s2.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e9.endpoint.cdn.sctvonline.vn/nginx.s2.edge.cdn.sctvonline.vn/hls/sctv15/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv16hd"group-title="SCTV" tvg-logo="https://i.ibb.co/CMr9xN0/sctv16-hd-BEARTV.png" ,SCTV16 HD - Phim Nước Ngoài
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/channel/sctv16/index.m3u8|Referer=http://sctvonline.vn/
@@ -446,38 +446,31 @@ http://192.168.50.1:61292/udp/232.84.1.77:8436
 http://192.168.50.1:61292/udp/232.84.1.13:8052
 #EXTINF:-1 tvg-id="boxmovie1" group-title=" In The Box" tvg-logo="https://imgur.com/zLjBSIu.png", Box Movie 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://ott1.sgchill.io.vn/backend/vmttv/ancaplinklasucvat/source/tv360/159/index.m3u8
-#http://hoatv001.ddns.net:8002/ott/tv360.php?id=159
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=159
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title=" In The Box" tvg-logo="https://imgur.com/uNsPkSq.png", Hollywood Classics
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://ott1.sgchill.io.vn/backend/vmttv/ancaplinklasucvat/source/tv360/160/index.m3u8
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=160
 #EXTINF:-1 tvg-id="inthebox" group-title=" In The Box" tvg-logo="https://imgur.com/u9U4g7L.png", In The Box
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://ott1.sgchill.io.vn/backend/vmttv/ancaplinklasucvat/source/tv360/235/index.m3u8
-#http://hoatv001.ddns.net:8002/ott/tv360.php?id=235
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=235
 #EXTINF:-1 tvg-id="boxhits" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hits TV360
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #http://hoatv001.ddns.net:8002/ott/tv360.php?id=239
 #EXTINF:-1 tvg-id="man" group-title=" In The Box" tvg-logo="https://imgur.com/b7mYkbb.png", Man
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://ott1.sgchill.io.vn/backend/vmttv/ancaplinklasucvat/source/tv360/237/index.m3u8
-#http://hoatv001.ddns.net:8002/ott/tv360.php?id=237
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=237
 #EXTINF:-1 tvg-id="musicbox" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/257.png", Music Box TV360
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #http://hoatv001.ddns.net:8002/ott/tv360.php?id=289
 #EXTINF:-1 tvg-id="drfithd" group-title=" In The Box" tvg-logo="https://imgur.com/dwshpnw.png", Dr.Fit
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://ott1.sgchill.io.vn/backend/vmttv/ancaplinklasucvat/source/tv360/162/index.m3u8
-#http://hoatv001.ddns.net:8002/ott/tv360.php?id=162
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=162
 #EXTINF:-1 tvg-id="happykids" group-title=" In The Box" tvg-logo="https://imgur.com/iY5dpte.png", Happy Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://ott1.sgchill.io.vn/backend/vmttv/ancaplinklasucvat/source/tv360/212/index.m3u8
-#http://hoatv001.ddns.net:8002/ott/tv360.php?id=212
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=212
 #EXTINF:-1 tvg-id="planetearthhd" group-title=" In The Box" tvg-logo="https://imgur.com/qkvaowM.png", Planet Earth
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://ott1.sgchill.io.vn/backend/vmttv/ancaplinklasucvat/source/tv360/135/index.m3u8
-#http://hoatv001.ddns.net:8002/ott/tv360.php?id=135
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=135
 #EXTINF:-1 tvg-id="woman" group-title=" In The Box" tvg-logo="https://imgur.com/syLP7VU.png", Woman
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=163
@@ -637,38 +630,21 @@ http://192.168.50.1:61292/udp/232.84.1.229:9348
 #EXTINF:0 tvg-id="" group-title="Mua Sắm" tvg-logo="https://i.imgur.com/OSK4RXT.png",VTVcab13
 http://192.168.50.1:61292/udp/232.84.1.142:10386
 #------------------------DRM------------------------#
-#EXTINF:0 tvg-id="" group-title="VTVcab" tvg-logo="https://i.imgur.com/cFs8OVb.png",ON Sports+ (DRM)
-http://192.168.50.1:61292/udp/232.84.3.75:11602
+
 #EXTINF:0 tvg-id="" group-title="VTVcab" tvg-logo="https://i.imgur.com/cFs8OVb.png",ON Sports+ (DRM)
 http://192.168.50.1:61292/udp/232.84.1.220:9294
 #EXTINF:0 tvg-id="" group-title="VTVcab" tvg-logo="https://i.imgur.com/87JEXEQ.png",ON EChannel (DRM)
 http://192.168.50.1:61292/udp/232.84.1.193:9132
-#EXTINF:0 tvg-id="" group-title="VTVcab" tvg-logo="https://i.imgur.com/BGF2I58.png",ON Golf HD (DRM)
-http://192.168.50.1:61292/udp/232.84.2.246:10876
 #EXTINF:0 tvg-id="" group-title="VTVcab" tvg-logo="https://i.imgur.com/moYwxwf.png",ON Sports (DRM)
 http://192.168.50.1:61292/udp/232.84.1.208:9222
 #EXTINF:0 tvg-id="" group-title="VTVcab" tvg-logo="https://i.imgur.com/WAxiIfP.png",ON Football (DRM)
 http://192.168.50.1:61292/udp/232.84.1.138:8802
-#EXTINF:0 tvg-id="" group-title="VTVcab" tvg-logo="https://i.imgur.com/moYwxwf.png",ON Sports HD (DRM)
-http://192.168.50.1:61292/udp/232.84.1.207:9216
-#EXTINF:0 tvg-id="" group-title="VTVcab" tvg-logo="https://i.imgur.com/WAxiIfP.png",ON Football HD (DRM)
-http://192.168.50.1:61292/udp/232.84.1.210:9234
-#EXTINF:0 tvg-id="" group-title="VTVcab" tvg-logo="https://i.imgur.com/wpRXpJg.png",ON Sports News (DRM)
-http://192.168.50.1:61292/udp/232.84.2.193:10942
-#EXTINF:0 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ Action (DRM)
-http://192.168.50.1:61292/udp/232.84.1.33:8172
-#EXTINF:0 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ Action (DRM)
-http://192.168.50.1:61292/udp/232.84.1.123:10320
-#EXTINF:0 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ Cine (DRM)
-http://192.168.50.1:61292/udp/232.84.1.38:8202
 #EXTINF:0 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ Cine (DRM)
 http://192.168.50.1:61292/udp/232.84.1.122:10314
+#EXTINF:0 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ Action (DRM)
+http://192.168.50.1:61292/udp/232.84.1.123:10320
 #EXTINF:0 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ Sport 1 (DRM)
 http://192.168.50.1:61292/udp/232.84.1.125:10326
-#EXTINF:0 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ Sport 1 (DRM)
-http://192.168.50.1:61292/udp/232.84.1.37:8196
-#EXTINF:0 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ Sport 2 (DRM)
-http://192.168.50.1:61292/udp/232.84.1.34:8178
 #EXTINF:0 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ Sport 2 (DRM)
 http://192.168.50.1:61292/udp/232.84.1.176:10374
 #EXTINF:0 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ Action (DRM)
@@ -683,16 +659,12 @@ http://192.168.50.1:61292/udp/232.84.1.131:10368
 http://192.168.50.1:61292/udp/232.84.2.141:10666
 #EXTINF:0 tvg-id="" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/hXYkO7B.png",SPOTV (DRM)
 http://192.168.50.1:61292/udp/232.84.3.111:10666
-#EXTINF:0 tvg-id="" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/hXYkO7B.png",SPOTV (DRM)
-http://192.168.50.1:61292/udp/232.84.3.49:11758
 #EXTINF:0 tvg-id="" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/hXYkO7B.png",SPOTV (DRM)
 http://192.168.50.1:61292/udp/232.84.1.11:8040
 #EXTINF:0 tvg-id="" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/EBKmDBi.png",SPOTV2 (DRM)
 http://192.168.50.1:61292/udp/232.84.2.142:10672
 #EXTINF:0 tvg-id="" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/EBKmDBi.png",SPOTV2 (DRM)
 http://192.168.50.1:61292/udp/232.84.3.129:10672
-#EXTINF:0 tvg-id="" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/EBKmDBi.png",SPOTV2 (DRM)
-http://192.168.50.1:61292/udp/232.84.3.48:11764
 #EXTINF:0 tvg-id="" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/EBKmDBi.png",SPOTV2 (DRM)
 http://192.168.50.1:61292/udp/232.84.1.12:8046
 #------------------------Unknown------------------------#
