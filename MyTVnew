@@ -532,7 +532,7 @@ http://192.168.50.1:61292/udp/232.84.3.225:11272
 #EXTINF:0 tvg-id="bbcworldnews" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/hsByQfe.png",BBC News (HD 9Mbps)
 http://192.168.50.1:61292/udp/232.84.3.224:11266
 #EXTINF:0 tvg-id="cnn" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/RCd9AM9.png",CNN (HD 6Mbps)
-http://192.168.50.1:61292/udp/232.84.2.55:10540
+http://192.168.50.1:61292/udp/232.84.3.153:10690
 #EXTINF:0 tvg-id="bloomberg" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/rxFZgIK.png",Bloomberg (HD 15Mbps)
 http://192.168.50.1:61292/udp/232.84.3.157:10696
 #EXTINF:0 tvg-id="" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/RIQE8kA.png",CNA (HD 6.5Mbps)
