@@ -234,6 +234,12 @@ https://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn
 #EXTINF:-1 tvg-id="sctvhdpth"group-title="SCTV" tvg-logo="https://i.ibb.co/G561126/SCTVTH-BEARTV.png" ,SCTV PHIM TỔNG HỢP 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://s11.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s11.edge.cdn.sctvonline.vn/hls/sctvphimtonghop/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/01/04/1680297664931/fb287ae7a7ad_640_360.png", K+CINE SCTV
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+http://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/KPlusCine/index.m3u8
+#EXTINF:-1 tvg-id="kactionhd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/01/03/16/1704275031605/a72d5eab8255_640_360.png", K+ACTION HD SCTV
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/KPlusAction/index.m3u8
 #------------------------Other------------------------#
 #EXTINF:0 tvg-id="hitv" group-title="Other" tvg-logo="https://i.imgur.com/78fQx65.png",HCATV1 HiTV HD (HD 8Mbps)
 http://192.168.50.1:61292/udp/232.84.3.84:11548
@@ -325,13 +331,15 @@ http://192.168.50.1:61292/udp/232.84.3.161:10918
 #EXTINF:0 tvg-id="soctrang" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/5KQJoBg.png",STV1 HD _ TH Sóc Trăng (HD 8Mbps)
 http://192.168.50.1:61292/udp/232.84.3.97:11470
 #------------------------Địa Phương (SD)------------------------#
-#EXTINF:0 tvg-id="laocai" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/QAVSUBu.png",THLC _ TH Lào Cai (FPT Play)
+#EXTINF:0 tvg-id="laocai" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/QAVSUBu.png",THLC _ TH Lào Cai (TV360)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live.fptplay53.net/fnxsd1/laocai_hls.smil/chunklist_b2500000.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=71
+#https://live.fptplay53.net/fnxsd1/laocai_hls.smil/chunklist_b2500000.m3u8
 #http://192.168.50.1:61292/udp/232.84.2.93:8718
-#EXTINF:0 tvg-id="dienbien" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/Rky1N5S.png",ĐTV _ TH Điện Biên (FPT Play)
+#EXTINF:0 tvg-id="dienbien" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/Rky1N5S.png",ĐTV _ TH Điện Biên (TV360)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live.fptplay53.net/fnxsd1/dienbien_hls.smil/chunklist_b2500000.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=52
+#https://live.fptplay53.net/fnxsd1/dienbien_hls.smil/chunklist_b2500000.m3u8
 #http://192.168.50.1:61292/udp/232.84.3.116:8880
 #EXTINF:0 tvg-id="laichau" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/we3GCjr.png",LTV _ TH Lai Châu (TV360)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -339,9 +347,10 @@ http://hoatv001.ddns.net:8002/ott/tv360.php?id=68
 #http://192.168.50.1:61292/udp/232.84.3.133:9174
 #EXTINF:0 tvg-id="sonla" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/QZT6GIh.png",STV _ TH Sơn La
 http://192.168.50.1:61292/udp/232.84.1.184:9078
-#EXTINF:0 tvg-id="hagiang" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/h7uPIEP.png",HGTV _ TH Hà Giang (FPT Play)
+#EXTINF:0 tvg-id="hagiang" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/h7uPIEP.png",HGTV _ TH Hà Giang (TV360)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live.fptplay53.net/fnxsd1/hagiang_hls.smil/chunklist_b2500000.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=56
+#https://live.fptplay53.net/fnxsd1/hagiang_hls.smil/chunklist_b2500000.m3u8
 #http://192.168.50.1:61292/udp/232.84.2.85:8910
 #EXTINF:0 tvg-id="tuyenquang" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/6RPgRE7.png",TTV _ TH Tuyên Quang (TV360)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -397,15 +406,17 @@ http://hoatv001.ddns.net:8002/ott/tv360.php?id=65
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=76
 #http://192.168.50.1:61292/udp/232.84.2.74:9024
-#EXTINF:0 tvg-id="binhthuan" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/Bu1xsiJ.png",BTV _ TH Bình Thuận (FPT Play)
-https://live.fptplay53.net/epzsd1/binhthuan_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 tvg-id="binhthuan" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/Bu1xsiJ.png",BTV _ TH Bình Thuận (TV360)
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=45
+#https://live.fptplay53.net/epzsd1/binhthuan_hls.smil/chunklist_b2500000.m3u8
 #http://192.168.50.1:61292/udp/232.84.2.77:8820
 #EXTINF:0 tvg-id="gialai" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/csqFzvA.png",THGL _ TH Gia Lai (TV360)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=55
 #http://192.168.50.1:61292/udp/232.84.3.138:8904
-#EXTINF:0 tvg-id="daknong" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/L2tMltg.png",PTD _ TH Đắk Nông
-http://192.168.50.1:61292/udp/232.84.3.140:8874
+#EXTINF:0 tvg-id="daknong" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/L2tMltg.png",PTD _ TH Đắk Nông (TV360)
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=50
+#http://192.168.50.1:61292/udp/232.84.3.140:8874
 #EXTINF:0 tvg-id="lamdong" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/Tv0fNk3.png",LTV _ TH Lâm Đồng (TV360)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=69
@@ -433,9 +444,10 @@ https://live.fptplay53.net/epzsd1/travinh_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzsd1/haugiang_vhls.smil/chunklist_b5000000.m3u8
 #http://192.168.50.1:61292/udp/232.84.2.112:8940
-#EXTINF:0 tvg-id="baclieu" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/FoAzh3R.png",BLTV _ TH Bạc Liêu (FPT Play)
+#EXTINF:0 tvg-id="baclieu" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/FoAzh3R.png",BLTV _ TH Bạc Liêu (TV360)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live.fptplay53.net/epzsd1/baclieu_hls.smil/chunklist_b2500000.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=38
+#https://live.fptplay53.net/epzsd1/baclieu_hls.smil/chunklist_b2500000.m3u8
 #http://192.168.50.1:61292/udp/232.84.2.116:8766
 #EXTINF:0 tvg-id="camau" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/cYqXh3i.png",CTV _ TH Cà Mau (TV360)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -491,6 +503,9 @@ http://hoatv001.ddns.net:8002/ott/tv360.php?id=163
 #EXTINF:-1 tvg-id="historyhd" group-title="Quốc Tế" tvg-logo="https://imgur.com/XjokfTR.png", History HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=9856
+#EXTINF:-1 tvg-id="hgtvhd" group-title="Quốc Tế" tvg-logo="https://imgur.com/Z0f8gL8.png", HGTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=99
 #EXTINF:0 tvg-id="" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/Yhpx1Ve.png",Clubbing TV (HD 8.5Mbps)
 http://192.168.50.1:61292/udp/232.84.3.96:11476
 #EXTINF:0 tvg-id="fashionhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/ALDt1JX.png",Fashion TV (HD 8.5Mbps)
