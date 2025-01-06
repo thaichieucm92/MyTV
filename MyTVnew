@@ -26,8 +26,6 @@ http://192.168.11.1:61292/udp/232.84.3.66:11656
 #------------------------Thiết Yếu------------------------#
 #EXTINF:0 tvg-id="nhandan" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/Ud78FHF.png",Nhân Dân TV (HD 7Mbps)
 http://192.168.11.1:61292/udp/232.84.3.124:10822
-#EXTINF:0 tvg-id="quochoi" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/YtZGuSy.png",Quốc Hội HD (HD 4Mbps)
-http://192.168.11.1:61292/udp/232.84.1.234:10290
 #EXTINF:0 tvg-id="qpvnhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN (HD 6Mbps)
 http://192.168.11.1:61292/udp/232.84.3.127:10816
 #EXTINF:0 tvg-id="ttxvnhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/GmefCpv.png",VNEWS (HD 8.5Mbps)
@@ -65,9 +63,46 @@ http://192.168.11.1:61292/udp/232.84.3.51:11746
 http://192.168.11.1:61292/udp/232.84.2.134:9600
 #EXTINF:0 tvg-id="htvcplushd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC+ (HD 4.5Mbps)
 http://192.168.11.1:61292/udp/232.84.3.245:11392
+#------------------------K+------------------------#
+#EXTINF:0 tvg-id="kcinehd" group-title="K+" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ Cine (HD 9Mbps)
+http://192.168.11.1:61292/udp/232.84.1.38:8202
+#EXTINF:0 tvg-id="kaction" group-title="K+" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ Action (HD 9Mbps)
+http://192.168.11.1:61292/udp/232.84.1.33:8172
+#EXTINF:0 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ Sport 1 (HD 9Mbps)
+http://192.168.11.1:61292/udp/232.84.1.37:8196
+#EXTINF:0 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ Sport 2 (HD 9Mbps)
+http://192.168.11.1:61292/udp/232.84.1.34:8178
+#EXTINF:0 tvg-id="kkidshd" group-title="K+" tvg-logo="https://i.imgur.com/erWqYxh.png",K+ Kids (HD 9Mbps)
+http://192.168.11.1:61292/udp/232.84.3.42:11800
+#EXTINF:0 tvg-id="kcinehd" group-title="K+" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ Cine (HD 9Mbps)
+http://192.168.11.1:61292/udp/232.84.1.122:10314
+#EXTINF:0 tvg-id="kaction" group-title="K+" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ Action (HD 9Mbps)
+http://192.168.11.1:61292/udp/232.84.1.123:10320
+#EXTINF:0 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ Sport 1 (HD 9Mbps)
+http://192.168.11.1:61292/udp/232.84.1.125:10326
+#EXTINF:0 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ Sport 2 (HD 9Mbps)
+http://192.168.11.1:61292/udp/232.84.1.176:10374
+#EXTINF:0 tvg-id="spotv1" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/hXYkO7B.png",SPOTV (HD 9Mbps)
+http://192.168.11.1:61292/udp/232.84.3.111:10666
+#EXTINF:0 tvg-id="spotv2" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/EBKmDBi.png",SPOTV2 (HD 9Mbps)
+http://192.168.11.1:61292/udp/232.84.3.129:10672
 #------------------------VTVcab------------------------#
+#EXTINF:0 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/moYwxwf.png",ON Sports HD (HD 8Mbps)
+http://192.168.11.1:61292/udp/232.84.1.207:9216
+#EXTINF:0 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/cFs8OVb.png",ON Sports+ (HD 8Mbps)
+http://192.168.11.1:61292/udp/232.84.3.75:11602
+#EXTINF:0 tvg-id="vtvcab16hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/WAxiIfP.png",ON Football HD (HD 8Mbps)
+http://192.168.11.1:61292/udp/232.84.1.210:9234
+#EXTINF:0 tvg-id="vtvcab18hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/wpRXpJg.png",ON Sports News (HD 8Mbps)
+http://192.168.11.1:61292/udp/232.84.2.193:10942
+#EXTINF:0 tvg-id="vtvcab23hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/BGF2I58.png",ON Golf (HD 8.5Mbps)
+http://192.168.11.1:61292/udp/232.84.2.246:10876
+#EXTINF:0 tvg-id="vtvcab23hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/BGF2I58.png",ON Golf (HD 8.5Mbps)
+http://192.168.11.1:61292/udp/232.84.3.244:11386
 #EXTINF:0 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/moYwxwf.png",ON Sports HD (HD 8.5Mbps)
 http://192.168.11.1:61292/udp/232.84.3.242:11374
+#EXTINF:0 tvg-id="vtvcab16hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/WAxiIfP.png",ON Football HD (HD 8.5Mbps)
+http://192.168.11.1:61292/udp/232.84.3.243:11380
 #EXTINF:0 tvg-id="vtvcab1hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí (HD 8Mbps)
 http://192.168.11.1:61292/udp/232.84.3.78:11584
 #EXTINF:0 tvg-id="vtvcab19hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/n7QICK7.png",ON Vie Dramas (HD 8.5Mbps)
@@ -98,45 +133,6 @@ http://192.168.11.1:61292/udp/232.84.3.68:11644
 http://192.168.11.1:61292/udp/232.84.3.41:11806
 #EXTINF:0 tvg-id="vtvcab22hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/2xT5HFx.png",ON Life (HD 7Mbps)
 http://192.168.11.1:61292/udp/232.84.3.40:11812
-#EXTINF:0 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/moYwxwf.png",ON Sports HD (HD 8Mbps)
-http://192.168.11.1:61292/udp/232.84.1.207:9216
-#EXTINF:0 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/cFs8OVb.png",ON Sports+ (HD 8Mbps)
-http://192.168.11.1:61292/udp/232.84.3.75:11602
-#EXTINF:0 tvg-id="vtvcab16hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/WAxiIfP.png",ON Football HD (HD 8Mbps)
-http://192.168.11.1:61292/udp/232.84.1.210:9234
-#EXTINF:0 tvg-id="vtvcab18hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/wpRXpJg.png",ON Sports News (HD 8Mbps)
-http://192.168.11.1:61292/udp/232.84.2.193:10942
-#EXTINF:0 tvg-id="vtvcab23hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/BGF2I58.png",ON Golf (HD 8.5Mbps)
-http://192.168.11.1:61292/udp/232.84.2.246:10876
-#EXTINF:0 tvg-id="vtvcab23hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/BGF2I58.png",ON Golf (HD 8.5Mbps)
-http://192.168.11.1:61292/udp/232.84.3.244:11386
-#EXTINF:0 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/moYwxwf.png",ON Sports HD (HD 8.5Mbps)
-http://192.168.11.1:61292/udp/232.84.3.242:11374
-#EXTINF:0 tvg-id="vtvcab16hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/WAxiIfP.png",ON Football HD (HD 8.5Mbps)
-http://192.168.11.1:61292/udp/232.84.3.243:11380
-#EXTINF:0 tvg-id="spotv1" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/hXYkO7B.png",SPOTV (HD 9Mbps)
-http://192.168.11.1:61292/udp/232.84.3.111:10666
-#EXTINF:0 tvg-id="spotv2" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/EBKmDBi.png",SPOTV2 (HD 9Mbps)
-http://192.168.11.1:61292/udp/232.84.3.129:10672
-#------------------------K+------------------------#
-#EXTINF:0 tvg-id="kcinehd" group-title="K+" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ Cine (HD 9Mbps)
-http://192.168.11.1:61292/udp/232.84.1.38:8202
-#EXTINF:0 tvg-id="kaction" group-title="K+" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ Action (HD 9Mbps)
-http://192.168.11.1:61292/udp/232.84.1.33:8172
-#EXTINF:0 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ Sport 1 (HD 9Mbps)
-http://192.168.11.1:61292/udp/232.84.1.37:8196
-#EXTINF:0 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ Sport 2 (HD 9Mbps)
-http://192.168.11.1:61292/udp/232.84.1.34:8178
-#EXTINF:0 tvg-id="kkidshd" group-title="K+" tvg-logo="https://i.imgur.com/erWqYxh.png",K+ Kids (HD 9Mbps)
-http://192.168.11.1:61292/udp/232.84.3.42:11800
-#EXTINF:0 tvg-id="kcinehd" group-title="K+" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ Cine (HD 9Mbps)
-http://192.168.11.1:61292/udp/232.84.1.122:10314
-#EXTINF:0 tvg-id="kaction" group-title="K+" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ Action (HD 9Mbps)
-http://192.168.11.1:61292/udp/232.84.1.123:10320
-#EXTINF:0 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ Sport 1 (HD 9Mbps)
-http://192.168.11.1:61292/udp/232.84.1.125:10326
-#EXTINF:0 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ Sport 2 (HD 9Mbps)
-http://192.168.11.1:61292/udp/232.84.1.176:10374
 
 #------------------------VTC------------------------#
 #EXTINF:0 tvg-id="vtc1hd" group-title="VTC" tvg-logo="https://i.imgur.com/7HD60aD.png",VTC1 HD (HD 8.5Mbps)
@@ -165,8 +161,6 @@ http://192.168.11.1:61292/udp/232.84.1.57:8322
 http://192.168.11.1:61292/udp/232.84.2.39:10642
 #EXTINF:0 tvg-id="vtc11" group-title="VTC" tvg-logo="https://i.imgur.com/0ovZkYb.png",VTC11
 http://192.168.11.1:61292/udp/232.84.1.61:8340
-#EXTINF:0 tvg-id="vovtvhd" group-title="VTC" tvg-logo="https://i.imgur.com/lARtNRO.png",VOV TV
-http://192.168.11.1:61292/udp/232.84.1.46:8256
 #------------------------SCTV------------------------#
 #EXTINF:-1 tvg-id="sctv1hd"group-title="SCTV" tvg-logo="https://i.ibb.co/DYVGW60/sctv1-hd-BEARTV.png",SCTV 1 HD - Hài
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -240,9 +234,7 @@ http://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/
 #EXTINF:-1 tvg-id="kactionhd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/01/03/16/1704275031605/a72d5eab8255_640_360.png", K+ACTION HD SCTV
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/KPlusAction/index.m3u8
-#------------------------Other------------------------#
-#EXTINF:0 tvg-id="hitv" group-title="Other" tvg-logo="https://i.imgur.com/78fQx65.png",HCATV1 HiTV HD (HD 8Mbps)
-http://192.168.11.1:61292/udp/232.84.3.84:11548
+
 #------------------------Địa phương (HD)------------------------#
 #EXTINF:0 tvg-id="hanoi1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 HD _ TH Hà Nội (HD 4Mbps)
 http://192.168.11.1:61292/udp/232.84.3.143:10738
@@ -320,6 +312,11 @@ http://hoatv001.ddns.net:8002/ott/tv3603.php?id=255
 http://192.168.11.1:61292/udp/232.84.3.233:11320
 #EXTINF:0 tvg-id="vungtau" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/KX2RMXR.png",BRT HD _ TH Bà Rịa Vũng Tàu (HD 8Mbps)
 http://192.168.11.1:61292/udp/232.84.3.47:11770
+#EXTINF:0 tvg-id="dongthap" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/UfOw13y.png",THĐT1 _ TH Đồng Tháp (HD 8Mbps)
+http://192.168.11.1:61292/232.84.3.235:11332
+#EXTINF:0 tvg-id="" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/WXebESa.png",THĐT2 Miền Tây (FPT Play)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/epzsd1/dongthaphd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="tiengiang" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/NkHFZ0D.png",THTG HD _ TH Tiền Giang (HD 6Mbps)
 http://192.168.11.1:61292/udp/232.84.3.204:11146
 #EXTINF:0 tvg-id="angiang" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/2On2R0G.png",ATV HD _ TH An Giang (HD 8.5Mbps)
@@ -429,13 +426,6 @@ http://hoatv001.ddns.net:8002/ott/tv3603.php?id=44
 https://live.fptplay53.net/epzsd1/binhphuoc2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="longan" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/jBWD3It.png",LA34 _ TH Long An
 http://192.168.11.1:61292/udp/232.84.1.171:9000
-#EXTINF:0 tvg-id="dongthap" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/UfOw13y.png",THĐT1 _ TH Đồng Tháp (FPT Play)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live.fptplay53.net/epzsd1/dongthap_vhls.smil/chunklist_b5000000.m3u8
-#http://192.168.11.1:61292/udp/232.84.1.154:8898
-#EXTINF:0 tvg-id="" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/WXebESa.png",THĐT2 Miền Tây (FPT Play)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live.fptplay53.net/epzsd1/dongthaphd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="travinh" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/dHOm6Ll.png",THTV _ TH Trà Vinh (FPT Play)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzsd1/travinh_vhls.smil/chunklist_b5000000.m3u8
@@ -453,9 +443,9 @@ http://hoatv001.ddns.net:8002/ott/tv3603.php?id=38
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://hoatv001.ddns.net:8002/ott/tv3603.php?id=46
 #http://192.168.11.1:61292/udp/232.84.2.117:8826
-#EXTINF:0 tvg-id="cantho" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/NyrxzES.png",THTPCT _ TH TP. Cần Thơ (FPT Play)
+#EXTINF:0 tvg-id="cantho" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/NyrxzES.png",THTPCT _ TH TP. Cần Thơ (TV360)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live.fptplay53.net/epzsd1/cantho_hls.smil/chunklist_b2500000.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=47
 #http://192.168.11.1:61292/udp/232.84.2.118:8838
 #------------------------Quốc Tế------------------------#
 #EXTINF:0 tvg-id="hbohd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO (HD 11Mbps)
@@ -512,8 +502,7 @@ http://192.168.11.1:61292/udp/232.84.3.96:11476
 http://192.168.11.1:61292/udp/232.84.3.149:10522
 #EXTINF:0 tvg-id="cinemaworldhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/vFVxJx4.png",Cinema World (HD 8Mbps)
 http://192.168.11.1:61292/udp/232.84.3.103:10840
-#EXTINF:0 tvg-id="hits" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/uDyLdcq.png",HITS (HD 6.5Mbps)
-http://192.168.11.1:61292/udp/232.84.3.214:11206
+
 #EXTINF:0 tvg-id="animalhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/TBgGuJy.png",Animal Planet (HD 6.5Mbps)
 http://192.168.11.1:61292/udp/232.84.3.139:10702
 #EXTINF:0 tvg-id="discoveryhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery Channel (HD 10Mbps)
@@ -530,8 +519,6 @@ http://192.168.11.1:61292/udp/232.84.2.131:9582
 http://192.168.11.1:61292/udp/232.84.1.107:10218
 #EXTINF:0 tvg-id="tlchd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/ZStxdQI.png",TLC (HD 6Mbps)
 http://192.168.11.1:61292/udp/232.84.3.156:10708
-#EXTINF:0 tvg-id="animaxhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/bLjwPFU.png",Animax (HD 9Mbps)
-http://192.168.11.1:61292/udp/232.84.1.18:8082
 #EXTINF:0 tvg-id="cartoonhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/6oXQdBZ.png",Cartoon Network (HD 9Mbps)
 http://192.168.11.1:61292/udp/232.84.2.144:10684
 #EXTINF:0 tvg-id="boomerang" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/rRDAzm4.png",Boomerang (HD 10Mbps)
@@ -560,10 +547,6 @@ http://192.168.11.1:61292/udp/232.84.3.168:10428
 http://192.168.11.1:61292/udp/232.84.1.72:8406
 #EXTINF:0 tvg-id="" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/RB4ymyh.png",NHK Premium
 http://192.168.11.1:61292/udp/232.84.3.172:10494
-#EXTINF:0 tvg-id="" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/yhWvggM.png",Russia Today Deutsch (HD 6Mbps)
-http://192.168.11.1:61292/udp/232.84.3.45:11782
-#EXTINF:0 tvg-id="" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/YyYy7jy.png",TVE (HD 6.5Mbps)
-http://192.168.11.1:61292/udp/232.84.3.205:11152
 #EXTINF:0 tvg-id="abcaustralia" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/UI80qhw.png",ABC Australia
 http://192.168.11.1:61292/udp/232.84.3.131:10482
 #EXTINF:0 tvg-id="" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/py4oLTl.png",Al Jazeera
@@ -578,16 +561,20 @@ http://192.168.11.1:61292/udp/232.84.3.145:9606
 http://192.168.11.1:61292/udp/232.84.3.207:11164
 #EXTINF:0 tvg-id="tv5monde" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/D8zXF7p.png",TV5 Monde Asie
 http://192.168.11.1:61292/udp/232.84.1.45:8250
-#EXTINF:0 tvg-id="" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/insertpic.png",123TV
-http://192.168.11.1:61292/udp/232.84.3.39:11818
+#EXTINF:0 tvg-id="" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/Nz525XH.png",123TV
+http://192.168.11.1:61292/232.84.3.39:11818
+#EXTINF:0 tvg-id="" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/RuFdEA1.png",Baden TV Sud
+http://192.168.11.1:61292/232.84.3.36:11836
 #EXTINF:0 tvg-id="" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/insertpic.png",ATV
 http://192.168.11.1:61292/udp/232.84.3.35:11842
-#EXTINF:0 tvg-id="" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/insertpic.png",HSE
-http://192.168.11.1:61292/udp/232.84.3.37:11830
-#EXTINF:0 tvg-id="" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/insertpic.png",WDR
-http://192.168.11.1:61292/udp/232.84.3.38:11824
+#EXTINF:0 tvg-id="" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/Y944An6.png",HSE
+http://192.168.11.1:61292/232.84.3.37:11830
+#EXTINF:0 tvg-id="" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/APpNWp4.png",WDR
+http://192.168.11.1:61292/232.84.3.38:11824
+#EXTINF:0 tvg-id="" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/YyYy7jy.png",TVE (HD 6.5Mbps)
+http://192.168.11.1:61292/udp/232.84.3.205:11152
 #EXTINF:0 tvg-id="" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/lquiFgx.png",OBS
-http://192.168.11.1:61292/udp/232.84.3.208:11170
+http://192.168.11.1:61292/232.84.3.208:11170
 #EXTINF:0 tvg-id="" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/rkF6lUv.png",CCTV2
 http://192.168.11.1:61292/udp/232.84.3.166:10458
 #EXTINF:0 tvg-id="" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/XXBAJpA.png",CCTV4
@@ -626,6 +613,8 @@ http://192.168.11.1:61292/udp/232.84.2.127:8544
 http://192.168.11.1:61292/udp/232.84.2.124:8358
 #EXTINF:0 tvg-id="" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/JRVJl0L.png",Russia Today
 http://192.168.11.1:61292/udp/232.84.2.125:8538
+#EXTINF:0 tvg-id="" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/yhWvggM.png",Russia Today Deutsch
+http://192.168.11.1:61292/udp/232.84.3.45:11782
 #EXTINF:0 tvg-id="" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/YdRrCsg.png",Filmy
 http://192.168.11.1:61292/udp/232.84.3.210:11182
 #EXTINF:0 tvg-id="" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/MwsiunI.png",Sahara One
@@ -705,6 +694,16 @@ http://192.168.11.1:61292/udp/232.84.3.129:10672
 #EXTINF:0 tvg-id="" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/EBKmDBi.png",SPOTV2 (DRM)
 http://192.168.11.1:61292/udp/232.84.1.12:8046
 #------------------------Unknown------------------------#
+#EXTINF:0 tvg-id="animaxhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/bLjwPFU.png",Animax (HD 9Mbps)
+http://192.168.11.1:61292/udp/232.84.1.18:8082
+#EXTINF:0 tvg-id="hits" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/uDyLdcq.png",HITS (HD 6.5Mbps)
+http://192.168.11.1:61292/udp/232.84.3.214:11206
+#EXTINF:0 tvg-id="quochoi" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/YtZGuSy.png",Quốc Hội HD (HD 4Mbps)
+http://192.168.11.1:61292/udp/232.84.1.234:10290
+#EXTINF:0 tvg-id="vovtvhd" group-title="VTC" tvg-logo="https://i.imgur.com/lARtNRO.png",VOV TV
+http://192.168.11.1:61292/udp/232.84.1.46:8256
+#EXTINF:0 tvg-id="hitv" group-title="Other" tvg-logo="https://i.imgur.com/78fQx65.png",HCATV1 HiTV HD (HD 8Mbps)
+http://192.168.11.1:61292/udp/232.84.3.84:11548
 #EXTINF:0 tvg-id="" group-title="" tvg-logo="",(MyTV Infocard)
 http://192.168.11.1:61292/udp/232.84.3.50:11752
 #EXTINF:0 tvg-id="" group-title="" tvg-logo="",(MyTV Infocard)
