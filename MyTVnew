@@ -315,7 +315,7 @@ http://192.168.11.1:61292/udp/232.84.3.233:11320
 #EXTINF:0 tvg-id="vungtau" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/KX2RMXR.png",BRT HD _ TH Bà Rịa Vũng Tàu (HD 8Mbps)
 http://192.168.11.1:61292/udp/232.84.3.47:11770
 #EXTINF:0 tvg-id="dongthap" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/UfOw13y.png",THĐT1 _ TH Đồng Tháp (HD 8Mbps)
-http://192.168.11.1:61292/232.84.3.235:11332
+http://192.168.11.1:61292/udp/232.84.3.235:11332
 #EXTINF:0 tvg-id="" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/WXebESa.png",THĐT2 Miền Tây (FPT Play)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzsd1/dongthaphd_vhls.smil/chunklist_b5000000.m3u8
