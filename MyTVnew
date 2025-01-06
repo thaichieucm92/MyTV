@@ -447,7 +447,7 @@ http://hoatv001.ddns.net:8002/ott/tv3603.php?id=46
 #http://192.168.11.1:61292/udp/232.84.2.117:8826
 #EXTINF:0 tvg-id="cantho" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/NyrxzES.png",THTPCT _ TH TP. Cần Thơ (TV360)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://hoatv001.ddns.net:8002/ott/tv360.php?id=47
+http://hoatv001.ddns.net:8002/ott/tv3603.php?id=47
 #http://192.168.11.1:61292/udp/232.84.2.118:8838
 #------------------------Quốc Tế------------------------#
 #EXTINF:0 tvg-id="hbohd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO (HD 11Mbps)
