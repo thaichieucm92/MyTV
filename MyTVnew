@@ -564,15 +564,15 @@ http://192.168.11.1:61292/udp/232.84.3.207:11164
 #EXTINF:0 tvg-id="tv5monde" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/D8zXF7p.png",TV5 Monde Asie
 http://192.168.11.1:61292/udp/232.84.1.45:8250
 #EXTINF:0 tvg-id="" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/Nz525XH.png",123TV
-http://192.168.11.1:61292/232.84.3.39:11818
+http://192.168.11.1:61292/udp/232.84.3.39:11818
 #EXTINF:0 tvg-id="" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/RuFdEA1.png",Baden TV Sud
-http://192.168.11.1:61292/232.84.3.36:11836
+http://192.168.11.1:61292/udp/232.84.3.36:11836
 #EXTINF:0 tvg-id="" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/insertpic.png",ATV
 http://192.168.11.1:61292/udp/232.84.3.35:11842
 #EXTINF:0 tvg-id="" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/Y944An6.png",HSE
-http://192.168.11.1:61292/232.84.3.37:11830
+http://192.168.11.1:61292/udp/232.84.3.37:11830
 #EXTINF:0 tvg-id="" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/APpNWp4.png",WDR
-http://192.168.11.1:61292/232.84.3.38:11824
+http://192.168.11.1:61292/udp/232.84.3.38:11824
 #EXTINF:0 tvg-id="" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/YyYy7jy.png",TVE (HD 6.5Mbps)
 http://192.168.11.1:61292/udp/232.84.3.205:11152
 #EXTINF:0 tvg-id="" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/lquiFgx.png",OBS
