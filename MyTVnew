@@ -138,47 +138,47 @@ http://192.168.11.1:61292/udp/232.84.3.41:11806
 http://192.168.11.1:61292/udp/232.84.3.40:11812
 #------------------------SCTV------------------------#
 #EXTINF:0 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://i.imgur.com/imhFxSG.png",SCTV1 (HD 5Mbps)
-http://192.168.50.1:61292/udp/232.84.3.34:11848
+http://192.168.11.1:61292/udp/232.84.3.34:11848
 #EXTINF:0 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://i.imgur.com/UpBZOaH.png",SCTV2 (HD 6Mbps)
-http://192.168.50.1:61292/udp/232.84.3.33:11854
+http://192.168.11.1:61292/udp/232.84.3.33:11854
 #EXTINF:0 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://i.imgur.com/wZrGAtH.png",SCTV3 (HD 7Mbps)
-http://192.168.50.1:61292/udp/232.84.3.32:11860
+http://192.168.11.1:61292/udp/232.84.3.32:11860
 #EXTINF:0 tvg-id="sctv4hd" group-title="SCTV" tvg-logo="https://i.imgur.com/ntSnAMJ.png",SCTV4 (HD 7Mbps)
-http://192.168.50.1:61292/udp/232.84.3.31:11866
+http://192.168.11.1:61292/udp/232.84.3.31:11866
 #EXTINF:0 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://i.imgur.com/pSIvTkZ.png",SCTV6 (HD 7Mbps)
-http://192.168.50.1:61292/udp/232.84.3.30:11872
+http://192.168.11.1:61292/udp/232.84.3.30:11872
 #EXTINF:0 tvg-id="sctv7hd" group-title="SCTV" tvg-logo="https://i.imgur.com/EdjXUUb.png",SCTV7 (HD 6Mbps)
-http://192.168.50.1:61292/udp/232.84.3.29:11878
+http://192.168.11.1:61292/udp/232.84.3.29:11878
 #EXTINF:0 tvg-id="sctv8hd" group-title="SCTV" tvg-logo="https://i.imgur.com/NULoCoA.png",SCTV8 (HD 5Mbps)
-http://192.168.50.1:61292/udp/232.84.3.28:11884
+http://192.168.11.1:61292/udp/232.84.3.28:11884
 #EXTINF:0 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="https://i.imgur.com/6dvyvea.png",SCTV9 (HD 8Mbps)
-http://192.168.50.1:61292/udp/232.84.3.27:11890
+http://192.168.11.1:61292/udp/232.84.3.27:11890
 #EXTINF:0 tvg-id="sctv11hd" group-title="SCTV" tvg-logo="https://i.imgur.com/AP2o4bW.png",SCTV11 (HD 7Mbps)
-http://192.168.50.1:61292/udp/232.84.3.26:11896
+http://192.168.11.1:61292/udp/232.84.3.26:11896
 #EXTINF:0 tvg-id="sctv12hd" group-title="SCTV" tvg-logo="https://i.imgur.com/5nrSZd8.png",SCTV12 (HD 7Mbps)
-http://192.168.50.1:61292/udp/232.84.3.25:11902
+http://192.168.11.1:61292/udp/232.84.3.25:11902
 #EXTINF:0 tvg-id="sctv13hd" group-title="SCTV" tvg-logo="https://i.imgur.com/PEz2Ieq.png",SCTV13 (HD 7Mbps)
-http://192.168.50.1:61292/udp/232.84.3.24:11908
+http://192.168.11.1:61292/udp/232.84.3.24:11908
 #EXTINF:0 tvg-id="sctv14hd" group-title="SCTV" tvg-logo="https://i.imgur.com/1yNMyEh.png",SCTV14 (HD 7Mbps)
-http://192.168.50.1:61292/udp/232.84.3.23:11914
+http://192.168.11.1:61292/udp/232.84.3.23:11914
 #EXTINF:0 tvg-id="sctv15hd" group-title="SCTV" tvg-logo="https://i.imgur.com/EPwjrlB.png",SCTV15 (HD 7Mbps)
-http://192.168.50.1:61292/udp/232.84.3.22:11920
+http://192.168.11.1:61292/udp/232.84.3.22:11920
 #EXTINF:0 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://i.imgur.com/b4ZROQG.png",SCTV16 (HD 7Mbps)
-http://192.168.50.1:61292/udp/232.84.3.21:11926
+http://192.168.11.1:61292/udp/232.84.3.21:11926
 #EXTINF:0 tvg-id="sctv17hd" group-title="SCTV" tvg-logo="https://i.imgur.com/Ghjy4HY.png",SCTV17 (HD 7Mbps)
-http://192.168.50.1:61292/udp/232.84.3.20:11932
+http://192.168.11.1:61292/udp/232.84.3.20:11932
 #EXTINF:0 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="https://i.imgur.com/k2Eg4T4.png",SCTV18 (HD 6Mbps)
-http://192.168.50.1:61292/udp/232.84.3.19:11938
+http://192.168.11.1:61292/udp/232.84.3.19:11938
 #EXTINF:0 tvg-id="sctv19hd" group-title="SCTV" tvg-logo="https://i.imgur.com/s4vfvNb.png",SCTV19 (HD 7Mbps)
-http://192.168.50.1:61292/udp/232.84.3.18:11944
+http://192.168.11.1:61292/udp/232.84.3.18:11944
 #EXTINF:0 tvg-id="sctv20hd" group-title="SCTV" tvg-logo="https://i.imgur.com/zwfqboB.png",SCTV20 (HD 7Mbps)
-http://192.168.50.1:61292/udp/232.84.3.17:11950
+http://192.168.11.1:61292/udp/232.84.3.17:11950
 #EXTINF:0 tvg-id="sctv21hd" group-title="SCTV" tvg-logo="https://i.imgur.com/aHKybQW.png",SCTV21 (HD 7Mbps)
-http://192.168.50.1:61292/udp/232.84.3.16:11956
+http://192.168.11.1:61292/udp/232.84.3.16:11956
 #EXTINF:0 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="https://i.imgur.com/O0HdUpB.png",SCTV22 (HD 7Mbps)
-http://192.168.50.1:61292/udp/232.84.3.15:11962
+http://192.168.11.1:61292/udp/232.84.3.15:11962
 #EXTINF:0 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://i.imgur.com/VzZYa4n.png",SCTV Phim Tổng Hợp (HD 6Mbps)
-http://192.168.50.1:61292/udp/232.84.3.14:11968
+http://192.168.11.1:61292/udp/232.84.3.14:11968
 #------------------------Địa phương (HD)------------------------#
 #EXTINF:0 tvg-id="hanoi1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 HD _ TH Hà Nội (HD 4Mbps)
 http://192.168.11.1:61292/udp/232.84.3.143:10738
