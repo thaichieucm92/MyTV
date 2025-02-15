@@ -379,9 +379,8 @@ https://tv.TruyenHinh.Click/CoBan/158/TuyetDoiKhongKinhDoanh
 #http://192.168.11.1:61292/udp/232.84.2.78:8976
 #EXTINF:0 tvg-id="binhphuoc1" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/DHWoGfP.png",BPTV1 _ TH Bình Phước
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://thvip.site/binhphuoc1/index.m3u8
+https://tv.TruyenHinh.Click/CoBan/132/TuyetDoiKhongKinhDoanh
 #https://live.fptplay53.net/epzsd1/binhphuoc1_hls.smil/chunklist_b2500000.m3u8
-#https://tv.TruyenHinh.Click/CoBan/132/TuyetDoiKhongKinhDoanh
 #http://192.168.11.1:61292/udp/232.84.2.90:8814
 #EXTINF:0 tvg-id="binhphuoc2" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/CyhvaPs.png",BPTV2 HD _ TH Bình Phước
 https://live.fptplay53.net/epzsd1/binhphuoc2_hls.smil/chunklist_b2500000.m3u8
@@ -402,9 +401,8 @@ https://tv.TruyenHinh.Click/CoBan/126/TuyetDoiKhongKinhDoanh
 #http://192.168.11.1:61292/udp/232.84.2.116:8766
 #EXTINF:0 tvg-id="camau" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/cYqXh3i.png",CTV _ TH Cà Mau
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://thvip.site/camau/index.m3u8
+https://tv.TruyenHinh.Click/CoBan/134/TuyetDoiKhongKinhDoanh
 #https://live.fptplay53.net/epzsd1/camau_hls.smil/chunklist_b2500000.m3u8
-#https://tv.TruyenHinh.Click/CoBan/134/TuyetDoiKhongKinhDoanh
 #http://192.168.11.1:61292/udp/232.84.2.117:8826
 #EXTINF:0 tvg-id="cantho" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/NyrxzES.png",THTPCT _ TH TP. Cần Thơ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -752,3 +750,4 @@ http://e4.endpoint.cdn.sctvonline.vn/hls/KPlusAction/01.m3u8
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2022/10/22/18/1666437081424/cbd3f3af84ba_640_360.png", K+KIDS HD SCTV
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 http://e4.endpoint.cdn.sctvonline.vn/hls/KPlusKid/01.m3u8
+
