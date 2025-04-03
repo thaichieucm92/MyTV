@@ -119,7 +119,7 @@ http://192.168.11.1:61292/udp/232.84.3.77:11590
 http://192.168.11.1:61292/udp/232.84.2.190:10924
 #EXTINF:0 tvg-id="vtvcab5hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/87JEXEQ.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=202&time=${start}&offset=${duration}",ON EChannel (HD 8Mbps)
 http://192.168.11.1:61292/udp/232.84.3.76:11596
-#EXTINF:0 tvg-id="vtvcab7hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/nqwVkmM.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=202&time=${start}&offset=${duration}",ON O2TV (HD 8Mbps)
+#EXTINF:0 tvg-id="vtvcab7hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/nqwVkmM.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=27&time=${start}&offset=${duration}",ON O2TV (HD 8Mbps)
 http://192.168.11.1:61292/udp/232.84.3.74:11608
 #EXTINF:0 tvg-id="vtvcab8hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/YFmPo7l.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=205&time=${start}&offset=${duration}",ON BiBi (HD 8.5Mbps)
 http://192.168.11.1:61292/udp/232.84.3.217:11224
@@ -245,7 +245,7 @@ http://192.168.11.1:61292/udp/232.84.3.99:11464
 http://192.168.11.1:61292/udp/232.84.3.109:10750
 #EXTINF:0 tvg-id="binhduong2" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/LpV0d3Q.png",BTV2 _ TH Bình Dương (TV360)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tv.TruyenHinh.Click/CoBan/131/TuyetDoiKhongKinhDoanh
+https://tv.TruyenHinh.Click/CoBan/131/TuyetDoiKhongKinhDoanh.m3u8
 #https://live.fptplay53.net/epzhd2/btv2_hls.smil/chunklist_b2500000.m3u8
 #http://192.168.11.1:61292/udp/232.84.1.137:8796
 #EXTINF:0 tvg-id="anvienhd" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/jeunb3Y.png",BTV9 B Channel (HD 8.5Mbps)
@@ -255,7 +255,7 @@ http://192.168.11.1:61292/udp/232.84.3.112:10762
 #EXTINF:0 tvg-id="dongnai2" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/tIvmaaX.png",ĐNRTV2 _ TH Đồng Nai (TV360)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #https://live.fptplay53.net/epzsd1/dongnai2_hls.smil/chunklist_b2500000.m3u8
-https://tv.TruyenHinh.Click/CoBan/184/TuyetDoiKhongKinhDoanh
+https://tv.TruyenHinh.Click/CoBan/184/TuyetDoiKhongKinhDoanh.m3u8
 #http://192.168.11.1:61292/udp/232.84.1.153:8892
 #EXTINF:0 tvg-id="tayninh" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/0DU4cyg.png",TTV11 _ TH Tây Ninh (HD 6Mbps)
 http://192.168.11.1:61292/udp/232.84.3.233:11320
@@ -280,57 +280,57 @@ http://192.168.11.1:61292/udp/232.84.3.97:11470
 #EXTINF:0 tvg-id="laocai" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/QAVSUBu.png",THLC _ TH Lào Cai
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #https://live.fptplay53.net/fnxsd1/laocai_hls.smil/chunklist_b2500000.m3u8
-https://tv.TruyenHinh.Click/CoBan/160/TuyetDoiKhongKinhDoanh
+https://tv.TruyenHinh.Click/CoBan/160/TuyetDoiKhongKinhDoanh.m3u8
 #http://192.168.11.1:61292/udp/232.84.2.93:8718
 #EXTINF:0 tvg-id="dienbien" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/Rky1N5S.png",ĐTV _ TH Điện Biên
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #https://live.fptplay53.net/fnxsd1/dienbien_hls.smil/chunklist_b2500000.m3u8
-https://tv.TruyenHinh.Click/CoBan/140/TuyetDoiKhongKinhDoanh
+https://tv.TruyenHinh.Click/CoBan/140/TuyetDoiKhongKinhDoanh.m3u8
 #http://192.168.11.1:61292/udp/232.84.3.116:8880
 #EXTINF:0 tvg-id="laichau" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/we3GCjr.png",LTV _ TH Lai Châu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #https://live.fptplay53.net/fnxsd1/laichau_hls.smil/chunklist_b2500000.m3u8
-https://tv.TruyenHinh.Click/CoBan/157/TuyetDoiKhongKinhDoanh
+https://tv.TruyenHinh.Click/CoBan/157/TuyetDoiKhongKinhDoanh.m3u8
 #http://192.168.11.1:61292/udp/232.84.3.133:9174
 #EXTINF:0 tvg-id="sonla" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/QZT6GIh.png",STV _ TH Sơn La
 http://192.168.11.1:61292/udp/232.84.1.184:9078
 #EXTINF:0 tvg-id="hagiang" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/h7uPIEP.png",HGTV _ TH Hà Giang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #https://live.fptplay53.net/fnxsd1/hagiang_hls.smil/chunklist_b2500000.m3u8
-https://tv.TruyenHinh.Click/CoBan/145/TuyetDoiKhongKinhDoanh
+https://tv.TruyenHinh.Click/CoBan/145/TuyetDoiKhongKinhDoanh.m3u8
 #http://192.168.11.1:61292/udp/232.84.2.85:8910
 #EXTINF:0 tvg-id="tuyenquang" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/6RPgRE7.png",TTV _ TH Tuyên Quang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #https://live.fptplay53.net/fnxsd1/tuyenquang_hls.smil/chunklist_b2500000.m3u8
-https://tv.TruyenHinh.Click/CoBan/180/TuyetDoiKhongKinhDoanh
+https://tv.TruyenHinh.Click/CoBan/180/TuyetDoiKhongKinhDoanh.m3u8
 #http://192.168.11.1:61292/udp/232.84.2.91:9138
 #EXTINF:0 tvg-id="hanam" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/DCSPntI.png",THHN _ TH Hà Nam
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #http://192.168.11.1:61292/udp/232.84.2.82:8916
-https://tv.TruyenHinh.Click/CoBan/146/TuyetDoiKhongKinhDoanh
+https://tv.TruyenHinh.Click/CoBan/146/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:0 tvg-id="namdinh" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/qW62XEm.png",NTV _ TH Nam Định
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tv.TruyenHinh.Click/CoBan/141/TuyetDoiKhongKinhDoanh
+https://tv.TruyenHinh.Click/CoBan/141/TuyetDoiKhongKinhDoanh.m3u8
 #http://192.168.11.1:61292/udp/232.84.3.119:9006
 #EXTINF:0 tvg-id="thaibinh" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/fP7B6A4.png",TBTV _ TH Thái Bình
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #https://live.fptplay53.net/fnxsd1/thaibinh_hls.smil/chunklist_b2500000.m3u8
-https://tv.TruyenHinh.Click/CoBan/175/TuyetDoiKhongKinhDoanh
+https://tv.TruyenHinh.Click/CoBan/175/TuyetDoiKhongKinhDoanh.m3u8
 #http://192.168.11.1:61292/udp/232.84.2.100:9090
 #EXTINF:0 tvg-id="vinhphuc" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/rrxDn5n.png",VP _ TH Vĩnh Phúc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #https://live.fptplay53.net/fnxsd1/vinhphuc_hls.smil/chunklist_b2500000.m3u8
-https://tv.TruyenHinh.Click/CoBan/181/TuyetDoiKhongKinhDoanh
+https://tv.TruyenHinh.Click/CoBan/181/TuyetDoiKhongKinhDoanh.m3u8
 #http://192.168.11.1:61292/udp/232.84.2.83:9156
 #EXTINF:0 tvg-id="quangbinh" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/8yOdFDx.png",QBTV _ TH Quảng Bình
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #https://live.fptplay53.net/epzsd1/quangbinh_hls.smil/chunklist_b2500000.m3u8
-https://tv.TruyenHinh.Click/CoBan/167/TuyetDoiKhongKinhDoanh
+https://tv.TruyenHinh.Click/CoBan/167/TuyetDoiKhongKinhDoanh.m3u8
 #http://192.168.11.1:61292/udp/232.84.2.98:9042
 #EXTINF:0 tvg-id="hue" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/29px2Qy.png",TRT _ TH Thừa Thiên Huế
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #http://192.168.11.1:61292/udp/232.84.2.106:9120
-https://tv.TruyenHinh.Click/CoBan/152/TuyetDoiKhongKinhDoanh
+https://tv.TruyenHinh.Click/CoBan/152/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:0 tvg-id="danang1" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/6OWQ8lU.png",DaNangTV1 _ TH TP. Đà Nẵng (FPT Play)
 https://live.fptplay53.net/epzsd1/danang1_hls.smil/chunklist_b2500000.m3u8
 #http://192.168.11.1:61292/udp/232.84.1.146:8850
@@ -340,48 +340,48 @@ https://live.fptplay53.net/epzsd1/danang2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="quangnam" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/uWHWxZB.png",QRT _ TH Quảng Nam
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #https://live.fptplay53.net/epzsd1/quangnam_hls.smil/chunklist_b2500000.m3u8
-https://tv.TruyenHinh.Click/CoBan/168/TuyetDoiKhongKinhDoanh
+https://tv.TruyenHinh.Click/CoBan/168/TuyetDoiKhongKinhDoanh.m3u8
 #http://192.168.11.1:61292/udp/232.84.2.81:9048
 #EXTINF:0 tvg-id="binhdinh" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/APCkufv.png",BTV _ TH Bình Định
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #https://live.fptplay53.net/epzsd1/quangnam_hls.smil/chunklist_b2500000.m3u8
-https://tv.TruyenHinh.Click/CoBan/129/TuyetDoiKhongKinhDoanh
+https://tv.TruyenHinh.Click/CoBan/129/TuyetDoiKhongKinhDoanh.m3u8
 #http://192.168.11.1:61292/udp/232.84.2.88:8784
 #EXTINF:0 tvg-id="phuyen" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/r2xMHkT.png",PTP _ TH Phú Yên
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #https://live.fptplay53.net/epzsd1/binhdinh_hls.smil/chunklist_b2500000.m3u8
-https://tv.TruyenHinh.Click/CoBan/166/TuyetDoiKhongKinhDoanh
+https://tv.TruyenHinh.Click/CoBan/166/TuyetDoiKhongKinhDoanh.m3u8
 #http://192.168.11.1:61292/udp/232.84.3.108:10362
 #EXTINF:0 tvg-id="khanhhoa" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/kPu3rSN.png",KTV _ TH Khánh Hòa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #https://live.fptplay53.net/epzsd1/phuyen_hls.smil/chunklist_b2500000.m3u8
-https://tv.TruyenHinh.Click/CoBan/154/TuyetDoiKhongKinhDoanh
+https://tv.TruyenHinh.Click/CoBan/154/TuyetDoiKhongKinhDoanh.m3u8
 #http://192.168.11.1:61292/udp/232.84.2.99:8958
 #EXTINF:0 tvg-id="ninhthuan" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/cx5AaTV.png",NTV _ TH Ninh Thuận
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #https://live.fptplay53.net/epzsd1/ninhthuan_hls.smil/chunklist_b2500000.m3u8
-https://tv.TruyenHinh.Click/CoBan/164/TuyetDoiKhongKinhDoanh
+https://tv.TruyenHinh.Click/CoBan/164/TuyetDoiKhongKinhDoanh.m3u8
 #http://192.168.11.1:61292/udp/232.84.2.74:9024
 #EXTINF:0 tvg-id="binhthuan" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/Bu1xsiJ.png",BTV _ TH Bình Thuận
 #https://live.fptplay53.net/epzsd1/binhthuan_hls.smil/chunklist_b2500000.m3u8
-https://tv.TruyenHinh.Click/CoBan/133/TuyetDoiKhongKinhDoanh
+https://tv.TruyenHinh.Click/CoBan/133/TuyetDoiKhongKinhDoanh.m3u8
 #http://192.168.11.1:61292/udp/232.84.2.77:8820
 #EXTINF:0 tvg-id="gialai" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/csqFzvA.png",THGL _ TH Gia Lai
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #https://live.fptplay53.net/epzsd1/gialai_hls.smil/chunklist_b2500000.m3u8
-https://tv.TruyenHinh.Click/CoBan/144/TuyetDoiKhongKinhDoanh
+https://tv.TruyenHinh.Click/CoBan/144/TuyetDoiKhongKinhDoanh.m3u8
 #http://192.168.11.1:61292/udp/232.84.3.138:8904
 #EXTINF:0 tvg-id="daknong" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/L2tMltg.png",PTD _ TH Đắk Nông (TV360)
 #http://192.168.11.1:61292/udp/232.84.3.140:8874
-https://tv.TruyenHinh.Click/CoBan/138/TuyetDoiKhongKinhDoanh
+https://tv.TruyenHinh.Click/CoBan/138/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:0 tvg-id="lamdong" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/Tv0fNk3.png",LTV _ TH Lâm Đồng (TV360)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #https://live.fptplay53.net/epzsd1/lamdong_hls.smil/chunklist_b2500000.m3u8
-https://tv.TruyenHinh.Click/CoBan/158/TuyetDoiKhongKinhDoanh
+https://tv.TruyenHinh.Click/CoBan/158/TuyetDoiKhongKinhDoanh.m3u8
 #http://192.168.11.1:61292/udp/232.84.2.78:8976
 #EXTINF:0 tvg-id="binhphuoc1" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/DHWoGfP.png",BPTV1 _ TH Bình Phước
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tv.TruyenHinh.Click/CoBan/132/TuyetDoiKhongKinhDoanh
+https://tv.TruyenHinh.Click/CoBan/132/TuyetDoiKhongKinhDoanh.m3u8
 #https://live.fptplay53.net/epzsd1/binhphuoc1_hls.smil/chunklist_b2500000.m3u8
 #http://192.168.11.1:61292/udp/232.84.2.90:8814
 #EXTINF:0 tvg-id="binhphuoc2" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/CyhvaPs.png",BPTV2 HD _ TH Bình Phước
@@ -399,17 +399,17 @@ https://live.fptplay53.net/epzsd1/haugiang_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="baclieu" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/FoAzh3R.png",BLTV _ TH Bạc Liêu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #https://live.fptplay53.net/epzsd1/baclieu_hls.smil/chunklist_b2500000.m3u8
-https://tv.TruyenHinh.Click/CoBan/126/TuyetDoiKhongKinhDoanh
+https://tv.TruyenHinh.Click/CoBan/126/TuyetDoiKhongKinhDoanh.m3u8
 #http://192.168.11.1:61292/udp/232.84.2.116:8766
 #EXTINF:0 tvg-id="camau" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/cYqXh3i.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=123&time=${start}&offset=${duration}",CTV _ TH Cà Mau
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tv.TruyenHinh.Click/CoBan/134/TuyetDoiKhongKinhDoanh
+https://tv.TruyenHinh.Click/CoBan/134/TuyetDoiKhongKinhDoanh.m3u8
 #https://live.fptplay53.net/epzsd1/camau_hls.smil/chunklist_b2500000.m3u8
 #http://192.168.11.1:61292/udp/232.84.2.117:8826
 #EXTINF:0 tvg-id="cantho" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/NyrxzES.png",THTPCT _ TH TP. Cần Thơ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #https://live.fptplay53.net/epzsd1/cantho_hls.smil/chunklist_b2500000.m3u8
-https://tv.TruyenHinh.Click/CoBan/135/TuyetDoiKhongKinhDoanh
+https://tv.TruyenHinh.Click/CoBan/135/TuyetDoiKhongKinhDoanh.m3u8
 #http://192.168.11.1:61292/udp/232.84.2.118:8838
 \#------------------------Quốc Tế------------------------#
 #EXTINF:0 tvg-id="hbohd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO (HD 11Mbps)
@@ -426,44 +426,44 @@ http://192.168.11.1:61292/udp/232.84.1.77:8436
 http://192.168.11.1:61292/udp/232.84.1.13:8052
 #EXTINF:-1 tvg-id="boxmovie1" group-title=" In The Box" tvg-logo="https://imgur.com/zLjBSIu.png", Box Movie 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tv.TruyenHinh.Click/CoBan/boxmovie1hd/TuyetDoiKhongKinhDoanh
+https://tv.TruyenHinh.Click/CoBan/boxmovie1hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title=" In The Box" tvg-logo="https://imgur.com/uNsPkSq.png", Hollywood Classics
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tv.TruyenHinh.Click/CoBan/hollywoodclassichd/TuyetDoiKhongKinhDoanh
+https://tv.TruyenHinh.Click/CoBan/hollywoodclassichd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="inthebox" group-title=" In The Box" tvg-logo="https://imgur.com/u9U4g7L.png", In The Box
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tv.TruyenHinh.Click/CoBan/inthebox/TuyetDoiKhongKinhDoanh
+https://tv.TruyenHinh.Click/CoBan/inthebox/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="boxhits" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hits TV360
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tv.TruyenHinh.Click/CoBan/boxhits/TuyetDoiKhongKinhDoanh
+https://tv.TruyenHinh.Click/CoBan/boxhits/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="man" group-title=" In The Box" tvg-logo="https://imgur.com/b7mYkbb.png", Man
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tv.TruyenHinh.Click/CoBan/man/TuyetDoiKhongKinhDoanh
+https://tv.TruyenHinh.Click/CoBan/man/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="musicbox" group-title=" In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/257.png", Music Box TV360
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tv.TruyenHinh.Click/CoBan/musicbox/TuyetDoiKhongKinhDoanh
+https://tv.TruyenHinh.Click/CoBan/musicbox/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="drfithd" group-title=" In The Box" tvg-logo="https://imgur.com/dwshpnw.png", Dr.Fit
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tv.TruyenHinh.Click/CoBan/drfithd/TuyetDoiKhongKinhDoanh
+https://tv.TruyenHinh.Click/CoBan/drfithd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="happykids" group-title=" In The Box" tvg-logo="https://imgur.com/iY5dpte.png", Happy Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tv.TruyenHinh.Click/CoBan/happykidshd/TuyetDoiKhongKinhDoanh
+https://tv.TruyenHinh.Click/CoBan/happykidshd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="planetearthhd" group-title=" In The Box" tvg-logo="https://imgur.com/qkvaowM.png", Planet Earth
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tv.TruyenHinh.Click/CoBan/planetearthhd/TuyetDoiKhongKinhDoanh
+https://tv.TruyenHinh.Click/CoBan/planetearthhd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="woman" group-title=" In The Box" tvg-logo="https://imgur.com/syLP7VU.png", Woman
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tv.TruyenHinh.Click/CoBan/womanhd/TuyetDoiKhongKinhDoanh
+https://tv.TruyenHinh.Click/CoBan/womanhd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="historyhd" group-title="Quốc Tế" tvg-logo="https://imgur.com/XjokfTR.png", History HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tv.TruyenHinh.Click/CoBan/historyhd/TuyetDoiKhongKinhDoanh
+https://tv.TruyenHinh.Click/CoBan/historyhd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="hgtvhd" group-title="Quốc Tế" tvg-logo="https://imgur.com/Z0f8gL8.png", HGTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tv.TruyenHinh.Click/CoBan/hgtv/TuyetDoiKhongKinhDoanh
+https://tv.TruyenHinh.Click/CoBan/hgtv/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="kix" group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/26/KIX.png/revision/latest/scale-to-width-down/1200?cb=20211017094335&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/kixhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", KIX HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
-#https://tv.TruyenHinh.Click/CoBan/kix/TuyetDoiKhongKinhDoanh
+#https://tv.TruyenHinh.Click/CoBan/kix/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:0 tvg-id="" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/Yhpx1Ve.png",Clubbing TV (HD 8.5Mbps)
 http://192.168.11.1:61292/udp/232.84.3.96:11476
 #EXTINF:0 tvg-id="fashionhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/ALDt1JX.png",Fashion TV (HD 8.5Mbps)
@@ -504,6 +504,8 @@ http://192.168.11.1:61292/udp/232.84.3.224:11266
 http://192.168.11.1:61292/udp/232.84.3.153:10690
 #EXTINF:0 tvg-id="bloomberg" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/rxFZgIK.png",Bloomberg (HD 15Mbps)
 http://192.168.11.1:61292/udp/232.84.3.157:10696
+#EXTINF: tvg-id="cnbc" tvg-name="CNBC" tvg-logo="https://imgur.com/Be8Ou1b.png" group-title="Kênh quốc tế",CNBC
+http://192.168.11.1:61292/udp/232.84.3.179:10488
 #EXTINF:0 tvg-id="" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/RIQE8kA.png",CNA (HD 6.5Mbps)
 http://192.168.11.1:61292/udp/232.84.3.155:10540
 #EXTINF:0 tvg-id="dw" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/Ppi36a4.png",DW (English) (HD 8.5Mbps)
