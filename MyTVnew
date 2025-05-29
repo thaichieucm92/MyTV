@@ -403,8 +403,9 @@ https://xem.TruyenHinh.Click/CoBan/126/TuyetDoiKhongKinhDoanh.m3u8
 #http://192.168.11.1:61292/udp/232.84.2.116:8766
 #EXTINF:0 tvg-id="camau" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/cYqXh3i.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=123&time=${start}&offset=${duration}",CTV _ TH Cà Mau
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://xem.TruyenHinh.Click/CoBan/134/TuyetDoiKhongKinhDoanh.m3u8
-#https://live.fptplay53.net/epzsd1/camau_hls.smil/chunklist_b2500000.m3u8
+http://mail.glevn.com:56321/udp/225.1.1.104:30120
+#https://xem.TruyenHinh.Click/CoBan/134/TuyetDoiKhongKinhDoanh.m3u8
+#https://live.fptplay53.net/epzsd1/camau_hls.smil/chunklist.m3u8
 #http://192.168.11.1:61292/udp/232.84.2.117:8826
 #EXTINF:0 tvg-id="cantho" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/NyrxzES.png",THTPCT _ TH TP. Cần Thơ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
