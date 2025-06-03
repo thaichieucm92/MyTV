@@ -460,16 +460,14 @@ https://sgchill.io.vn/360/135/index.m3u8
 https://sgchill.io.vn/360/163/index.m3u8
 #EXTINF:-1 tvg-id="historyhd" group-title="Quốc Tế" tvg-logo="https://imgur.com/XjokfTR.png", History HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://xem.TruyenHinh.Click/CoBan/historyhd/TuyetDoiKhongKinhDoanh.m3u8
+https://sgchill.io.vn/360/9856/index.m3u8
 #EXTINF:-1 tvg-id="hgtvhd" group-title="Quốc Tế" tvg-logo="https://imgur.com/Z0f8gL8.png", HGTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://xem.TruyenHinh.Click/CoBan/hgtv/TuyetDoiKhongKinhDoanh.m3u8
+https://sgchill.io.vn/360/99/index.m3u8
 #EXTINF:-1 tvg-id="kix" group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/26/KIX.png/revision/latest/scale-to-width-down/1200?cb=20211017094335&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/kixhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", KIX HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
-#https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
-https://xem.TruyenHinh.Click/CoBan/kix/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:0 tvg-id="" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/Yhpx1Ve.png",Clubbing TV (HD 8.5Mbps)
-http://192.168.11.1:61292/udp/232.84.3.96:11476
+https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
+
 #EXTINF:0 tvg-id="fashionhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/ALDt1JX.png",Fashion TV (HD 8.5Mbps)
 http://192.168.11.1:61292/udp/232.84.3.149:10522
 #EXTINF:0 tvg-id="cinemaworldhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/vFVxJx4.png",Cinema World (HD 8Mbps)
@@ -749,3 +747,5 @@ http://192.168.11.1:61292/udp/232.84.1.74:8418
 http://192.168.11.1:61292/udp/232.84.3.193:11080
 #EXTINF:0 tvg-id="" group-title="" tvg-logo="",(VTC Infocard)
 http://192.168.11.1:61292/udp/232.84.1.62:8346
+#EXTINF:0 tvg-id="" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/Yhpx1Ve.png",Clubbing TV (HD 8.5Mbps)
+http://192.168.11.1:61292/udp/232.84.3.96:11476
