@@ -419,6 +419,11 @@ http://mail.glevn.com:56321/udp/225.1.1.104:30120
 #https://live.fptplay53.net/epzsd1/cantho_hls.smil/chunklist_b2500000.m3u8
 https://sgchill.io.vn/360/47/index.m3u8
 #http://192.168.11.1:61292/udp/232.84.2.118:8838
+
+
+#EXTINF:0 tvg-id="hanoi2" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 4K _ TH Hà Nội
+http://mail.glevn.com:56321/udp/225.1.1.109:30120
+
 #------------------------Quốc Tế------------------------#
 #EXTINF:0 tvg-id="hbohd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO (HD 11Mbps)
 http://192.168.11.1:61292/udp/232.84.3.101:10648
