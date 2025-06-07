@@ -162,8 +162,7 @@ http://192.168.11.1:61292/udp/232.84.3.26:11896
 http://192.168.11.1:61292/udp/232.84.3.25:11902
 #EXTINF:0 tvg-id="sctv13hd" group-title="SCTV" tvg-logo="https://i.imgur.com/PEz2Ieq.png",SCTV13 (HD 7Mbps)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv13
-#http://192.168.11.1:61292/udp/232.84.3.24:11908
+http://192.168.11.1:61292/udp/232.84.3.24:11908
 #EXTINF:0 tvg-id="sctv14hd" group-title="SCTV" tvg-logo="https://i.imgur.com/1yNMyEh.png",SCTV14 (HD 7Mbps)
 http://192.168.11.1:61292/udp/232.84.3.23:11914
 #EXTINF:0 tvg-id="sctv15hd" group-title="SCTV" tvg-logo="https://i.imgur.com/EPwjrlB.png",SCTV15 (HD 7Mbps)
@@ -189,6 +188,8 @@ http://192.168.11.1:61292/udp/232.84.3.14:11968
 http://192.168.11.1:61292/udp/232.84.3.143:10738
 #EXTINF:0 tvg-id="hanoi2" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 HD _ TH Hà Nội (HD 4Mbps)
 http://192.168.11.1:61292/udp/232.84.3.137:10744
+#EXTINF:0 tvg-id="hanoi2" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 4K _ TH Hà Nội
+http://mail.glevn.com:56321/udp/225.1.1.109:30120
 #EXTINF:0 tvg-id="vinhlong1hd" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/gvPtTR2.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=421&time=${start}&offset=${duration}",THVL1 HD _ TH Vĩnh Long (HD 7Mbps)
 http://192.168.11.1:61292/udp/232.84.3.152:10882
 #EXTINF:0 tvg-id="vinhlong2hd" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/wYadDFn.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=423&time=${start}&offset=${duration}",THVL2 HD _ TH Vĩnh Long (HD 8Mbps)
@@ -419,11 +420,6 @@ http://mail.glevn.com:56321/udp/225.1.1.104:30120
 #https://live.fptplay53.net/epzsd1/cantho_hls.smil/chunklist_b2500000.m3u8
 https://sgchill.io.vn/360/47/index.m3u8
 #http://192.168.11.1:61292/udp/232.84.2.118:8838
-
-
-#EXTINF:0 tvg-id="hanoi2" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 4K _ TH Hà Nội
-http://mail.glevn.com:56321/udp/225.1.1.109:30120
-
 #------------------------Quốc Tế------------------------#
 #EXTINF:0 tvg-id="hbohd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO (HD 11Mbps)
 http://192.168.11.1:61292/udp/232.84.3.101:10648
