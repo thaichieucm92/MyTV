@@ -137,48 +137,48 @@ http://192.168.11.1:61292/udp/232.84.3.41:11806
 http://192.168.11.1:61292/udp/232.84.3.40:11812
 #------------------------SCTV------------------------#
 #EXTINF:0 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://i.imgur.com/imhFxSG.png",SCTV1 (HD 5Mbps)
-https://liveh12.seenow.vn/hls/SCTV1/index.m3u8
+https://liveh12.seenow.vn/hls/SCTV1/03.m3u8
 #EXTINF:0 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://i.imgur.com/UpBZOaH.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=772&time=${start}&offset=${duration}",SCTV2 (HD 6Mbps)
 https://xem.HoiQuan.Click/CoBan/sctv2-today-tv/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:0 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://i.imgur.com/wZrGAtH.png",SCTV3 (HD 7Mbps)
-https://liveh12.seenow.vn/hls/SCTV3/index.m3u8
+https://liveh12.seenow.vn/hls/SCTV3/03.m3u8
 #EXTINF:0 tvg-id="sctv4hd" group-title="SCTV" tvg-logo="https://i.imgur.com/ntSnAMJ.png",SCTV4 (HD 7Mbps)
-https://liveh12.seenow.vn/hls/SCTV4/index.m3u8
+https://liveh12.seenow.vn/hls/SCTV4/03.m3u8
 #EXTINF:0 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://i.imgur.com/pSIvTkZ.png",SCTV6 (HD 7Mbps)
 udp://@225.1.1.188:30120
 #EXTINF:0 tvg-id="sctv7hd" group-title="SCTV" tvg-logo="https://i.imgur.com/EdjXUUb.png",SCTV7 (HD 6Mbps)
-https://liveh12.seenow.vn/hls/SCTV7/index.m3u8
+https://liveh12.seenow.vn/hls/SCTV7/03.m3u8
 #EXTINF:0 tvg-id="sctv8hd" group-title="SCTV" tvg-logo="https://i.imgur.com/NULoCoA.png",SCTV8 (HD 5Mbps)
-https://liveh12.seenow.vn/hls/SCTV8/index.m3u8
+https://liveh12.seenow.vn/hls/SCTV8/03.m3u8
 #EXTINF:0 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="https://i.imgur.com/6dvyvea.png",SCTV9 (HD 8Mbps)
-https://liveh12.seenow.vn/hls/SCTV9/index.m3u8
+https://liveh12.seenow.vn/hls/SCTV9/03.m3u8
 #EXTINF:0 tvg-id="sctv11hd" group-title="SCTV" tvg-logo="https://i.imgur.com/AP2o4bW.png",SCTV11 (HD 7Mbps)
-https://liveh12.seenow.vn/hls/SCTV11/index.m3u8
+https://liveh12.seenow.vn/hls/SCTV11/03.m3u8
 #EXTINF:0 tvg-id="sctv12hd" group-title="SCTV" tvg-logo="https://i.imgur.com/5nrSZd8.png",SCTV12 (HD 7Mbps)
-https://liveh12.seenow.vn/hls/SCTV12/index.m3u8
+https://liveh12.seenow.vn/hls/SCTV12/03.m3u8
 #EXTINF:0 tvg-id="sctv13hd" group-title="SCTV" tvg-logo="https://i.imgur.com/PEz2Ieq.png",SCTV13 (HD 7Mbps)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://liveh12.seenow.vn/hls/SCTV13/index.m3u8
+https://liveh12.seenow.vn/hls/SCTV13/03.m3u8
 #EXTINF:0 tvg-id="sctv14hd" group-title="SCTV" tvg-logo="https://i.imgur.com/1yNMyEh.png",SCTV14 (HD 7Mbps)
-https://liveh12.seenow.vn/hls/SCTV14/index.m3u8
+https://liveh12.seenow.vn/hls/SCTV14/03.m3u8
 #EXTINF:0 tvg-id="sctv15hd" group-title="SCTV" tvg-logo="https://i.imgur.com/EPwjrlB.png",SCTV15 (HD 7Mbps)
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv15
 #EXTINF:0 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://i.imgur.com/b4ZROQG.png",SCTV16 (HD 7Mbps)
-https://liveh12.seenow.vn/hls/SCTV16/index.m3u8
+https://liveh12.seenow.vn/hls/SCTV16/03.m3u8
 #EXTINF:0 tvg-id="sctv17hd" group-title="SCTV" tvg-logo="https://i.imgur.com/Ghjy4HY.png",SCTV17 (HD 7Mbps)
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv17
 #EXTINF:0 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="https://i.imgur.com/k2Eg4T4.png",SCTV18 (HD 6Mbps)
-https://liveh12.seenow.vn/hls/SCTV18/index.m3u8
+https://liveh12.seenow.vn/hls/SCTV18/03.m3u8
 #EXTINF:0 tvg-id="sctv19hd" group-title="SCTV" tvg-logo="https://i.imgur.com/s4vfvNb.png",SCTV19 (HD 7Mbps)
-https://liveh12.seenow.vn/hls/SCTV19/index.m3u8
+https://liveh12.seenow.vn/hls/SCTV19/03.m3u8
 #EXTINF:0 tvg-id="sctv20hd" group-title="SCTV" tvg-logo="https://i.imgur.com/zwfqboB.png",SCTV20 (HD 7Mbps)
-https://liveh12.seenow.vn/hls/SCTV20/index.m3u8
+https://liveh12.seenow.vn/hls/SCTV20/03.m3u8
 #EXTINF:0 tvg-id="sctv21hd" group-title="SCTV" tvg-logo="https://i.imgur.com/aHKybQW.png",SCTV21 (HD 7Mbps)
-https://liveh12.seenow.vn/hls/SCTV21/index.m3u8
+https://liveh12.seenow.vn/hls/SCTV21/03.m3u8
 #EXTINF:0 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="https://i.imgur.com/O0HdUpB.png",SCTV22 (HD 7Mbps)
-https://liveh12.seenow.vn/hls/SCTV22/index.m3u8
+https://liveh12.seenow.vn/hls/SCTV22/03.m3u8
 #EXTINF:0 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://i.imgur.com/VzZYa4n.png",SCTV Phim Tổng Hợp (HD 6Mbps)
-https://liveh12.seenow.vn/hls/SCTVPHIM/index.m3u8
+https://liveh12.seenow.vn/hls/SCTVPHIM/03.m3u8
 #EXTINF:0 tvg-id="sctv4k" group-logo="https://xem.HoiQuan.Click/HoiQuanLogo/Images/HinhNhom.png" group-title="Kênh SCTV" tvg-logo="https://xem.HoiQuan.Click/Logo/sctv4k/KenhBoSung",SCTV4K 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://z215ymcm4tliv.vcdn.cloud/s97/hls/sctv4k/index.m3u8
@@ -260,9 +260,9 @@ udp://@225.1.1.133:30120
 udp://@225.1.2.178:30120
 #EXTINF:0 tvg-id="lamdong" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/LTV1_LamDong.png",LTV1 | Báo và PTTH Lâm Đồng (HD 8Mbps)
 udp://@225.1.2.177:30120
-#EXTINF:0 tvg-id="lamdong" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/LTV2_LamDong.png",LTV2 | Báo và PTTH Lâm Đồng (HD 8Mbps)
+#EXTINF:0 tvg-id="binhthua" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/LTV2_LamDong.png",LTV2 | Báo và PTTH Lâm Đồng (HD 8Mbps)
 udp://@225.1.1.124:30120
-#EXTINF:0 tvg-id="lamdong" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/Tv0fNk3.png",LTV3 | Báo và PTTH Lâm Đồng
+#EXTINF:0 tvg-id="dacnong" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/Tv0fNk3.png",LTV3 | Báo và PTTH Lâm Đồng
 https://xem.HoiQuan.Click/CoBan/dac-nong/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:0 tvg-id="vungtau" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/KX2RMXR.png",BRT HD | Đài PTTH Bà Rịa Vũng Tàu (HD 8Mbps)
 http://192.168.11.1:61292/udp/232.84.3.47:11770
@@ -294,9 +294,9 @@ http://192.168.11.1:61292/udp/232.84.3.164:10888
 http://192.168.11.1:61292/udp/232.84.3.165:10900
 #EXTINF:0 tvg-id="vinhlong4hd" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/xYalJzh.png",THVL4 HD | Báo và Đài PTTH Vĩnh Long (HD 7Mbps)
 http://192.168.11.1:61292/udp/232.84.3.160:10912
-#EXTINF:0 tvg-id="vinhlong2hd" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/wYadDFn.png",THVL2 HD | Báo và Đài PTTH Vĩnh Long BẾN TRE
+#EXTINF:0 tvg-id="bentre" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/wYadDFn.png",THVL2 HD | Báo và Đài PTTH Vĩnh Long BẾN TRE
 http://192.168.11.1:61292/udp/232.84.3.95:11482
-#EXTINF:0 tvg-id="vinhlong2hd" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/wYadDFn.png",THVL2 HD | Báo và Đài PTTH Vĩnh Long TRÀ VINH
+#EXTINF:0 tvg-id="travinh" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/wYadDFn.png",THVL2 HD | Báo và Đài PTTH Vĩnh Long TRÀ VINH
 udp://@225.1.2.172:30120
 #EXTINF:0 tvg-id="kiengiang" group-title="Địa Phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/ATV1_AnGiang.png",ATV1 | Báo và PTTH An Giang (HD 6Mbps)
 http://192.168.11.1:61292/udp/232.84.3.161:10918
@@ -306,9 +306,9 @@ http://192.168.11.1:61292/udp/232.84.3.81:11566
 udp://@225.1.1.104:30120
 #EXTINF:0 tvg-id="cantho" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/THTPCT_CanTho.png",THTPCT1 | Đài PTTH Thành phố Cần Thơ (HD 8Mbps)
 udp://@225.1.1.132:30120
-#EXTINF:0 tvg-id="cantho" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/THTPCT2_CanTho.png",THTPCT2 | Đài PTTH Thành phố Cần Thơ (HD 8Mbps)
+#EXTINF:0 tvg-id="haugiang" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/THTPCT2_CanTho.png",THTPCT2 | Đài PTTH Thành phố Cần Thơ (HD 8Mbps)
 udp://@225.1.1.157:30120
-#EXTINF:0 tvg-id="cantho" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/THTPCT3_CanTho.png",THTPCT3 | Đài PTTH Thành phố Cần Thơ (HD 8Mbps)
+#EXTINF:0 tvg-id="soctrang" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/THTPCT3_CanTho.png",THTPCT3 | Đài PTTH Thành phố Cần Thơ (HD 8Mbps)
 http://192.168.11.1:61292/udp/232.84.3.97:11470
 #------------------------Quốc Tế (HD)------------------------#
 #EXTINF:0 tvg-id="hbohd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO (HD 8.5Mbps)
@@ -358,7 +358,7 @@ https://xem.HoiQuan.Click/CoBan/woman-hd/TuyetDoiKhongKinhDoanh.m3u8
 https://xem.HoiQuan.Click/CoBan/history-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="hgtvhd" group-title="Quốc Tế" tvg-logo="https://imgur.com/Z0f8gL8.png", HGTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://xem.HoiQuan.Click/CoBan/hgtv/TuyetDoiKhongKinhDoanh.m3u8
+https://xem.hoiquan.Click/CoBan/hgtv/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:0 tvg-id="animalhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/TBgGuJy.png",Animal Planet (HD 8.5Mbps)
 http://192.168.11.1:61292/udp/232.84.3.139:10702
 #EXTINF:0 tvg-id="bbcearth" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/qUiM77S.png",BBC Earth (HD 10Mbps)
