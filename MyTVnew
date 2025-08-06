@@ -605,3 +605,127 @@ http://192.168.11.1:61292/udp/232.84.2.143:10678
 http://192.168.11.1:61292/udp/232.84.3.210:11182
 #EXTINF:0 tvg-id="" group-title="" tvg-logo="",(Testcard)
 http://192.168.11.1:61292/udp/232.84.3.209:11176
+
+
+
+
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2201/057/821/202204010054_1626677502161_H169_1080.jpg" group-title="Trung Quốc", CCTV1综合
+http://117.158.43.187:2016/全网通.php?id=CCTV1
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/346/945/202205311432_1653977575541_H169_1080.jpg" group-title="Trung Quốc", CCTV2财经
+http://117.158.43.187:2016/全网通.php?id=CCTV2
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/212/864/202204010055_1626679292691_H169_1080.jpg" group-title="Trung Quốc", CCTV3综艺
+http://117.158.43.187:2016/全网通.php?id=CCTV3
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/346/947/202204010054_1626679457281_H169_1080.jpg" group-title="Trung Quốc", CCTV4中文国际
+http://117.158.43.187:2016/全网通.php?id=CCTV4
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/516/171/202204010048_1626679645474_H169_1080.jpg" group-title="Trung Quốc", CCTV5体育
+http://117.158.43.187:2016/全网通.php?id=CCTV5
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/516/288/202204010048_1626679726956_H169_1080.jpg" group-title="Trung Quốc", CCTV5+体育赛事
+http://117.158.43.187:2016/全网通.php?id=CCTV5p
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/212/872/202204010054_1626679942827_H169_1080.jpg" group-title="Trung Quốc", CCTV6电影
+http://117.158.43.187:2016/全网通.php?id=CCTV6
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5501/083/622/202204010054_1626680072401_H169_1080.jpg" group-title="Trung Quốc", CCTV7国防军事
+http://117.158.43.187:2016/全网通.php?id=CCTV7
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/212/868/202204010049_1626677144094_H169_1080.jpg" group-title="Trung Quốc", CCTV8电视剧
+http://117.158.43.187:2016/全网通.php?id=CCTV8
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5501/083/624/202204010054_1626677492322_H169_1080.jpg" group-title="Trung Quốc", CCTV9纪录
+http://117.158.43.187:2016/全网通.php?id=CCTV9
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/212/874/202204010054_1626677759168_H169_1080.jpg" group-title="Trung Quốc", CCTV10科教
+http://117.158.43.187:2016/全网通.php?id=CCTV10
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/988/610/202204010054_1626677917611_H169_1080.jpg" group-title="Trung Quốc", CCTV11戏曲
+http://117.158.43.187:2016/全网通.php?id=CCTV11
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5501/083/627/202204010053_1626678104342_H169_1080.jpg" group-title="Trung Quốc", CCTV12社会与法
+http://117.158.43.187:2016/全网通.php?id=CCTV12
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2202/208/864/202204010051_2202208864_H169_1080.jpg" group-title="Trung Quốc", CCTV13新闻
+http://117.158.43.187:2016/全网通.php?id=CCTV13
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/212/875/202204010054_1626678143105_H169_1080.jpg" group-title="Trung Quốc", CCTV14少儿
+http://117.158.43.187:2016/全网通.php?id=CCTV14
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5501/083/628/202204010054_1626678239769_H169_1080.jpg" group-title="Trung Quốc", CCTV15音乐
+http://117.158.43.187:2016/全网通.php?id=CCTV15
+#EXTINF:-1 tvg-logo="" group-title="Trung Quốc", CCTV16奥林匹克
+http://117.158.43.187:2016/全网通.php?id=CCTV16
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5501/083/631/202204010052_1626678423944_H169_1080.jpg" group-title="Trung Quốc", CCTV17农业农村
+http://117.158.43.187:2016/全网通.php?id=CCTV17
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/179/356/202502251602_1740470533820_H169_1080.jpg" group-title="Trung Quốc", CGTN外语记录
+https://english-livebkali.cgtn.com/live/encgtn.m3u8
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/179/303/202502251557_1740470224929_H169_1080.jpg" group-title="Trung Quốc", CGTN阿拉伯语
+https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/179/337/202502251600_1740470429939_H169_1080.jpg" group-title="Trung Quốc", CGTN西班牙语
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/179/324/202502251559_1740470364968_H169_1080.jpg" group-title="Trung Quốc", CGTN法语
+https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/179/332/202502251558_1740470310039_H169_1080.jpg" group-title="Trung Quốc", CGTN俄语
+https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
+#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="Trung Quốc",北京卫视
+http://117.158.43.187:2016/全网通.php?id=北京卫视
+#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="Trung Quốc",湖南卫视
+http://117.158.43.187:2016/全网通.php?id=湖南卫视
+#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="Trung Quốc",浙江卫视
+http://8.138.7.223/tv/zjws.m3u8
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/058/351/202106171938_5100043384_H169_1080.jpg" group-title="Trung Quốc", 东方卫视
+http://117.158.43.187:2016/全网通.php?id=东方卫视
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/199/408/202104022140_5100156802_H169_1080.jpg" group-title="Trung Quốc", 江苏卫视
+https://smart.pendy.dpdns.org/Smart.php?id=jiangsu_twn
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2202/428/795/202107191524_2202428795_H169_1080.jpg" group-title="Trung Quốc", 广东卫视
+http://117.158.43.187:2016/全网通.php?id=广东卫视
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2202/428/795/202107191524_2202428795_H169_1080.jpg" group-title="Trung Quốc", 广东珠江台
+http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/322/852/202304081513_1677570732561_H169_1080.jpg" group-title="Trung Quốc", 大湾区卫视
+https://smart.pendy.dpdns.org/Smart.php?id=nanfang_twn
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/492/202303201551_1658134112236_H169_1080.jpg" group-title="Trung Quốc", 深圳卫视
+http://117.158.43.187:2016/全网通.php?id=深圳卫视
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/492/202303201551_1658134112236_H169_1080.jpg" group-title="Trung Quốc", 湖北卫视
+https://smart.pendy.dpdns.org/Smart.php?id=hubei
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/492/202303201551_1658134112236_H169_1080.jpg" group-title="Trung Quốc", 天津卫视
+http://117.158.43.187:2016/全网通.php?id=天津卫视
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/492/202303201551_1658134112236_H169_1080.jpg" group-title="Trung Quốc", 广西卫视
+https://smart.pendy.dpdns.org/Smart.php?id=guangxi
+
+--------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-id="31" tvg-name="港台電視 31" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/RTHK_TV_31A.svg/revision/latest?cb=20210325175806" group-title="Hong Kong và Macao", RTHK 31
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
+#EXTINF:-1 tvg-id="32" tvg-name="港台電視 32" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/RTHK_TV_32.svg/revision/latest?cb=20200511233323" group-title="Hong Kong và Macao", RTHK 32
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
+#EXTINF:-1 tvg-id="33" tvg-name="港台電視 33" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/a/a7/RTHK_TV_33.svg/800px-RTHK_TV_33.svg.png" group-title="Hong Kong và Macao", RTHK 33
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="34" tvg-name="港台電視 34" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f9/RTHK_TV_34.svg/440px-RTHK_TV_34.svg.png" group-title="Hong Kong và Macao", RTHK 34
+https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="35" tvg-name="港台電視 35" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/85/RTHK_TV_35.svg/1200px-RTHK_TV_35.svg.png" group-title="Hong Kong và Macao", RTHK 35
+https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="77" tvg-name="HOY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/1200px-HOY_TV_Logo.svg.png" group-title="Hong Kong và Macao", HOY 77
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+#EXTINF:-1 tvg-id="77" tvg-name="HOY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/1200px-HOY_TV_Logo.svg.png" group-title="Hong Kong và Macao", HOY 78
+https://smart.pendy.dpdns.org/Smart.php?id=hoycaijing_twn
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://iptv-pro.github.io/logo/feicui.png" group-title="Hong Kong và Macao",TVB Jade
+http://110.235.82.60:8000/bysid/1
+#EXTINF:-1 tvg-id="TVB-Plus" tvg-name="TVB Plus" tvg-logo="https://assets.livednow.com/logo/TVB-Plus.png" group-title="Hong Kong và Macao",TVB Plus
+http://110.235.82.60:8001/bysid/82
+#EXTINF:-1 tvg-id="無線新聞台" tvg-name="無線新聞台" tvg-logo="https://assets.livednow.com/logo/無線新聞台.png" group-title="Hong Kong và Macao",TVB News
+http://110.235.82.60:8001/bysid/83
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://assets.livednow.com/logo/明珠台.png" group-title="Hong Kong và Macao",TVB Pearl
+http://110.235.82.60:8001/bysid/2
+#EXTINF:-1 tvg-id="85" tvg-name="鳳凰香港台" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E9%A6%99%E6%B8%AF%E5%8F%B0.png?raw=true" group-title="Hong Kong và Macao", Phoenix Hong Kong
+http://110.235.82.60:8001/bysid/85
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/98/TVB_Jade_logo_3D.png/revision/latest/scale-to-width-down/732?cb=20240308054517&path-prefix=vi" group-title="Hong Kong và Macao",TVB Golden Jade
+http://jxiptv.dpdns.org/stream/tvb/null-7/master.m3u8
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e3/TvbEN.png" group-title="Hong Kong và Macao",TVB Entertainment News
+http://jxiptv.dpdns.org/stream/tvb/null-6/master.m3u8
+#EXTINF:-1 tvg-id="96" tvg-name="ViuTV Six" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/viutv6.png?raw=true" group-title="Hong Kong và Macao", ViuTV Six
+http://110.235.82.60:8000/bysid/96
+#EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/viutv.png?raw=true" group-title="Hong Kong và Macao", ViuTV
+http://110.235.82.60:8000/bysid/99
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/TDMOuMun.png" group-title="Hong Kong và Macao", TDM Ou Mun
+https://globallive.tdm.com.mo/ch1/ch1.live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/CanalMacau.png" group-title="Hong Kong và Macao", TDMnal Macau
+https://globallive.tdm.com.mo/ch2/ch2.live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/TDMInforma%C3%A7%C3%A3o.png" group-title="Hong Kong và Macao", TDM Informação
+https://globallive.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Teledifus%C3%A3o_de_Macau.png" group-title="Hong Kong và Macao", TDM LegCo Macau (Cantonese)
+https://globallive.tdm.com.mo/tv/ch21.live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Teledifus%C3%A3o_de_Macau.png" group-title="Hong Kong và Macao", TDM LegCo Macau (Portuguese)
+https://globallive.tdm.com.mo/tv/ch22.live/playlist.m3u8
+#EXTINF:-1 group-title="Hong Kong và Macao" tvg-id="LotusTV.mo" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/macau_lotus_tv_mo.png",Lotus Macau
+#KODIPROP:inputstream=inputstream.adaptive
+#https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
+
+
