@@ -269,7 +269,7 @@ udp://@225.1.1.124:30120
 https://freem3u.xyz/api/live/play.m3u8?vid=50
 #EXTINF:0 tvg-id="vungtau" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/KX2RMXR.png",BRT HD | Đài PTTH Bà Rịa Vũng Tàu (HD 8Mbps)
 http://192.168.11.1:61292/udp/232.84.3.47:11770
-#EXTINF:0 tvg-id="binhphuoc1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/YPQCtHY.png",BTV1 HD | Đài PTTH Bình Dương (HD 6Mbps)
+#EXTINF:0 tvg-id="binhduong1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/YPQCtHY.png",BTV1 HD | Đài PTTH Bình Dương (HD 6Mbps)
 http://192.168.11.1:61292/udp/232.84.3.109:10750
 #EXTINF:0 tvg-id="binhduong2" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/LpV0d3Q.png",BTV2 HD | Đài PTTH Bình Dương
 udp://@225.1.1.149:30120
@@ -286,7 +286,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=72
 http://192.168.11.1:61292/udp/232.84.3.233:11320
 #EXTINF:0 tvg-id="dongthap" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/UfOw13y.png",THĐT1 | Báo và Đài PTTH Đồng Tháp (HD 8Mbps)
 http://192.168.11.1:61292/udp/232.84.3.235:11332
-#EXTINF:0 tvg-id="" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/WXebESa.png",THĐT2 Miền Tây | Báo và Đài PTTH Đồng Tháp
+#EXTINF:0 tvg-id="tiengiang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/WXebESa.png",THĐT2 Miền Tây | Báo và Đài PTTH Đồng Tháp
 udp://@225.1.1.210:30120
 #EXTINF:0 tvg-id="tiengiang" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/NkHFZ0D.png",THTG HD | Báo Ấp Bắc và Đài PTTH Tiền Giang (HD 6Mbps)
 http://192.168.11.1:61292/udp/232.84.3.204:11146
