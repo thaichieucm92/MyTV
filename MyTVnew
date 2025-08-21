@@ -233,7 +233,12 @@ http://192.168.11.1:61292/udp/232.84.3.143:10738
 #EXTINF:0 tvg-id="hanoi2" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 HD | Đài Hà Nội (HD 4Mbps)
 http://192.168.11.1:61292/udp/232.84.3.137:10744
 #EXTINF:0 tvg-id="hanoi2" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/H2_HanoiTV_UHD.png",H2 UHD | Đài Hà Nội (HD 8Mbps)
-#udp://@225.1.1.109:30120
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?vid=9929
+#EXTINF:0 tvg-id="hanoi2" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/H2_HanoiTV_UHD.png",H2 UHD | Đài Hà Nội (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/fnxch2/hntv2_abr.smil/chunklist.m3u8
+
 #EXTINF:0 tvg-id="haiphong" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/StFk4PA.png",THP | Báo và PTTH Hải Phòng (HD 6Mbps)
 http://192.168.11.1:61292/udp/232.84.3.142:10780
 #EXTINF:0 tvg-id="haiphongplus" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/s3yq8AW.png",THP+ | Báo và PTTH Hải Phòng (HD 6Mbps)
@@ -279,6 +284,10 @@ https://freem3u.xyz/api/live/play.m3u8?vid=65
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?vid=76
 #udp://@225.1.2.178:30120
+#EXTINF:0 tvg-id="gialai" group-title="Địa Phương (SD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/GTV_GiaLai.png",GTV | Báo và PTTH Gia Lai
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?vid=55
+
 #EXTINF:0 tvg-id="lamdong" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/LTV1_LamDong.png",LTV1 | Báo và PTTH Lâm Đồng (HD 8Mbps)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?vid=69
@@ -296,7 +305,7 @@ http://192.168.11.1:61292/udp/232.84.3.47:11770
 http://192.168.11.1:61292/udp/232.84.3.109:10750
 #EXTINF:0 tvg-id="binhduong2" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/LpV0d3Q.png",BTV2 HD | Đài PTTH Bình Dương
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://freem3u.xyz/api/live/play.m3u8?vid=43
+https://live.fptplay53.net/epzhd2/btv2_hls.smil/chunklist.m3u8
 #udp://@225.1.1.149:30120
 #EXTINF:0 tvg-id="anvienhd" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/jeunb3Y.png",BTV9 B Channel (HD 8.5Mbps)
 http://192.168.11.1:61292/udp/232.84.3.199:11116
@@ -363,30 +372,37 @@ http://192.168.11.1:61292/udp/232.84.1.13:8052
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title=" In The Box" tvg-logo="https://imgur.com/zLjBSIu.png", Box Movie 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://freem3u.xyz/api/live/play.m3u8?vid=159
+https://sgchill.io.vn/v1/b521/159/index.m3u8
+#https://freem3u.xyz/api/live/play.m3u8?vid=159
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title=" In The Box" tvg-logo="https://imgur.com/uNsPkSq.png", Hollywood Classics
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://sgchill.io.vn/v1/b521/160/index.m3u8
 https://freem3u.xyz/api/live/play.m3u8?vid=160
 #EXTINF:-1 tvg-id="inthebox" group-title=" In The Box" tvg-logo="https://imgur.com/u9U4g7L.png", In The Box
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://sgchill.io.vn/v1/b521/235/index.m3u8
 https://freem3u.xyz/api/live/play.m3u8?vid=235
 #EXTINF:-1 tvg-id="boxhits" group-title=" In The Box" tvg-logo="https://i.imgur.com/kL9ubfw.png", Box Hits TV360
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #https://freem3u.xyz/api/live/play.m3u8?vid=239
 #EXTINF:-1 tvg-id="man" group-title=" In The Box" tvg-logo="https://imgur.com/b7mYkbb.png", Man
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://freem3u.xyz/api/live/play.m3u8?vid=237
+https://sgchill.io.vn/v1/b521/237/index.m3u8
+#https://freem3u.xyz/api/live/play.m3u8?vid=237
 #EXTINF:-1 tvg-id="musicbox" group-title=" In The Box" tvg-logo="https://i.imgur.com/DoCK1GY.png", Music Box TV360
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #https://freem3u.xyz/api/live/play.m3u8?vid=289
 #EXTINF:-1 tvg-id="drfithd" group-title=" In The Box" tvg-logo="https://imgur.com/dwshpnw.png", Dr.Fit
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://sgchill.io.vn/v1/b521/162/index.m3u8
 https://freem3u.xyz/api/live/play.m3u8?vid=162
 #EXTINF:-1 tvg-id="happykids" group-title=" In The Box" tvg-logo="https://imgur.com/iY5dpte.png", Happy Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://sgchill.io.vn/v1/b521/212/index.m3u8
 https://freem3u.xyz/api/live/play.m3u8?vid=212
 #EXTINF:-1 tvg-id="planetearthhd" group-title=" In The Box" tvg-logo="https://imgur.com/qkvaowM.png", Planet Earth
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://sgchill.io.vn/v1/b521/135/index.m3u8
 https://freem3u.xyz/api/live/play.m3u8?vid=135
 #EXTINF:-1 tvg-id="woman" group-title=" In The Box" tvg-logo="https://imgur.com/syLP7VU.png", Woman
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -456,9 +472,11 @@ http://192.168.11.1:61292/udp/232.84.1.72:8406
 https://freem3u.xyz/api/live/play.m3u8?vid=213
 #udp://@225.1.1.196:30120
 #EXTINF:0 tvg-id="abcaustralia" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/UI80qhw.png",ABC Australia (HD 8Mbps)
-#udp://@225.1.2.21:30120
+#EXTVLCOPT:http-user-agent=com.msky.mskyandroidtvott
+https://hls.mskycdn.online/tv/abcaustralia/index.m3u8
 #EXTINF:0 tvg-id="france24eng" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/YF2zMTz.png",France 24 (English) (HD 8Mbps)
-#udp://@225.1.2.211:30120
+#EXTVLCOPT:http-user-agent=com.msky.mskyandroidtvott
+https://hls.mskycdn.online/tv/france24eng/index.m3u8
 #EXTINF:0 tvg-id="tv5monde" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/D8zXF7p.png",TV5 Monde Asie (HD 8Mbps)
 https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
 #udp://@225.1.1.200:30120
