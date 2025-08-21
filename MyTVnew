@@ -477,6 +477,12 @@ https://hls.mskycdn.online/tv/abcaustralia/index.m3u8
 #EXTINF:0 tvg-id="france24eng" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/YF2zMTz.png",France 24 (English) (HD 8Mbps)
 #EXTVLCOPT:http-user-agent=com.msky.mskyandroidtvott
 https://hls.mskycdn.online/tv/france24eng/index.m3u8
+#EXTINF:-1 tvg-id="rt" group-title="KÊNH QUỐC TẾ/NƯỚC NGOÀI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/800px-Russia-today-logo.svg.png", RT NEWS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://hls.mskycdn.online/tv/rt/index.m3u8
+#EXTINF:-1 tvg-id="rtd" group-title="KÊNH QUỐC TẾ/NƯỚC NGOÀI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_RT_Doc.png", RT DOCUMENTARY ENGLISH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://hls.mskycdn.online/tv/rtd/index.m3u8
 #EXTINF:0 tvg-id="tv5monde" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/D8zXF7p.png",TV5 Monde Asie (HD 8Mbps)
 https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
 #udp://@225.1.1.200:30120
