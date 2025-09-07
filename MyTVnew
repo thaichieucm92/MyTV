@@ -337,7 +337,7 @@ http://192.168.11.1:61292/udp/232.84.3.165:10900
 http://192.168.11.1:61292/udp/232.84.3.160:10912
 #EXTINF:0 tvg-id="vinhlong5hd" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/THVL5_VinhLong.png",THVL5 HD | Báo và Đài PTTH Vĩnh Long (HD 8Mbps)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live.fptplay53.net/epzsd1/travinh_vhls.smil/chunklist.m3u8
+https://live.fptplay53.net/epzsd1/vinhlong22_vhls.smil/chunklist.m3u8
 #https://freem3u.xyz/api/live/play.m3u8?vid=91
 #udp://@225.1.2.172:30120
 #EXTINF:0 tvg-id="bentre" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/wYadDFn.png",THVL2 HD | Báo và Đài PTTH Vĩnh Long BẾN TRE
