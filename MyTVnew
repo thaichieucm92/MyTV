@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://vnepg.site/epg.xml"
 #------------------------VTV------------------------#
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 (HD 8.5Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=200
+http://khaitv.giize.com:1979/mytv/new/get.php?id=210
 #https://freem3u.xyz/api/live/play.m3u8?vid=210
 #EXTINF:0 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2 (HD 8.5Mbps)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -107,17 +107,14 @@ https://freem3u.xyz/api/live/play.m3u8?vid=177
 https://freem3u.xyz/api/live/play.m3u8?vid=180
 #------------------------HTV/HTVC------------------------#
 #EXTINF:0 tvg-id="htv1" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/oLm4dbV.png",HTV1 (HD 6Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=7
 https://freem3u.xyz/api/live/play.m3u8?vid=190
 #EXTINF:0 tvg-id="htv2hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/f3KlwDX.png",HTV2 Vie Channel (HD 6Mbps)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=127
 #https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="htv3" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/2iE01Ca.png",HTV3 (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=110
 https://freem3u.xyz/api/live/play.m3u8?vid=192
 #EXTINF:0 tvg-id="htvkey" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/wrH7U0X.png",HTV Keys (HD 6Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=9
-#https://freem3u.xyz/api/live/play.m3u8?vid=9
+https://freem3u.xyz/api/live/play.m3u8?vid=9
 #EXTINF:0 tvg-id="htv7hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/RSlvzAs.png",HTV7 (HD 8.5Mbps)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=128
 #https://freem3u.xyz/api/live/play.m3u8?vid=193
@@ -393,23 +390,21 @@ https://freem3u.xyz/api/live/play.m3u8?vid=99
 #EXTINF:0 tvg-id="kix" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/pxigRGm.png",KIX (HD 8Mbps)
 https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist.m3u8
 
+#EXTINF:0 tvg-id="spotv1" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/hXYkO7B.png",SPOTV (HD 9Mbps)
+http://khaitv.giize.com:1979/mytv/new/get.php?id=632
+#EXTINF:0 tvg-id="spotv2" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/EBKmDBi.png",SPOTV2 (HD 9Mbps)
+http://khaitv.giize.com:1979/mytv/new/get.php?id=633
 
 #EXTINF:0 tvg-id="animalhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/TBgGuJy.png",Animal Planet (HD 8.5Mbps)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=394
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/oldkey/tv.xml
+
 #https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/ap.smil/manifest.mpd
+
 #EXTINF:0 tvg-id="afnhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/KL9oaqc.png",Asian Food Network (HD 6.5Mbps)
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist.m3u8
-http://khaitv.giize.com:1979/mytv/new/get.php?id=
 #EXTINF:0 tvg-id="axnhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN (HD 8.5Mbps)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=387
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/oldkey/tv.xml
+
 #https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/axn.smil/manifest.mpd
 
 #EXTINF:0 tvg-id="" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/0t99xJZ.png",BBC CBeeBies (HD 9Mbps)
@@ -419,12 +414,10 @@ http://khaitv.giize.com:1979/mytv/new/get.php?id=387
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"uDPR9AwmHveIlvl+BvgM3A","kid":"zKc6AGtLOaWVIHzrXtnKCg"}],"type":"temporary"}
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cbb.smil/manifest.mpd
 #EXTINF:0 tvg-id="bbcearth" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/qUiM77S.png",BBC Earth (HD 10Mbps)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/oldkey/tv.xml
-#https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/bbcearth.smil/manifest.mpd
 https://ace.hoiquan.click/module/IPTV/?id=Bbceath&accKenh=vuminhthanh1
+
+
+#https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/bbcearth.smil/manifest.mpd
 
 
 #EXTINF:0 tvg-id="bbclifestyle" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/i7aYwdZ.png",BBC Lifestyle (HD 9Mbps)
@@ -433,31 +426,34 @@ https://ace.hoiquan.click/module/IPTV/?id=Bbceath&accKenh=vuminhthanh1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"uDPR9AwmHveIlvl+BvgM3A","kid":"zKc6AGtLOaWVIHzrXtnKCg"}],"type":"temporary"}
 https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/bbclifestyle.smil/manifest.mpd
+
 #EXTINF:0 tvg-id="bbcworldnews" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/hsByQfe.png",BBC News (HD 9Mbps)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"uDPR9AwmHveIlvl+BvgM3A","kid":"zKc6AGtLOaWVIHzrXtnKCg"}],"type":"temporary"}
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bbcworldnews.smil/manifest.mpd
+
 #EXTINF:0 tvg-id="bloomberg" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/rxFZgIK.png",Bloomberg (HD 9Mbps)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/oldkey/tv.xml
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bloomberg.smil/manifest.mpd
+
 #EXTINF:0 tvg-id="boomerang" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/C8nDHeY.png",Cartoonito (HD 8Mbps)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PMGt1Drszj/jHJxqKluMIQ","kid":"PCAWZmCpOnWsd9uBVnOJ9w"}],"type":"temporary"}
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/boomerang.smil/manifest.mpd
+
 #EXTINF:0 tvg-id="cartoonhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/6oXQdBZ.png",Cartoon Network (HD 8.5Mbps)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PMGt1Drszj/jHJxqKluMIQ","kid":"PCAWZmCpOnWsd9uBVnOJ9w"}],"type":"temporary"}
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.mpd
-#http://khaitv.giize.com:1979/mytv/new/get.php?id=391
 
 #EXTINF:0 tvg-id="cinemaworldhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/vFVxJx4.png",Cinema World (HD 8.5Mbps)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -473,12 +469,10 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6YaPX0c9D9hpnt5I1THCsA","kid":"rLTCNHEGMyetxzLig8CEfw"}],"type":"temporary"}
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.mpd
-#http://khaitv.giize.com:1979/mytv/new/get.php?id=386
 
 
 #EXTINF:0 tvg-id="cna" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/RIQE8kA.png",CNA (HD 6.5Mbps)
 https://freem3u.xyz/api/live/play.m3u8?vid=112
-#http://khaitv.giize.com:1979/mytv/new/get.php?id=366
 
 
 #EXTINF:0 tvg-id="cnn" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/RCd9AM9.png",CNN (HD 8Mbps)
@@ -491,6 +485,7 @@ http://khaitv.giize.com:1979/mytv/new/get.php?id=392
 
 #EXTINF:0 tvg-id="davinci" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/t9fzARL.png",Da Vinci (HD 7.5Mbps)
 https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
+
 #EXTINF:0 tvg-id="discoveryasiahd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/STCTI1F.png",Discovery Asia (HD 9.5Mbps)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -518,22 +513,20 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dmax.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"WTKPYh1WdnvF/5QEqJQGgw","kid":"Z9riBSfGPa2qrmCaqRV3yw"}],"type":"temporary"}
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dreamwork.smil/manifest.mpd
-#http://khaitv.giize.com:1979/mytv/new/get.php?id=553
+
 
 #EXTINF:0 tvg-id="dw" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/Ppi36a4.png",DW (HD 8.5Mbps)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=313
 #rtp://@232.84.2.233:10416
-ABC
+#EXTINF:0 tvg-id="abcaustralia" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/UI80qhw.png",ABC Australia
 http://khaitv.giize.com:1979/mytv/new/get.php?id=321
-CNBC
+#EXTINF:0 tvg-id="" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/H0hAm72.png",CNBC
 http://khaitv.giize.com:1979/mytv/new/get.php?id=358
 
 #EXTINF:0 tvg-id="fashionhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/ALDt1JX.png",Fashion TV (HD 8.5Mbps)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=362
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/oldkey/tv.xml
+
+
 #https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ftv.smil/manifest.mpd
 https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/fstv.smil/manifest.mpd
 #EXTINF:0 tvg-id="hbohd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO (HD 8.5Mbps)
@@ -542,6 +535,7 @@ https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/fstv.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PeDzjc8BSCff1b7Dh0PGog","kid":"Cd3+PWOGPK+ut50FRrCYqw"}],"type":"temporary"}
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
+
 #http://khaitv.giize.com:1979/mytv/new/get.php?id=385
 
 
@@ -549,22 +543,18 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 #EXTINF:0 tvg-id="nhkworld" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/Et3vExm.png",NHK World Japan (HD 8.5Mbps)
 https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist.m3u8 
 #EXTINF:0 tvg-id="outdoorhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/x4zXtYX.png",Outdoor (HD 7.5Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=191
-#https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist.m3u8
+https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="tlchd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/ZStxdQI.png",TLC (HD 8.5Mbps)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=395
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/oldkey/tv.xml
+
 #https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/tlc.smil/manifest.mpd
+
 #EXTINF:0 tvg-id="warnertvhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV (HD 8.5Mbps)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"NPGQjP4uBe4GAEbUDxSuyQ","kid":"CG0JpAv/OgCqbdTbr5wTsg"}],"type":"temporary"}
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd
-#http://khaitv.giize.com:1979/mytv/new/get.php?id=361
 
 #EXTINF:0 tvg-id="tv5monde" group-title="Quốc Tế (SD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/TV5_Monde_Asie.png",TV5 Monde Asie
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -573,10 +563,7 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
 https://freem3u.xyz/api/live/play.m3u8?vid=213
 #https://live.fptplay53.net/epzhd2/kbs_hls.smil/chunklist.m3u8
 
-#EXTINF:0 tvg-id="spotv1" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/hXYkO7B.png",SPOTV (HD 9Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=632
-#EXTINF:0 tvg-id="spotv2" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/EBKmDBi.png",SPOTV2 (HD 9Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=633
+
 
 http://khaitv.giize.com:1979/mytv/new/get.php?id=670
 http://khaitv.giize.com:1979/mytv/new/get.php?id=754
