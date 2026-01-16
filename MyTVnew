@@ -138,44 +138,44 @@ https://freem3u.xyz/api/live/play.m3u8?vid=132
 
 #EXTINF:0 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://i.imgur.com/imhFxSG.png",SCTV1 (HD 5Mbps)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv1
+https://liveh12.vtvprime.vn/hls/SCTV1/03.m3u8
 #EXTINF:0 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://i.imgur.com/UpBZOaH.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=772&time=${start}&offset=${duration}",SCTV2 (HD 6Mbps)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?vid=201
 #EXTINF:0 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://i.imgur.com/wZrGAtH.png",SCTV3 (HD 7Mbps)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv3
+https://liveh34.vtvprime.vn/hls/SCTV3/03.m3u8
 #EXTINF:0 tvg-id="sctv4hd" group-title="SCTV" tvg-logo="https://i.imgur.com/ntSnAMJ.png",SCTV4 (HD 7Mbps)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv4
+https://liveh12.vtvprime.vn/hls/SCTV4/03.m3u8
 #EXTINF:0 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://i.imgur.com/pSIvTkZ.png",SCTV6 (HD 7Mbps)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?vid=232
 #udp://@225.1.1.188:30120
 #EXTINF:0 tvg-id="sctv7hd" group-title="SCTV" tvg-logo="https://i.imgur.com/EdjXUUb.png",SCTV7 (HD 6Mbps)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv7
+https://liveh34.vtvprime.vn/hls/SCTV7/03.m3u8
 #EXTINF:0 tvg-id="sctv8hd" group-title="SCTV" tvg-logo="https://i.imgur.com/NULoCoA.png",SCTV8 (HD 5Mbps)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv8
+https://liveh34.vtvprime.vn/hls/SCTV8/03.m3u8
 #EXTINF:0 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="https://i.imgur.com/6dvyvea.png",SCTV9 (HD 8Mbps)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=22a9a9a63d2746df9f90c184c596105a:2d9d24caeaea42f8b44e413fe04f0e5c
-https://livecdn.seenow.vn/mean/SCTV9/manifest.mpd
+https://livevlisctcdnw.seenow.vn/livesnv2/SCTV9/manifest.mpd
 #EXTINF:0 tvg-id="sctv11hd" group-title="SCTV" tvg-logo="https://i.imgur.com/AP2o4bW.png",SCTV11 (HD 7Mbps)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv11
+https://liveh34.vtvprime.vn/hls/SCTV11/03.m3u8
 #EXTINF:0 tvg-id="sctv12hd" group-title="SCTV" tvg-logo="https://i.imgur.com/5nrSZd8.png",SCTV12 (HD 7Mbps)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv12
+https://liveh34.vtvprime.vn/hls/SCTV12/03.m3u8
 #EXTINF:0 tvg-id="sctv13hd" group-title="SCTV" tvg-logo="https://i.imgur.com/PEz2Ieq.png",SCTV13 (HD 7Mbps)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv13
+https://liveh34.vtvprime.vn/hls/SCTV13/03.m3u8
 #EXTINF:0 tvg-id="sctv14hd" group-title="SCTV" tvg-logo="https://i.imgur.com/1yNMyEh.png",SCTV14 (HD 7Mbps)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv14
+https://liveh34.vtvprime.vn/hls/SCTV14/03.m3u8
 #EXTINF:0 tvg-id="sctv15hd" group-title="SCTV" tvg-logo="https://i.imgur.com/EPwjrlB.png",SCTV15 (HD 7Mbps)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv15
@@ -189,22 +189,22 @@ https://liveh34.seenow.vn/hls/SCTV16/index.m3u8
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv17
 #EXTINF:0 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="https://i.imgur.com/k2Eg4T4.png",SCTV18 (HD 6Mbps)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv18
+https://liveh34.seenow.vn/hls/SCTV18/03.m3u8
 #EXTINF:0 tvg-id="sctv19hd" group-title="SCTV" tvg-logo="https://i.imgur.com/s4vfvNb.png",SCTV19 (HD 7Mbps)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv19
+https://liveh34.vtvprime.vn/hls/SCTV19/03.m3u8
 #EXTINF:0 tvg-id="sctv20hd" group-title="SCTV" tvg-logo="https://i.imgur.com/zwfqboB.png",SCTV20 (HD 7Mbps)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv20
+https://liveh34.vtvprime.vn/hls/SCTV20/03.m3u8
 #EXTINF:0 tvg-id="sctv21hd" group-title="SCTV" tvg-logo="https://i.imgur.com/aHKybQW.png",SCTV21 (HD 7Mbps)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv21
+https://liveh34.vtvprime.vn/hls/SCTV21/03.m3u8
 #EXTINF:0 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="https://i.imgur.com/O0HdUpB.png",SCTV22 (HD 7Mbps)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh34.seenow.vn/hls/SCTV22/index.m3u8
 #EXTINF:0 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://i.imgur.com/VzZYa4n.png",SCTV Phim Tổng Hợp (HD 6Mbps)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://freem3u.xyz/api/live/play.m3u8?tid=sctvpth
+https://liveh12.vtvprime.vn/hls/SCTVPHIM/03.m3u8
 #EXTINF:0 tvg-id="sctv4k" group-logo="https://xem.HoiQuan.Click/HoiQuanLogo/Images/HinhNhom.png" group-title="Kênh SCTV" tvg-logo="https://xem.HoiQuan.Click/Logo/sctv4k/KenhBoSung",SCTV4K 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #https://z215ymcm4tliv.vcdn.cloud/s97/hls/sctv4k/index.m3u8
@@ -213,7 +213,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=9904
 
 #EXTINF:0 tvg-id="" group-title="TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/12/31/18/1767180734794/7cda83f18b5d_480_270.png",PHIM VIỆT
 https://freem3u.xyz/api/live/play.m3u8?vid=9902
-#EXTINF:0 tvg-id="" group-title="TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/03/24/23/1742835081398/4e6776be1efd_480_270.png",PHỊM ÂU MỸ
+#EXTINF:0 tvg-id="" group-title="TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/03/24/23/1742835081398/4e6776be1efd_480_270.png",PHIM ÂU MỸ
 https://freem3u.xyz/api/live/play.m3u8?vid=9903
 #EXTINF:0 tvg-id="" group-title="TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/12/31/19/1767185202351/540d7e229911_480_270.png",PHIM HOẠT HÌNH
 https://freem3u.xyz/api/live/play.m3u8?vid=9934
@@ -547,147 +547,68 @@ https://freem3u.xyz/api/live/play.m3u8?vid=213
 
 
 
+#-------------------FPT Service-------------------#
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Giới Thiệu Chương Trình
+http://khaitv.giize.com:8090/225.1.1.2:30120
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Giới Thiệu Chương Trình
+http://khaitv.giize.com:8090/225.1.4.199:30120
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Giới Thiệu Chương Trình
+http://khaitv.giize.com:8090/225.1.4.200:30120
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+http://khaitv.giize.com:8090/225.1.1.10:30120
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+http://khaitv.giize.com:8090/225.1.1.12:30120
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+http://khaitv.giize.com:8090/225.1.1.15:30120
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+http://khaitv.giize.com:8090/225.1.1.27:30120
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+http://khaitv.giize.com:8090/225.1.1.28:30120
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+http://khaitv.giize.com:8090/225.1.1.30:30120
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+http://khaitv.giize.com:8090/225.1.1.31:30120
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+http://khaitv.giize.com:8090/225.1.1.32:30120
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+http://khaitv.giize.com:8090/225.1.1.33:30120
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+http://khaitv.giize.com:8090/225.1.1.34:30120
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+http://khaitv.giize.com:8090/225.1.1.35:30120
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+http://khaitv.giize.com:8090/225.1.1.37:30120
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+http://khaitv.giize.com:8090/225.1.1.38:30120
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+http://khaitv.giize.com:8090/225.1.1.68:30120
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+http://khaitv.giize.com:8090/225.1.1.69:30120
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+http://khaitv.giize.com:8090/225.1.1.70:30120
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+http://khaitv.giize.com:8090/225.1.1.71:30120
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+http://khaitv.giize.com:8090/225.1.1.72:30120
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+http://khaitv.giize.com:8090/225.1.1.92:30120
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+http://khaitv.giize.com:8090/225.1.1.93:30120
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+http://khaitv.giize.com:8090/225.1.1.94:30120
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+http://khaitv.giize.com:8090/225.1.1.95:30120
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+http://khaitv.giize.com:8090/225.1.1.96:30120
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+http://khaitv.giize.com:8090/225.1.1.97:30120
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+http://khaitv.giize.com:8090/225.1.1.100:30120
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
+http://khaitv.giize.com:8090/225.1.1.101:30120
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Test Channel
+http://khaitv.giize.com:8090/225.1.2.242:30120
 
-#EXTINF:0 tvg-id="" group-title="👻 FPT PLAY" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest?cb=20231112070725&path-prefix=vi", THỂ THAO 01
-https://live.fptplay53.net/epzsport/thethao01_mx.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="" group-title="👻 FPT PLAY" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest?cb=20231112070725&path-prefix=vi", THỂ THAO 02
-https://live.fptplay53.net/epzsport/thethao02_mx.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="" group-title="👻 FPT PLAY" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest?cb=20231112070725&path-prefix=vi", THỂ THAO 03
-https://live.fptplay53.net/epzsport/thethao03_mx.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="" group-title="👻 FPT PLAY" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest?cb=20231112070725&path-prefix=vi", THỂ THAO 04
-https://live.fptplay53.net/epzsport/thethao04_mx.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="" group-title="👻 FPT PLAY" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest?cb=20231112070725&path-prefix=vi", THỂ THAO 05
-https://live.fptplay53.net/epzsport/thethao05_mx.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="" group-title="👻 FPT PLAY" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest?cb=20231112070725&path-prefix=vi", THỂ THAO 06
-https://live.fptplay53.net/epzsport/thethao06_mx.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="" group-title="👻 FPT PLAY" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest?cb=20231112070725&path-prefix=vi", THỂ THAO 07
-https://live.fptplay53.net/epzsport/thethao07_mx.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="" group-title="👻 FPT PLAY" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest?cb=20231112070725&path-prefix=vi", THỂ THAO 08
-https://live.fptplay53.net/epzsport/thethao08_mx.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="" group-title="👻 FPT PLAY" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest?cb=20231112070725&path-prefix=vi", THỂ THAO 09*
-https://live.fptplay53.net/epzsport/thethao09_vhls.smil/chunklist_b5500000.m3u8
-#EXTINF:0 tvg-id="" group-title="👻 FPT PLAY" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest?cb=20231112070725&path-prefix=vi", THỂ THAO 10
-https://live.fptplay53.net/epzsport/thethao10_vhls.smil/chunklist_b5500000.m3u8
-#EXTINF:0 tvg-id="" group-title="👻 FPT PLAY" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest?cb=20231112070725&path-prefix=vi", THỂ THAO 11
-https://live.fptplay53.net/epzsport/thethao11_vhls.smil/chunklist_b5500000.m3u8
-#EXTINF:0 tvg-id="" group-title="👻 FPT PLAY" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest?cb=20231112070725&path-prefix=vi", THỂ THAO 12
-https://live.fptplay53.net/epzsport/thethao12_vhls.smil/chunklist_b5500000.m3u8
-#EXTINF:0 tvg-id="" group-title="👻 FPT PLAY" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest?cb=20231112070725&path-prefix=vi", THỂ THAO 13
-https://live.fptplay53.net/epzsport/thethao13_vhls.smil/chunklist_b5500000.m3u8
-#EXTINF:0 tvg-id="" group-title="👻 FPT PLAY" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest?cb=20231112070725&path-prefix=vi", THỂ THAO 14
-https://live.fptplay53.net/fnxsport/thethao14_mx.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="" group-title="👻 FPT PLAY" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest?cb=20231112070725&path-prefix=vi", THỂ THAO 15*
-https://live.fptplay53.net/fnxsport/thethao15_vhls.smil/chunklist_b5500000.m3u8
-#EXTINF:0 tvg-id="" group-title="👻 FPT PLAY" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest?cb=20231112070725&path-prefix=vi", THỂ THAO 16
-https://live.fptplay53.net/fnxsport/thethao16_mx.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="" group-title="👻 FPT PLAY" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest?cb=20231112070725&path-prefix=vi", THỂ THAO 17*
-https://live.fptplay53.net/fnxsport/thethao17_vhls.smil/chunklist_b5500000.m3u8
-#EXTINF:0 tvg-id="" group-title="👻 FPT PLAY" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest?cb=20231112070725&path-prefix=vi", THỂ THAO 18
-https://live.fptplay53.net/fnxsport/thethao18_vhls.smil/chunklist_b5500000.m3u8
-#EXTINF:0 tvg-id="" group-title="👻 FPT PLAY" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest?cb=20231112070725&path-prefix=vi", THỂ THAO 19
-https://live.fptplay53.net/fnxch1/thethao19_mx.smil/chunklist_b6000000.m3u8
-#EXTINF:0 tvg-id="" group-title="👻 FPT PLAY" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest?cb=20231112070725&path-prefix=vi", THỂ THAO 20
-https://live.fptplay53.net/fnxsport/thethao20_mx.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="" group-title="👻 FPT PLAY" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest?cb=20231112070725&path-prefix=vi", THỂ THAO 21
-https://live.fptplay53.net/fnxsport/thethao21_mx.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="" group-title="👻 FPT PLAY" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest?cb=20231112070725&path-prefix=vi", THỂ THAO 22
-https://live.fptplay53.net/fnxsport/thethao22_mx.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="" group-title="👻 FPT PLAY" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest?cb=20231112070725&path-prefix=vi", THỂ THAO 23
-https://live.fptplay53.net/fnxsport/thethao23_mx.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="" group-title="👻 FPT PLAY" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest?cb=20231112070725&path-prefix=vi", THỂ THAO 24
-https://live.fptplay53.net/fnxsport/thethao24_vhls.smil/chunklist_b5500000.m3u8
-#EXTINF:0 tvg-id="" group-title="👻 FPT PLAY" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest?cb=20231112070725&path-prefix=vi", THỂ THAO 25
-https://live.fptplay53.net/fnxsport/thethao25_mx.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="" group-title="👻 FPT PLAY" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest?cb=20231112070725&path-prefix=vi", THỂ THAO 121*
-https://live.fptplay53.net/epzch1/thethao121_25s.smil/chunklist_b5500000.m3u8
-#EXTINF:0 tvg-id="" group-title="👻 FPT PLAY" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest?cb=20231112070725&path-prefix=vi", THỂ THAO 122
-https://live.fptplay53.net/epzch1/thethao122_25s.smil/chunklist_b5500000.m3u8
-#EXTINF:0 tvg-id="" group-title="👻 FPT PLAY" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest?cb=20231112070725&path-prefix=vi", THỂ THAO 123*
-https://live.fptplay53.net/epzch1/thethao123_25s.smil/chunklist_b5500000.m3u8
-#EXTINF:0 tvg-id="" group-title="👻 FPT PLAY" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest?cb=20231112070725&path-prefix=vi", THỂ THAO 124*
-https://live.fptplay53.net/epzch1/thethao124_25s.smil/chunklist_b5500000.m3u8
-#EXTINF:0 tvg-id="" group-title="👻 FPT PLAY" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest?cb=20231112070725&path-prefix=vi", THỂ THAO 125*
-https://live.fptplay53.net/epzch1/thethao125_25s.smil/chunklist_b5500000.m3u8
-#EXTINF:0 tvg-id="" group-title="👻 FPT PLAY" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest?cb=20231112070725&path-prefix=vi", THỂ THAO 126*
-https://live.fptplay53.net/epzch1/thethao126_25s.smil/chunklist_b5500000.m3u8
-#EXTINF:0 tvg-id="" group-title="👻 FPT PLAY" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest?cb=20231112070725&path-prefix=vi", THỂ THAO 134
-https://live.fptplay53.net/fnxch1/thethao134_25s.smil/chunklist_b5500000.m3u8
-#EXTINF:0 tvg-id="" group-title="👻 FPT PLAY" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest?cb=20231112070725&path-prefix=vi", THỂ THAO 135
-https://live.fptplay53.net/fnxch1/thethao135_25s.smil/chunklist_b5500000.m3u8
-#EXTINF:0 tvg-id="" group-title="👻 FPT PLAY" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest?cb=20231112070725&path-prefix=vi", THỂ THAO 136
-https://live.fptplay53.net/fnxch1/thethao136_25s.smil/chunklist_b5500000.m3u8
-#EXTINF:0 tvg-id="" group-title="👻 FPT PLAY" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest?cb=20231112070725&path-prefix=vi", THỂ THAO 137
-https://live.fptplay53.net/fnxch1/thethao137_25s.smil/chunklist_b5500000.m3u8
-#EXTINF:0 tvg-id="" group-title="👻 FPT PLAY" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest?cb=20231112070725&path-prefix=vi", THỂ THAO 138
-https://live.fptplay53.net/fnxch1/thethao138_25s.smil/chunklist_b5500000.m3u8
-#EXTINF:0 tvg-id="" group-title="👻 FPT PLAY" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest?cb=20231112070725&path-prefix=vi", THỂ THAO 139
-https://live.fptplay53.net/fnxch1/thethao139_25s.smil/chunklist_b5500000.m3u8
-#EXTINF:0 tvg-id="" group-title="👻 FPT PLAY" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest?cb=20231112070725&path-prefix=vi", THỂ THAO 140
-https://live.fptplay53.net/fnxch1/thethao140_25s.smil/chunklist_b5500000.m3u8
-#EXTINF:0 tvg-id="" group-title="👻 FPT PLAY" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest?cb=20231112070725&path-prefix=vi", THỂ THAO 141
-https://live.fptplay53.net/fnxch1/thethao141_25s.smil/chunklist_b5500000.m3u8
-#EXTINF:0 tvg-id="" group-title="👻 FPT PLAY" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest?cb=20231112070725&path-prefix=vi", THỂ THAO 142
-https://live.fptplay53.net/fnxch1/thethao142_25s.smil/chunklist_b5500000.m3u8
-#EXTINF:0 tvg-id="" group-title="👻 FPT PLAY" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest?cb=20231112070725&path-prefix=vi", THỂ THAO 143
-https://live.fptplay53.net/fnxch1/thethao143_25s.smil/chunklist_b5500000.m3u8
-#EXTINF:0 tvg-id="" group-title="👻 FPT PLAY" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest?cb=20231112070725&path-prefix=vi", THỂ THAO 144
-https://live.fptplay53.net/fnxch1/thethao144_25s.smil/chunklist_b5500000.m3u8
-#EXTINF:0 tvg-id="" group-title="👻 FPT PLAY" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest?cb=20231112070725&path-prefix=vi", THỂ THAO 145
-https://live.fptplay53.net/fnxch1/thethao145_25s.smil/chunklist_b5500000.m3u8
-#EXTINF:0 tvg-id="" group-title="👻 FPT PLAY" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest?cb=20231112070725&path-prefix=vi", THỂ THAO 146
-https://live.fptplay53.net/fnxch1/thethao146_25s.smil/chunklist_b5500000.m3u8
-#EXTINF:0 tvg-id="" group-title="👻 FPT PLAY" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest?cb=20231112070725&path-prefix=vi", THỂ THAO 246
-https://live.fptplay53.net/epzch1/thethao246_25s.smil/chunklist_b5500000.m3u8
-#EXTINF:0 tvg-id="" group-title="👻 FPT PLAY" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest?cb=20231112070725&path-prefix=vi", THỂ THAO 247
-https://live.fptplay53.net/epzch1/thethao247_25s.smil/chunklist_b5500000.m3u8
-#EXTINF:0 tvg-id="" group-title="👻 FPT PLAY" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest?cb=20231112070725&path-prefix=vi", THỂ THAO 248
-https://live.fptplay53.net/epzch1/thethao248_25s.smil/chunklist_b5500000.m3u8
-#EXTINF:0 tvg-id="" group-title="👻 FPT PLAY" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest?cb=20231112070725&path-prefix=vi", THỂ THAO 249
-https://live.fptplay53.net/epzch1/thethao249_25s.smil/chunklist_b5500000.m3u8
-#EXTINF:0 tvg-id="" group-title="👻 FPT PLAY" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest?cb=20231112070725&path-prefix=vi", THỂ THAO 259
-https://live.fptplay53.net/fnxch1/thethao259_25s.smil/chunklist_b5500000.m3u8
-#EXTINF:0 tvg-id="" group-title="👻 FPT PLAY" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest?cb=20231112070725&path-prefix=vi", THỂ THAO 260
-https://live.fptplay53.net/fnxch1/thethao260_25s.smil/chunklist_b5500000.m3u8
-#EXTINF:0 tvg-id="" group-title="👻 FPT PLAY" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest?cb=20231112070725&path-prefix=vi", THỂ THAO 261
-https://live.fptplay53.net/fnxch1/thethao261_25s.smil/chunklist_b5500000.m3u8
-#EXTINF:0 tvg-id="" group-title="👻 FPT PLAY" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest?cb=20231112070725&path-prefix=vi", THỂ THAO 262
-https://live.fptplay53.net/fnxch1/thethao262_25s.smil/chunklist_b5500000.m3u8
-#EXTINF:0 tvg-id="" group-title="👻 FPT PLAY" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest?cb=20231112070725&path-prefix=vi", THỂ THAO 263
-https://live.fptplay53.net/fnxch1/thethao263_25s.smil/chunklist_b5500000.m3u8
-#EXTINF:0 tvg-id="" group-title="👻 FPT PLAY" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest?cb=20231112070725&path-prefix=vi", THỂ THAO 264
-https://live.fptplay53.net/fnxch1/thethao264_25s.smil/chunklist_b5500000.m3u8
-#EXTINF:0 tvg-id="" group-title="👻 FPT PLAY" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest?cb=20231112070725&path-prefix=vi", THỂ THAO 265
-https://live.fptplay53.net/fnxch1/thethao265_25s.smil/chunklist_b5500000.m3u8
-#EXTINF:0 tvg-id="" group-title="👻 FPT PLAY" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest?cb=20231112070725&path-prefix=vi", THỂ THAO 266
-https://live.fptplay53.net/fnxch1/thethao266_25s.smil/chunklist_b5500000.m3u8
-#EXTINF:0 tvg-id="" group-title="👻 FPT PLAY" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest?cb=20231112070725&path-prefix=vi", THỂ THAO 269
-https://live.fptplay53.net/fnxsport/thethao269_vhls.smil/chunklist_b5500000.m3u8
-#EXTINF:0 tvg-id="" group-title="👻 FPT PLAY" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest?cb=20231112070725&path-prefix=vi", THỂ THAO 270
-https://live.fptplay53.net/fnxsport/thethao270_vhls.smil/chunklist_b5500000.m3u8
-#EXTINF:0 tvg-id="" group-title="👻 FPT PLAY" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest?cb=20231112070725&path-prefix=vi", THỂ THAO 271
-https://live.fptplay53.net/epzch1/thethao271_25s.smil/chunklist_b5500000.m3u8
-#EXTINF:0 tvg-id="" group-title="👻 FPT PLAY" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest?cb=20231112070725&path-prefix=vi", THỂ THAO 272
-https://live.fptplay53.net/epzch1/thethao272_25s.smil/chunklist_b5500000.m3u8
-#EXTINF:0 tvg-id="" group-title="👻 FPT PLAY" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest?cb=20231112070725&path-prefix=vi", THỂ THAO 273
-https://live.fptplay53.net/epzch1/thethao273_25s.smil/chunklist_b5500000.m3u8
-#EXTINF:0 tvg-id="" group-title="👻 FPT PLAY" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest?cb=20231112070725&path-prefix=vi", THỂ THAO 274
-https://live.fptplay53.net/epzch1/thethao274_25s.smil/chunklis_b5500000t.m3u8
-#EXTINF:0 tvg-id="" group-title="👻 FPT PLAY" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest?cb=20231112070725&path-prefix=vi", THỂ THAO 285
-https://live.fptplay53.net/fnxch1/thethao285_25s.smil/chunklist_b5500000.m3u8
-#EXTINF:0 tvg-id="" group-title="👻 FPT PLAY" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest?cb=20231112070725&path-prefix=vi", THỂ THAO 286*
-https://live.fptplay53.net/fnxch1/thethao286_25s.smil/chunklist_b5500000.m3u8
-#EXTINF:0 tvg-id="" group-title="👻 FPT PLAY" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest?cb=20231112070725&path-prefix=vi", THỂ THAO 287
-https://live.fptplay53.net/fnxch1/thethao287_25s.smil/chunklist_b5500000.m3u8
-#EXTINF:0 tvg-id="" group-title="👻 FPT PLAY" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest?cb=20231112070725&path-prefix=vi", THỂ THAO 288*
-https://live.fptplay53.net/fnxch1/thethao288_25s.smil/chunklist_b5500000.m3u8
-#EXTINF:0 tvg-id="" group-title="👻 FPT PLAY" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest?cb=20231112070725&path-prefix=vi", THỂ THAO 289*
-https://live.fptplay53.net/fnxch1/thethao289_25s.smil/chunklist_b5500000.m3u8
-#EXTINF:0 tvg-id="" group-title="👻 FPT PLAY" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest?cb=20231112070725&path-prefix=vi", THỂ THAO 290
-https://live.fptplay53.net/fnxch1/thethao290_25s.smil/chunklist_b5500000.m3u8
-#EXTINF:0 tvg-id="" group-title="👻 FPT PLAY" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest?cb=20231112070725&path-prefix=vi", THỂ THAO 291*
-https://live.fptplay53.net/fnxch1/thethao291_25s.smil/chunklist_b5500000.m3u8
-#EXTINF:0 tvg-id="" group-title="👻 FPT PLAY" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest?cb=20231112070725&path-prefix=vi", Pladio live
-https://live.fptplay53.net/epzevent/pladiolive_vhls.smil/chunklist_b5500000.m3u8
 
 #EXTINF:0 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ Sport 1 (HD 9Mbps)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
