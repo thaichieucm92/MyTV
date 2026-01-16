@@ -164,6 +164,7 @@ https://liveh34.vtvprime.vn/hls/SCTV8/03.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=22a9a9a63d2746df9f90c184c596105a:2d9d24caeaea42f8b44e413fe04f0e5c
 https://livevlisctcdnw.seenow.vn/livesnv2/SCTV9/manifest.mpd
+
 #EXTINF:0 tvg-id="sctv11hd" group-title="SCTV" tvg-logo="https://i.imgur.com/AP2o4bW.png",SCTV11 (HD 7Mbps)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh34.vtvprime.vn/hls/SCTV11/03.m3u8
@@ -615,7 +616,7 @@ http://khaitv.giize.com:8090/225.1.2.242:30120
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://livesport.io.vn/key.xml
-https://livevlisctcdnw.seenow.vn/mean/KSPORT1/manifest.mpd
+https://livevlisctcdnw.seenow.vn/livesnv2/THETHAO_HD/manifest.mpd
 
 #EXTINF:0 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://i.imgur.com/6yiAtRg.png",test 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -624,6 +625,7 @@ https://livevlisctcdnw.seenow.vn/mean/KSPORT1/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://vtvcab.ondrm.vn/license-api/v1/drm/licenses/widevine?content_id=vtv-vtvcab-onsports
 https://livevlisctcdnw.seenow.vn/livesnv2/THETHAO_HD/manifest.mpd
 
+https://vtvprime.vn/_next/data/fuB47559OjpxSa_Sj1C_H/content/channel/02efed81-3e71-4328-89dc-667c33fa0e9f.json?id=02efed81-3e71-4328-89dc-667c33fa0e9f
 
 http://khaitv.giize.com:8090/225.1.1.36:30120
 http://khaitv.giize.com:8090/mytv/new/get.php?id=441
