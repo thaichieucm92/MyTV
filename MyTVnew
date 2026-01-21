@@ -377,7 +377,7 @@ https://livevlisctcdnw.seenow.vn/livesnv2/BOXHIT/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ondrmstt.vtvcab.vn/license-api/v1/drm/fp/fp-health-check?content_id=musicbox
-https://livevlisctcdnw.seenow.vn/livesnv2/musicbox/manifest.mpd
+https://livevlisctcdnw.seenow.vn/livesnv2/MUSICBOX/manifest.mpd
 
 #EXTINF:-1 tvg-id="man" group-title=" In The Box" tvg-logo="https://imgur.com/b7mYkbb.png", Man
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
