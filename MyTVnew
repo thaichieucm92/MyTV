@@ -57,11 +57,13 @@ https://freem3u.xyz/api/live/play.m3u8?vid=19
 https://freem3u.xyz/api/live/play.m3u8?vid=20
 #------------------------VTVcab------------------------#
 #EXTINF:0 tvg-id="onsports" group-title="VTVcab" tvg-logo="https://i.imgur.com/moYwxwf.png",ON Sports HD (HD 8.5Mbps)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vtvcab.ondrm.vn/license-api/v1/drm/licenses/widevine?content_id=vtv-vtvcab-onsports
+#KODIPROP:inputstream.adaptive.license_key=https://vtvprime.vn/_next/data/DUPeAeisRfoRo0RXOvDwF/content/channel/02efed81-3e71-4328-89dc-667c33fa0e9f.json?id=02efed81-3e71-4328-89dc-667c33fa0e9f
 https://livevlisctcdnw.seenow.vn/livesnv2/THETHAO_HD/manifest.mpd
+
+https://ondrmstt.vtvcab.vn/license-api/v1/drm/fp/fp-health-check?content_id=vtv-vtvcab-onsports
 
 #EXTINF:0 tvg-id="onsportsplus" group-title="VTVcab" tvg-logo="https://i.imgur.com/cFs8OVb.png",ON Sports+ (HD 8Mbps)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
