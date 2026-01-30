@@ -1,45 +1,45 @@
 #EXTM3U url-tvg="https://vnepg.site/epg.xml"
 #------------------------VTV------------------------#
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 (HD 8.5Mbps)
-http://42.115.209.229:8090//225.1.2.249:30120
+http://42.115.209.229:8090/225.1.2.249:30120
 #https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:0 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2 (HD 8.5Mbps)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://42.115.209.229:8090//225.1.2.13:30120
+http://42.115.209.229:8090/225.1.2.13:30120
 #https://toiyeuvietnam.dpdns.org/CoBan/vtv2-hd/TuyetDoiKhongKinhDoanh.m3u8
 #https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist.m3u8
 
 #EXTINF:0 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3 (HD 8.5Mbps)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://42.115.209.229:8090//225.1.2.247:30120
+http://42.115.209.229:8090/225.1.2.247:30120
 #https://toiyeuvietnam.dpdns.org/CoBan/vtv3-hd/TuyetDoiKhongKinhDoanh.m3u8
 #https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4 (HD 8.5Mbps)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://42.115.209.229:8090//225.1.2.20:30120
+http://42.115.209.229:8090/225.1.2.20:30120
 #https://toiyeuvietnam.dpdns.org/CoBan/vtv4-hd/TuyetDoiKhongKinhDoanh.m3u8
 #https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5 (HD 8.5Mbps)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://42.115.209.229:8090//225.1.1.131:30120
+http://42.115.209.229:8090/225.1.1.131:30120
 #https://freem3u.xyz/api/live/play.m3u8?vid=110
 #https://toiyeuvietnam.dpdns.org/CoBan/vtv5-hd/TuyetDoiKhongKinhDoanh.m3u8
 #https://live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="vtvcantho" group-title="VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ (HD 8.5Mbps)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://42.115.209.229:8090//225.1.2.245:30120
+http://42.115.209.229:8090/225.1.2.245:30120
 #https://toiyeuvietnam.dpdns.org/CoBan/vtv-can-tho/TuyetDoiKhongKinhDoanh.m3u8
 #https://live.fptplay53.net/fnxhd1/vtvcantho_vhls.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7 (HD 8.5Mbps)
-http://42.115.209.229:8090//225.1.2.96:30120
+http://42.115.209.229:8090/225.1.2.96:30120
 #https://toiyeuvietnam.dpdns.org/CoBan/vtv7-hd/TuyetDoiKhongKinhDoanh.m3u8
 #https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8 (HD 8.5Mbps)
-http://42.115.209.229:8090//225.1.2.166:30120
+http://42.115.209.229:8090/225.1.2.166:30120
 #https://toiyeuvietnam.dpdns.org/CoBan/vtv8-hd/TuyetDoiKhongKinhDoanh.m3u8
 #https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9 (HD 8.5Mbps)
-http://42.115.209.229:8090//225.1.1.128:30120
+http://42.115.209.229:8090/225.1.1.128:30120
 #https://toiyeuvietnam.dpdns.org/CoBan/vtv9-hd/TuyetDoiKhongKinhDoanh.m3u8
 #https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ (HD 8.5Mbps)
@@ -128,10 +128,10 @@ https://freem3u.xyz/api/live/play.m3u8?vid=192
 #EXTINF:0 tvg-id="htvkey" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/wrH7U0X.png",HTV Keys (HD 6Mbps)
 https://freem3u.xyz/api/live/play.m3u8?vid=9
 #EXTINF:0 tvg-id="htv7hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/RSlvzAs.png",HTV7 (HD 8.5Mbps)
-http://42.115.209.229:8090//225.1.1.192:30120
+http://42.115.209.229:8090/225.1.1.192:30120
 #https://freem3u.xyz/api/live/play.m3u8?vid=193
 #EXTINF:0 tvg-id="htv9hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/wdS7Cr9.png",HTV9 (HD 8.5Mbps)
-http://42.115.209.229:8090//225.1.1.190:30120
+http://42.115.209.229:8090/225.1.1.190:30120
 #https://freem3u.xyz/api/live/play.m3u8?vid=194
 #EXTINF:0 tvg-id="htvthethaohd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/z7NOxJ3.png",HTV Thể Thao (HD 9.5Mbps)
 https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
@@ -428,12 +428,12 @@ https://freem3u.xyz/api/live/play.mpd?vid=99
 https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist.m3u8
 
 #EXTINF:0 tvg-id="spotv1" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/hXYkO7B.png",SPOTV (HD 9Mbps)
-http://42.115.209.229:8090//mytv/new/get.php?id=632
+http://42.115.209.229:8090/mytv/new/get.php?id=632
 #EXTINF:0 tvg-id="spotv2" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/EBKmDBi.png",SPOTV2 (HD 9Mbps)
-http://42.115.209.229:8090//mytv/new/get.php?id=633
+http://42.115.209.229:8090/mytv/new/get.php?id=633
 
 #EXTINF:0 tvg-id="animalhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/TBgGuJy.png",Animal Planet (HD 8.5Mbps)
-http://42.115.209.229:8090//225.1.1.231:30120
+http://42.115.209.229:8090/225.1.1.231:30120
 #https://ace.hoiquan.click/module/IPTV/?id=animalplanet&accKenh=vuminhthanh1
 
 #https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/ap.smil/manifest.mpd
@@ -441,7 +441,7 @@ http://42.115.209.229:8090//225.1.1.231:30120
 #EXTINF:0 tvg-id="afnhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/KL9oaqc.png",Asian Food Network (HD 6.5Mbps)
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="axnhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN (HD 8.5Mbps)
-http://42.115.209.229:8090//225.1.2.225:30120
+http://42.115.209.229:8090/225.1.2.225:30120
 #https://ace.hoiquan.click/module/IPTV/?id=axn&accKenh=vuminhthanh1
 
 #https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/axn.smil/manifest.mpd
@@ -453,7 +453,7 @@ http://42.115.209.229:8090//225.1.2.225:30120
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"uDPR9AwmHveIlvl+BvgM3A","kid":"zKc6AGtLOaWVIHzrXtnKCg"}],"type":"temporary"}
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cbb.smil/manifest.mpd
 #EXTINF:0 tvg-id="bbcearth" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/qUiM77S.png",BBC Earth (HD 10Mbps)
-http://42.115.209.229:8090//225.1.2.24:30120
+http://42.115.209.229:8090/225.1.2.24:30120
 #https://ace.hoiquan.click/module/IPTV/?id=Bbceath&accKenh=vuminhthanh1
 
 
@@ -467,7 +467,7 @@ https://ace.hoiquan.click/module/IPTV/?id=Bbclifestyle&accKenh=vuminhthanh1
 #https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/bbclifestyle.smil/manifest.mpd
 
 #EXTINF:0 tvg-id="bbcworldnews" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/hsByQfe.png",BBC News (HD 9Mbps)
-http://42.115.209.229:8090//225.1.4.22:30120
+http://42.115.209.229:8090/225.1.4.22:30120
 
 
 #https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bbcworldnews.smil/manifest.mpd
@@ -480,7 +480,7 @@ http://42.115.209.229:8090//225.1.4.22:30120
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bloomberg.smil/manifest.mpd
 
 #EXTINF:0 tvg-id="boomerang" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/C8nDHeY.png",Cartoonito (HD 8Mbps)
-http://42.115.209.229:8090//225.1.1.138:30120
+http://42.115.209.229:8090/225.1.1.138:30120
 
 #https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/boomerang.smil/manifest.mpd
 
@@ -512,7 +512,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=112
 
 
 #EXTINF:0 tvg-id="cnn" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/RCd9AM9.png",CNN (HD 8Mbps)
-http://42.115.209.229:8090//225.1.4.17:30120
+http://42.115.209.229:8090/225.1.4.17:30120
 
 
 #https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cnn.smil/manifest.mpd
@@ -522,7 +522,7 @@ https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:0 tvg-id="discoveryasiahd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/STCTI1F.png",Discovery Asia (HD 9.5Mbps)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://42.115.209.229:8090//225.1.4.25:30120
+http://42.115.209.229:8090/225.1.4.25:30120
 #https://ace.hoiquan.click/module/IPTV/?id=discoveryasia&accKenh=vuminhthanh1
 
 #https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd
@@ -606,65 +606,65 @@ https://live.fptplay53.net/live/media/su-kien-06/hls_avc_v6/index.m3u8
 
 #-------------------FPT Service-------------------#
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Giới Thiệu Chương Trình
-http://42.115.209.229:8090//225.1.1.2:30120
+http://42.115.209.229:8090/225.1.1.2:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Giới Thiệu Chương Trình
-http://42.115.209.229:8090//225.1.4.199:30120
+http://42.115.209.229:8090/225.1.4.199:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Giới Thiệu Chương Trình
-http://42.115.209.229:8090//225.1.4.200:30120
+http://42.115.209.229:8090/225.1.4.200:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
-http://42.115.209.229:8090//225.1.1.10:30120
+http://42.115.209.229:8090/225.1.1.10:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
-http://42.115.209.229:8090//225.1.1.12:30120
+http://42.115.209.229:8090/225.1.1.12:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
-http://42.115.209.229:8090//225.1.1.15:30120
+http://42.115.209.229:8090/225.1.1.15:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
-http://42.115.209.229:8090//225.1.1.27:30120
+http://42.115.209.229:8090/225.1.1.27:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
-http://42.115.209.229:8090//225.1.1.28:30120
+http://42.115.209.229:8090/225.1.1.28:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
-http://42.115.209.229:8090//225.1.1.30:30120
+http://42.115.209.229:8090/225.1.1.30:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
-http://42.115.209.229:8090//225.1.1.31:30120
+http://42.115.209.229:8090/225.1.1.31:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
-http://42.115.209.229:8090//225.1.1.32:30120
+http://42.115.209.229:8090/225.1.1.32:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
-http://42.115.209.229:8090//225.1.1.33:30120
+http://42.115.209.229:8090/225.1.1.33:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
-http://42.115.209.229:8090//225.1.1.34:30120
+http://42.115.209.229:8090/225.1.1.34:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
-http://42.115.209.229:8090//225.1.1.35:30120
+http://42.115.209.229:8090/225.1.1.35:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
-http://42.115.209.229:8090//225.1.1.37:30120
+http://42.115.209.229:8090/225.1.1.37:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
-http://42.115.209.229:8090//225.1.1.38:30120
+http://42.115.209.229:8090/225.1.1.38:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
-http://42.115.209.229:8090//225.1.1.68:30120
+http://42.115.209.229:8090/225.1.1.68:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
-http://42.115.209.229:8090//225.1.1.69:30120
+http://42.115.209.229:8090/225.1.1.69:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
-http://42.115.209.229:8090//225.1.1.70:30120
+http://42.115.209.229:8090/225.1.1.70:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
-http://42.115.209.229:8090//225.1.1.71:30120
+http://42.115.209.229:8090/225.1.1.71:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
-http://42.115.209.229:8090//225.1.1.72:30120
+http://42.115.209.229:8090/225.1.1.72:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
-http://42.115.209.229:8090//225.1.1.92:30120
+http://42.115.209.229:8090/225.1.1.92:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
-http://42.115.209.229:8090//225.1.1.93:30120
+http://42.115.209.229:8090/225.1.1.93:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
-http://42.115.209.229:8090//225.1.1.94:30120
+http://42.115.209.229:8090/225.1.1.94:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
-http://42.115.209.229:8090//225.1.1.95:30120
+http://42.115.209.229:8090/225.1.1.95:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
-http://42.115.209.229:8090//225.1.1.96:30120
+http://42.115.209.229:8090/225.1.1.96:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
-http://42.115.209.229:8090//225.1.1.97:30120
+http://42.115.209.229:8090/225.1.1.97:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
-http://42.115.209.229:8090//225.1.1.100:30120
+http://42.115.209.229:8090/225.1.1.100:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event
-http://42.115.209.229:8090//225.1.1.101:30120
+http://42.115.209.229:8090/225.1.1.101:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Test Channel
-http://42.115.209.229:8090//225.1.2.242:30120
+http://42.115.209.229:8090/225.1.2.242:30120
 
 
 #EXTINF:0 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ Sport 1 (HD 9Mbps)
@@ -684,8 +684,8 @@ https://livevlisctcdnw.seenow.vn/livesnv2/THETHAO_HD/manifest.mpd
 https://vtvprime.vn/_next/data/fuB47559OjpxSa_Sj1C_H/content/channel/02efed81-3e71-4328-89dc-667c33fa0e9f.json?id=02efed81-3e71-4328-89dc-667c33fa0e9f
 bb99c45f-5771-4f1e-99bc-d1b7ea44dbd8
 
-http://42.115.209.229:8090//225.1.1.36:30120
-http://42.115.209.229:8090//mytv/new/get.php?id=441
+http://42.115.209.229:8090/225.1.1.36:30120
+http://42.115.209.229:8090/mytv/new/get.php?id=441
 https://livevlisctcdnw.seenow.vn/livesnv2/THETHAO_HD/manifest.mpd
 https://vtvcab.ondrm.vn/license-api/v1/drm/licenses/widevine?content_id=vtv-vtvcab-onsports
 
