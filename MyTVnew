@@ -58,7 +58,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=20
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+#KODIPROP:inputstream.adaptive.license_key=dcda1c0511c347f8b89c1821600426ac:dbc1d4d9244f8e7d01d999d4d9f53855
 https://livevlisctcdnw.seenow.vn/livesnv2/THETHAO_HD/manifest.mpd
 
 
@@ -66,27 +66,27 @@ https://livevlisctcdnw.seenow.vn/livesnv2/THETHAO_HD/manifest.mpd
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+#KODIPROP:inputstream.adaptive.license_key=4e619c5b54494762b131f65fc34a885b:676d9f5a28d409d7d601514baa147c9d
 https://livevlisctcdnw.seenow.vn/livesnv2/HAY_TV/manifest.mpd
 
 #EXTINF:0 tvg-id="onfootball" group-title="VTVcab" tvg-logo="https://i.imgur.com/WAxiIfP.png",ON Football HD (HD 8.5Mbps)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livevlisctcdnw.seenow.vn/livesnv2/BONGDA_HD/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=f69bf028397e4ecfafce84abb7c5fe2b:25028aad0e2003b2785cf5196a4e2fa1
+https://livevlisctcdnw.seenow.vn/mean/BONGDA_HD/manifest.mpd
 #EXTINF:0 tvg-id="onsportsnews" group-title="VTVcab" tvg-logo="https://i.imgur.com/wpRXpJg.png",ON Sports News (HD 8Mbps)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livevlisctcdnw.seenow.vn/livesnv2/THETHAO_TINTUC_HD/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=cafb6e60c1504dfc858fd3dddc6fd20c:92061ffeb13f47c4d8879316dbc9521d
+https://livevlisctcdnw.seenow.vn/mean/THETHAO_TINTUC_HD/manifest.mpd
 #EXTINF:0 tvg-id="ongolf" group-title="VTVcab" tvg-logo="https://i.imgur.com/BGF2I58.png",ON Golf (HD 8.5Mbps)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livevlisctcdnw.seenow.vn/livesnv2/THETHAO_GOLF_HD/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=5a323b53e0864492b0e04c70d591c564:843584bafaf2736c4fd1b76e1eee74d8
+https://livevlisctcdnw.seenow.vn/mean/THETHAO_GOLF_HD/manifest.mpd
 #EXTINF:0 tvg-id="onbibi" group-title="VTVcab" tvg-logo="https://i.imgur.com/YFmPo7l.png",ON BiBi (HD 8.5Mbps)
 https://freem3u.xyz/api/live/play.m3u8?vid=178
 #EXTINF:0 tvg-id="oncine" group-title="VTVcab" tvg-logo="https://i.imgur.com/6f9ngwY.png",ON Cine (HD 8Mbps)
@@ -269,7 +269,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=33
 #EXTINF:0 tvg-id="hanoi2" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 | Hà Nội
 https://freem3u.xyz/api/live/play.m3u8?vid=34
 #EXTINF:-1 tvg-id="hanoi2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/hanoi2uhd.png", Hà Nội 2 UHD - Báo và PTTH Hà Nội (Luồng FPT PLAY)
-https://live.fptplay53.net/fnxch2/hntv2_abr.smil/chunklist.m3u8
+https://live.fptplay53.net/fnxhd1/hntv2_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:0 tvg-id="haiphong" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/StFk4PA.png",THP | Hải Phòng
 https://freem3u.xyz/api/live/play.m3u8?vid=60
@@ -367,7 +367,7 @@ https://livevlisctcdnw.seenow.vn/livesnv2/HC/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livevlisctcdnw.seenow.vn/livesnv2/INTHEBOX/manifest.mpd
+#https://livevlisctcdnw.seenow.vn/livesnv2/INTHEBOX/manifest.mpd
 
 #EXTINF:-1 tvg-id="boxhits" group-title=" In The Box" tvg-logo="https://i.imgur.com/kL9ubfw.png", Box Hits
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -387,28 +387,28 @@ https://livevlisctcdnw.seenow.vn/livesnv2/MUSICBOX/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livevlisctcdnw.seenow.vn/livesnv2/MAN/manifest.mpd
+#https://livevlisctcdnw.seenow.vn/livesnv2/MAN/manifest.mpd
 
 #EXTINF:-1 tvg-id="drfithd" group-title=" In The Box" tvg-logo="https://imgur.com/dwshpnw.png", Dr.Fit
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livevlisctcdnw.seenow.vn/livesnv2/DF/manifest.mpd
+#https://livevlisctcdnw.seenow.vn/livesnv2/DF/manifest.mpd
 
 #EXTINF:-1 tvg-id="happykids" group-title=" In The Box" tvg-logo="https://imgur.com/iY5dpte.png", Happy Kids
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livevlisctcdnw.seenow.vn/livesnv2/HK/manifest.mpd
+#https://livevlisctcdnw.seenow.vn/livesnv2/HK/manifest.mpd
 
 #EXTINF:-1 tvg-id="planetearthhd" group-title=" In The Box" tvg-logo="https://imgur.com/qkvaowM.png", Planet Earth
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livevlisctcdnw.seenow.vn/livesnv2/PE/manifest.mpd
+#https://livevlisctcdnw.seenow.vn/livesnv2/PE/manifest.mpd
 
 #EXTINF:-1 tvg-id="woman" group-title=" In The Box" tvg-logo="https://imgur.com/syLP7VU.png", Woman
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -434,15 +434,21 @@ http://42.115.209.229:8090/mytv/new/get.php?id=632
 http://42.115.209.229:8090/mytv/new/get.php?id=633
 
 #EXTINF:0 tvg-id="animalhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/TBgGuJy.png",Animal Planet (HD 8.5Mbps)
-https://ace.hoiquan.click/module/IPTV/?id=animalplanet&accKenh=vuminhthanh1
-
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec6f072c7125377a9bc0ae61598095f4:1d5388e0781415ebcec9914f5ad75875
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ap.smil/manifest.mpd
 #https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/ap.smil/manifest.mpd
 
 #EXTINF:0 tvg-id="afnhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/KL9oaqc.png",Asian Food Network (HD 6.5Mbps)
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="axnhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN (HD 8.5Mbps)
-https://ace.hoiquan.click/module/IPTV/?id=axn&accKenh=vuminhthanh1
-
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9d29f87efdec3c9fab368f724a62ad0e:6f1c09c035eab36323d60d1454db3d20
+https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/axn.smil/manifest.mpd
 #https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/axn.smil/manifest.mpd
 
 #EXTINF:0 tvg-id="" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/0t99xJZ.png",BBC CBeeBies (HD 9Mbps)
@@ -452,21 +458,28 @@ https://ace.hoiquan.click/module/IPTV/?id=axn&accKenh=vuminhthanh1
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"uDPR9AwmHveIlvl+BvgM3A","kid":"zKc6AGtLOaWVIHzrXtnKCg"}],"type":"temporary"}
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cbb.smil/manifest.mpd
 #EXTINF:0 tvg-id="bbcearth" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/qUiM77S.png",BBC Earth (HD 10Mbps)
-https://ace.hoiquan.click/module/IPTV/?id=Bbceath&accKenh=vuminhthanh1
-
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5014941a2c42379880b5edf72304c165:f3fa0fe3cd39a52f4eefd36ff7161e89
+https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/bbcearth.smil/manifest.mpd
 
 #https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/bbcearth.smil/manifest.mpd
 
 
 #EXTINF:0 tvg-id="bbclifestyle" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/i7aYwdZ.png",BBC Lifestyle (HD 9Mbps)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://ace.hoiquan.click/module/IPTV/?id=Bbclifestyle&accKenh=vuminhthanh1
-
-#https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/bbclifestyle.smil/manifest.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=58b949986ed13294bc01b0f330abc527:23e8c5f2fe202906ac2d6554d9527299
+https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/bbclifestyle.smil/manifest.mpd
 
 #EXTINF:0 tvg-id="bbcworldnews" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/hsByQfe.png",BBC News (HD 9Mbps)
-http://42.115.209.229:8090/225.1.4.22:30120
-
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c7ba46086dda345a929e29bf155e459c:d374b8f39904bf572689ea347ae86591
+https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/bbcworldnews.smil/manifest.mpd
 
 #https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bbcworldnews.smil/manifest.mpd
 
@@ -474,13 +487,15 @@ http://42.115.209.229:8090/225.1.4.22:30120
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/oldkey/tv.xml
-#https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bloomberg.smil/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=1071393f8fc237f3a9a28028142110f7:7a0f8c3c72e0ffff811d534c929c57c2
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bloomberg.smil/manifest.mpd
 
 #EXTINF:0 tvg-id="boomerang" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/C8nDHeY.png",Cartoonito (HD 8Mbps)
-https://ace.hoiquan.click/module/IPTV/?id=cartoonito&accKenh=vuminhthanh1
-
-#https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/boomerang.smil/manifest.mpd
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b1f0d759e914369db388b3b0dc815971:5678d317e17007a88a9b9539e4526512
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/boomerang.smil/manifest.mpd
 
 #EXTINF:0 tvg-id="cartoonhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/6oXQdBZ.png",Cartoon Network (HD 8.5Mbps)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -510,8 +525,11 @@ https://freem3u.xyz/api/live/play.m3u8?vid=112
 
 
 #EXTINF:0 tvg-id="cnn" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/RCd9AM9.png",CNN (HD 8Mbps)
-http://42.115.209.229:8090/225.1.4.17:30120
-
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=714cc8ed05a03abb9ac61bd4bbd1d8a0:1acf58ff8d4cd87c2d3c12d22248efb1
+https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/cnn.smil/manifest.mpd
 
 #https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cnn.smil/manifest.mpd
 
@@ -520,7 +538,10 @@ https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:0 tvg-id="discoveryasiahd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/STCTI1F.png",Discovery Asia (HD 9.5Mbps)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://ace.hoiquan.click/module/IPTV/?id=discoveryasia&accKenh=vuminhthanh1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=934907b134be3963a6263a453846924c:788e2835fb98568aed2f47bbdc091515
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd
 
 #https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd
 
@@ -550,13 +571,19 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dreamwork.smil/manifest.mpd
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 #rtp://@232.84.2.233:10416
 #EXTINF:0 tvg-id="abcaustralia" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/UI80qhw.png",ABC Australia
-https://ace.hoiquan.click/module/IPTV/?id=abcaustralia&accKenh=vuminhthanh1
-#EXTINF:0 tvg-id="" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/H0hAm72.png",CNBC
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9a09a73ec1dc348584e2f130e27da667:06f8d1a6feaffbdab92adf347e7b469c
+https://s935.cdn.mytvnet.vn/pkg20/live_dzones/aplus.smil/manifest.mpd#EXTINF:0 tvg-id="" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/H0hAm72.png",CNBC
 https://freem3u.xyz/api/live/play.m3u8?vid=9855
 
 #EXTINF:0 tvg-id="fashionhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/ALDt1JX.png",Fashion TV (HD 8.5Mbps)
-https://ace.hoiquan.click/module/IPTV/?id=fashiontv&accKenh=vuminhthanh1
-
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c1d9f25701023508bfa6737e3a8c7001:30c3613e9b06e0f7cc201014f31bf5d8
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ftv.smil/manifest.mpd
 
 #https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ftv.smil/manifest.mpd
 #EXTINF:0 tvg-id="hbohd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO (HD 8.5Mbps)
@@ -573,8 +600,11 @@ https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="outdoorhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/x4zXtYX.png",Outdoor (HD 7.5Mbps)
 https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="tlchd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/ZStxdQI.png",TLC (HD 8.5Mbps)
-https://ace.hoiquan.click/module/IPTV/?id=tlc&accKenh=vuminhthanh1
-
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b6908629732639ada4814a6208296d9c:7ca9bf03623f77b5e2f16df0b53f274d
+https://s129135.cdn.mytvnet.vn/pkg20/live_dzones/tlc.smil/manifest.mpd
 #https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/tlc.smil/manifest.mpd
 
 #EXTINF:0 tvg-id="warnertvhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV (HD 8.5Mbps)
