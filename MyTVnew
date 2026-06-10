@@ -61,7 +61,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=2
 
 #EXTINF:0 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2 (TV360)
 #EXTVLCOPT:http-user-agent=cvmedia/1.1.0
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=3
+https://sgclient.duckdns.org/source/tv360.m3u8?id=3
 
 #https://vips-livecdn.fptplay.net/live/media/VTV2HD/live_hls_avc/index.m3u8
 
@@ -69,13 +69,13 @@ https://vpsttt.vietanhtv.top/tv360/tv360.php?id=3
 
 #EXTINF:0 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3 (TV360)
 #EXTVLCOPT:http-user-agent=cvmedia/1.1.0
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=4
+https://sgclient.duckdns.org/source/tv360.m3u8?id=4
 #https://vips-livecdn.fptplay.net/live/media/VTV3HD/live_hls_avc/index.m3u8
 
 #https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4 (TV360)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=108
+https://sgclient.duckdns.org/source/tv360.m3u8?id=108
 #https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5 (TV360)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -84,33 +84,33 @@ https://freem3u.xyz/api/live/play.m3u8?vid=110
 
 #EXTINF:0 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV6.png",VTV6 (FPT Play)
 #EXTVLCOPT:http-user-agent=cvmedia/1.1.0
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=10043
+https://sgclient.duckdns.org/source/tv360.m3u8?id=10043
 
 
 
 #EXTINF:0 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7 (TV360)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=6
+https://sgclient.duckdns.org/source/tv360.m3u8?id=6
 #https://live-a.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist.m3u8
 
 #EXTINF:0 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8 (TV360)
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=115/index.m3u8
+https://sgclient.duckdns.org/source/tv360.m3u8?id=115/index.m3u8
 https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9 (TV360)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=8
+https://sgclient.duckdns.org/source/tv360.m3u8?id=8
 #https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv9-hd/KenhCoBan.m3u8
 #EXTINF:0 tvg-id="vtv10hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV10.png",VTV10 (TV360)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=98
+https://sgclient.duckdns.org/source/tv360.m3u8?id=98
 #https://live-a.fptplay53.net/live/media/VTV_can_tho/live_hls_avc/index.m3u8
 
 #https://live.fptplay53.net/fnxhd1/vtvcantho_vhls.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ (TV360)
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=157
+https://sgclient.duckdns.org/source/tv360.m3u8?id=157
 #https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên (TV360)
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=207
+https://sgclient.duckdns.org/source/tv360.m3u8?id=207
 #https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="vietnamtoday" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV_VietnamToday.png",Vietnam Today (TV360)
 https://freem3u.xyz/api/live/play.m3u8?vid=9951
@@ -583,7 +583,7 @@ https://livevlisctcdnw.seenow.vn/livesnv2/MUSICBOX/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 #https://livevlisctcdnw.seenow.vn/livesnv2/PE/manifest.mpd
 
-#EXTINF:-1 tvg-id="woman" group-title=" In The Box" tvg-logo="https://imgur.com/syLP7VU.png", Woman
+#EXTINF:-1 tvg-id="woman" group-title="In The Box" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822442611/f6b738c3d05a_640_360.png", Woman
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
